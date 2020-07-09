@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([[3],{
 
 /***/ "../../node_modules/@apollo/react-ssr/lib/react-ssr.esm.js":
-/*!**************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@apollo/react-ssr/lib/react-ssr.esm.js ***!
-  \**************************************************************************************************************************************/
+/*!*********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@apollo/react-ssr/lib/react-ssr.esm.js ***!
+  \*********************************************************************************************************************************************/
 /*! exports provided: getDataFromTree, getMarkupFromTree, renderToStringWithData */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -57,9 +57,9 @@ function renderToStringWithData(component) {
 /***/ }),
 
 /***/ "../../node_modules/react-dom/cjs/react-dom-server.browser.development.js":
-/*!*****************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-dom/cjs/react-dom-server.browser.development.js ***!
-  \*****************************************************************************************************************************************************/
+/*!************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-dom/cjs/react-dom-server.browser.development.js ***!
+  \************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -4375,9 +4375,9 @@ module.exports = server_browser;
 /***/ }),
 
 /***/ "../../node_modules/react-dom/server.browser.js":
-/*!***************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-dom/server.browser.js ***!
-  \***************************************************************************************************************************/
+/*!**********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-dom/server.browser.js ***!
+  \**********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
