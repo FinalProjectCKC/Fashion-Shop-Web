@@ -23,27 +23,11 @@
       "static/runtime/polyfills.js",
       "static/runtime/polyfills.js.map"
     ],
-    "/bags": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/book": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/clothing": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
     "/index": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
-    "/next/dist/pages/_error": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/offer": [
+    "/order-recived": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ]

@@ -41,7 +41,7 @@ import HeaderWrapper, {
   Flag,
   TypeIcon,
 } from "./Header.style";
-import Logoimage from "image/logo.svg";
+import Logoimage from "image/logo_text.svg";
 import UserImage from "image/user.jpg";
 import {
   HOME_PAGE,

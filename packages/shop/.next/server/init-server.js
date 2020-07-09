@@ -94,9 +94,9 @@ module.exports =
 /******/ ({
 
 /***/ "../../node_modules/next/dist/build/webpack/loaders/next-plugin-loader.js?middleware=on-init-server!./":
-/*!*******************************************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/next/dist/build/webpack/loaders/next-plugin-loader.js?middleware=on-init-server ***!
-  \*******************************************************************************************************************************************************************************/
+/*!**************************************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/next/dist/build/webpack/loaders/next-plugin-loader.js?middleware=on-init-server ***!
+  \**************************************************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 

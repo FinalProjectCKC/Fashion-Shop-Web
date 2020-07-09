@@ -127,9 +127,9 @@ module.exports =
 /******/ ({
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/define-property.js":
-/*!********************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/core-js/object/define-property.js ***!
-  \********************************************************************************************************************************************************/
+/*!***************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/core-js/object/define-property.js ***!
+  \***************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -138,9 +138,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/define-proper
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js":
-/*!********************************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js ***!
-  \********************************************************************************************************************************************************************/
+/*!***************************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js ***!
+  \***************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -149,9 +149,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/get-own-prope
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/symbol.js":
-/*!****************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/core-js/symbol.js ***!
-  \****************************************************************************************************************************************/
+/*!***********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/core-js/symbol.js ***!
+  \***********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -160,9 +160,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/symbol */ "core-js/l
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/symbol/iterator.js":
-/*!*************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/core-js/symbol/iterator.js ***!
-  \*************************************************************************************************************************************************/
+/*!********************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/core-js/symbol/iterator.js ***!
+  \********************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -171,9 +171,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/symbol/iterator */ "
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/weak-map.js":
-/*!******************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/core-js/weak-map.js ***!
-  \******************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/core-js/weak-map.js ***!
+  \*************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -182,9 +182,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/weak-map */ "core-js
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js":
-/*!*******************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js ***!
-  \*******************************************************************************************************************************************************/
+/*!**************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js ***!
+  \**************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -199,9 +199,9 @@ module.exports = _interopRequireDefault;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/interopRequireWildcard.js":
-/*!********************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/helpers/interopRequireWildcard.js ***!
-  \********************************************************************************************************************************************************/
+/*!***************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/helpers/interopRequireWildcard.js ***!
+  \***************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -270,9 +270,9 @@ module.exports = _interopRequireWildcard;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/typeof.js":
-/*!****************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/helpers/typeof.js ***!
-  \****************************************************************************************************************************************/
+/*!***********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/helpers/typeof.js ***!
+  \***********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -301,9 +301,9 @@ module.exports = _typeof;
 /***/ }),
 
 /***/ "../../node_modules/@redq/reuse-modal/lib/index.css":
-/*!*******************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@redq/reuse-modal/lib/index.css ***!
-  \*******************************************************************************************************************************/
+/*!**************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@redq/reuse-modal/lib/index.css ***!
+  \**************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -312,9 +312,9 @@ module.exports = _typeof;
 /***/ }),
 
 /***/ "../../node_modules/next/app.js":
-/*!***********************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/next/app.js ***!
-  \***********************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/next/app.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -324,9 +324,9 @@ module.exports = __webpack_require__(/*! ./dist/pages/_app */ "../../node_module
 /***/ }),
 
 /***/ "../../node_modules/next/dist/client/link.js":
-/*!************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/next/dist/client/link.js ***!
-  \************************************************************************************************************************/
+/*!*******************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/next/dist/client/link.js ***!
+  \*******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -635,9 +635,9 @@ exports.default = _default;
 /***/ }),
 
 /***/ "../../node_modules/next/dist/client/router.js":
-/*!**************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/next/dist/client/router.js ***!
-  \**************************************************************************************************************************/
+/*!*********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/next/dist/client/router.js ***!
+  \*********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -797,9 +797,9 @@ function makePublicRouterInstance(router) {
 /***/ }),
 
 /***/ "../../node_modules/next/dist/client/with-router.js":
-/*!*******************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/next/dist/client/with-router.js ***!
-  \*******************************************************************************************************************************/
+/*!**************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/next/dist/client/with-router.js ***!
+  \**************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -837,9 +837,9 @@ function withRouter(ComposedComponent) {
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/mitt.js":
-/*!*********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/next/dist/next-server/lib/mitt.js ***!
-  \*********************************************************************************************************************************/
+/*!****************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/next/dist/next-server/lib/mitt.js ***!
+  \****************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -892,9 +892,9 @@ exports.default = mitt;
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/router-context.js":
-/*!*******************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/next/dist/next-server/lib/router-context.js ***!
-  \*******************************************************************************************************************************************/
+/*!**************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/next/dist/next-server/lib/router-context.js ***!
+  \**************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -920,9 +920,9 @@ exports.RouterContext = React.createContext(null);
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/router/router.js":
-/*!******************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/next/dist/next-server/lib/router/router.js ***!
-  \******************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/next/dist/next-server/lib/router/router.js ***!
+  \*************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1567,9 +1567,9 @@ Router.events = mitt_1.default();
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/router/utils/is-dynamic.js":
-/*!****************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/next/dist/next-server/lib/router/utils/is-dynamic.js ***!
-  \****************************************************************************************************************************************************/
+/*!***********************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/next/dist/next-server/lib/router/utils/is-dynamic.js ***!
+  \***********************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1591,9 +1591,9 @@ exports.isDynamicRoute = isDynamicRoute;
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/router/utils/route-matcher.js":
-/*!*******************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/next/dist/next-server/lib/router/utils/route-matcher.js ***!
-  \*******************************************************************************************************************************************************/
+/*!**************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/next/dist/next-server/lib/router/utils/route-matcher.js ***!
+  \**************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1635,9 +1635,9 @@ exports.getRouteMatcher = getRouteMatcher;
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/router/utils/route-regex.js":
-/*!*****************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/next/dist/next-server/lib/router/utils/route-regex.js ***!
-  \*****************************************************************************************************************************************************/
+/*!************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/next/dist/next-server/lib/router/utils/route-regex.js ***!
+  \************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1674,9 +1674,9 @@ exports.getRouteRegex = getRouteRegex;
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/utils.js":
-/*!**********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/next/dist/next-server/lib/utils.js ***!
-  \**********************************************************************************************************************************/
+/*!*****************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/next/dist/next-server/lib/utils.js ***!
+  \*****************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1809,9 +1809,9 @@ exports.ST = exports.SP && typeof performance.mark === 'function' && typeof perf
 /***/ }),
 
 /***/ "../../node_modules/next/dist/pages/_app.js":
-/*!***********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/next/dist/pages/_app.js ***!
-  \***********************************************************************************************************************/
+/*!******************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/next/dist/pages/_app.js ***!
+  \******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1942,9 +1942,9 @@ function createUrl(router) {
 /***/ }),
 
 /***/ "../../node_modules/next/link.js":
-/*!************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/next/link.js ***!
-  \************************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/next/link.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1954,9 +1954,9 @@ module.exports = __webpack_require__(/*! ./dist/client/link */ "../../node_modul
 /***/ }),
 
 /***/ "../../node_modules/next/node_modules/react-is/cjs/react-is.development.js":
-/*!******************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/next/node_modules/react-is/cjs/react-is.development.js ***!
-  \******************************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/next/node_modules/react-is/cjs/react-is.development.js ***!
+  \*************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2193,9 +2193,9 @@ exports.isSuspense = isSuspense;
 /***/ }),
 
 /***/ "../../node_modules/next/node_modules/react-is/index.js":
-/*!***********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/next/node_modules/react-is/index.js ***!
-  \***********************************************************************************************************************************/
+/*!******************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/next/node_modules/react-is/index.js ***!
+  \******************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2210,9 +2210,9 @@ if (false) {} else {
 /***/ }),
 
 /***/ "../../node_modules/rc-collapse/assets/index.css":
-/*!****************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/rc-collapse/assets/index.css ***!
-  \****************************************************************************************************************************/
+/*!***********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/rc-collapse/assets/index.css ***!
+  \***********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -2221,9 +2221,9 @@ if (false) {} else {
 /***/ }),
 
 /***/ "../../node_modules/rc-table/assets/index.css":
-/*!*************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/rc-table/assets/index.css ***!
-  \*************************************************************************************************************************/
+/*!********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/rc-table/assets/index.css ***!
+  \********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -2232,9 +2232,9 @@ if (false) {} else {
 /***/ }),
 
 /***/ "../../node_modules/react-multi-carousel/lib/styles.css":
-/*!***********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-multi-carousel/lib/styles.css ***!
-  \***********************************************************************************************************************************/
+/*!******************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-multi-carousel/lib/styles.css ***!
+  \******************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -2358,7 +2358,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "FurnitureIcon", function() { return FurnitureIcon; });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/components/AllSvgIcon.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/components/AllSvgIcon.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
@@ -14339,7 +14339,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Button_style__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Button.style */ "./components/Button/Button.style.tsx");
 /* harmony import */ var react_intl__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react-intl */ "react-intl");
 /* harmony import */ var react_intl__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react_intl__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/components/Button/Button.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/components/Button/Button.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
@@ -14450,7 +14450,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(next_router__WEBPACK_IMPORTED_MODULE_3__);
 /* harmony import */ var react_intl__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! react-intl */ "react-intl");
 /* harmony import */ var react_intl__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(react_intl__WEBPACK_IMPORTED_MODULE_4__);
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/components/NavLink/NavLink.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/components/NavLink/NavLink.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -14563,7 +14563,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _Popover_style__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Popover.style */ "./components/Popover/Popover.style.tsx");
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/components/Popover/Popover.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/components/Popover/Popover.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -14664,7 +14664,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _SearchBox_style__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./SearchBox.style */ "./components/SearchBox/SearchBox.style.tsx");
 /* harmony import */ var react_intl__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react-intl */ "react-intl");
 /* harmony import */ var react_intl__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react_intl__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/components/SearchBox/Input.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/components/SearchBox/Input.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -14842,7 +14842,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _SearchResults__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./SearchResults */ "./components/SearchBox/SearchResults.tsx");
 /* harmony import */ var _SearchBox_style__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./SearchBox.style */ "./components/SearchBox/SearchBox.style.tsx");
 /* harmony import */ var _AllSvgIcon__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../AllSvgIcon */ "./components/AllSvgIcon.tsx");
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/components/SearchBox/SearchBox.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/components/SearchBox/SearchBox.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 
@@ -15012,7 +15012,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _SearchBox_style__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./SearchBox.style */ "./components/SearchBox/SearchBox.style.tsx");
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/components/SearchBox/SearchResults.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/components/SearchBox/SearchResults.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
@@ -15165,7 +15165,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Header_Header__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./Header/Header */ "./containers/LayoutContainer/Header/Header.tsx");
 /* harmony import */ var contexts_app_app_provider__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! contexts/app/app.provider */ "./contexts/app/app.provider.ts");
 /* harmony import */ var constants_navigation__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! constants/navigation */ "./constants/navigation.ts");
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/containers/LayoutContainer/AppLayout.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/containers/LayoutContainer/AppLayout.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -15457,12 +15457,12 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var contexts_language_language_context__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! contexts/language/language.context */ "./contexts/language/language.context.js");
 /* harmony import */ var components_AllSvgIcon__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! components/AllSvgIcon */ "./components/AllSvgIcon.tsx");
 /* harmony import */ var _Header_style__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./Header.style */ "./containers/LayoutContainer/Header/Header.style.tsx");
-/* harmony import */ var image_logo_svg__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! image/logo.svg */ "./image/logo.svg");
-/* harmony import */ var image_logo_svg__WEBPACK_IMPORTED_MODULE_15___default = /*#__PURE__*/__webpack_require__.n(image_logo_svg__WEBPACK_IMPORTED_MODULE_15__);
+/* harmony import */ var image_logo_text_svg__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! image/logo_text.svg */ "./image/logo_text.svg");
+/* harmony import */ var image_logo_text_svg__WEBPACK_IMPORTED_MODULE_15___default = /*#__PURE__*/__webpack_require__.n(image_logo_text_svg__WEBPACK_IMPORTED_MODULE_15__);
 /* harmony import */ var image_user_jpg__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! image/user.jpg */ "./image/user.jpg");
 /* harmony import */ var image_user_jpg__WEBPACK_IMPORTED_MODULE_16___default = /*#__PURE__*/__webpack_require__.n(image_user_jpg__WEBPACK_IMPORTED_MODULE_16__);
 /* harmony import */ var constants_navigation__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! constants/navigation */ "./constants/navigation.ts");
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/containers/LayoutContainer/Header/Header.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/containers/LayoutContainer/Header/Header.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 function _objectWithoutProperties(source, excluded) { if (source == null) return {}; var target = _objectWithoutPropertiesLoose(source, excluded); var key, i; if (Object.getOwnPropertySymbols) { var sourceSymbolKeys = Object.getOwnPropertySymbols(source); for (i = 0; i < sourceSymbolKeys.length; i++) { key = sourceSymbolKeys[i]; if (excluded.indexOf(key) >= 0) continue; if (!Object.prototype.propertyIsEnumerable.call(source, key)) continue; target[key] = source[key]; } } return target; }
@@ -15833,7 +15833,7 @@ const Header = ({
     },
     __self: undefined
   }, __jsx("img", {
-    src: image_logo_svg__WEBPACK_IMPORTED_MODULE_15___default.a,
+    src: image_logo_text_svg__WEBPACK_IMPORTED_MODULE_15___default.a,
     alt: "pickbazar-admin",
     __source: {
       fileName: _jsxFileName,
@@ -16036,7 +16036,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_intl__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react-intl */ "react-intl");
 /* harmony import */ var react_intl__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react_intl__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var contexts_auth_auth_context__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! contexts/auth/auth.context */ "./contexts/auth/auth.context.tsx");
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/containers/SignInOutForm/ForgotPass.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/containers/SignInOutForm/ForgotPass.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -16049,7 +16049,7 @@ function ForgotPassModal() {
 
   const toggleSignInForm = () => {
     authDispatch({
-      type: 'SIGNIN'
+      type: "SIGNIN"
     });
   };
 
@@ -16114,10 +16114,10 @@ function ForgotPassModal() {
     __self: this
   })), __jsx(_SignInOutForm_style__WEBPACK_IMPORTED_MODULE_1__["Button"], {
     fullwidth: true,
-    title: 'Reset Password',
+    title: "Reset Password",
     intlButtonId: "resetPasswordBtn",
     style: {
-      color: '#fff'
+      color: "#fff"
     },
     __source: {
       fileName: _jsxFileName,
@@ -16126,7 +16126,7 @@ function ForgotPassModal() {
     __self: this
   }), __jsx(_SignInOutForm_style__WEBPACK_IMPORTED_MODULE_1__["Offer"], {
     style: {
-      padding: '20px 0 0'
+      padding: "20px 0 0"
     },
     __source: {
       fileName: _jsxFileName,
@@ -16141,7 +16141,7 @@ function ForgotPassModal() {
       lineNumber: 60
     },
     __self: this
-  }), ' ', __jsx(_SignInOutForm_style__WEBPACK_IMPORTED_MODULE_1__["LinkButton"], {
+  }), " ", __jsx(_SignInOutForm_style__WEBPACK_IMPORTED_MODULE_1__["LinkButton"], {
     onClick: toggleSignInForm,
     __source: {
       fileName: _jsxFileName,
@@ -16177,7 +16177,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _SignUp__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./SignUp */ "./containers/SignInOutForm/SignUp.tsx");
 /* harmony import */ var _ForgotPass__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./ForgotPass */ "./containers/SignInOutForm/ForgotPass.tsx");
 /* harmony import */ var contexts_auth_auth_context__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! contexts/auth/auth.context */ "./contexts/auth/auth.context.tsx");
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/containers/SignInOutForm/Form.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/containers/SignInOutForm/Form.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -16232,7 +16232,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_intl__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(react_intl__WEBPACK_IMPORTED_MODULE_4__);
 /* harmony import */ var _redq_reuse_modal__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @redq/reuse-modal */ "@redq/reuse-modal");
 /* harmony import */ var _redq_reuse_modal__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_redq_reuse_modal__WEBPACK_IMPORTED_MODULE_5__);
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/containers/SignInOutForm/SignIn.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/containers/SignInOutForm/SignIn.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -16244,18 +16244,18 @@ function SignInModal() {
   const {
     authDispatch
   } = Object(react__WEBPACK_IMPORTED_MODULE_0__["useContext"])(contexts_auth_auth_context__WEBPACK_IMPORTED_MODULE_3__["AuthContext"]);
-  const [email, setEmail] = react__WEBPACK_IMPORTED_MODULE_0___default.a.useState('');
-  const [password, setPassword] = react__WEBPACK_IMPORTED_MODULE_0___default.a.useState('');
+  const [email, setEmail] = react__WEBPACK_IMPORTED_MODULE_0___default.a.useState("");
+  const [password, setPassword] = react__WEBPACK_IMPORTED_MODULE_0___default.a.useState("");
 
   const toggleSignUpForm = () => {
     authDispatch({
-      type: 'SIGNUP'
+      type: "SIGNUP"
     });
   };
 
   const toggleForgotPassForm = () => {
     authDispatch({
-      type: 'FORGOTPASS'
+      type: "FORGOTPASS"
     });
   };
 
@@ -16350,11 +16350,11 @@ function SignInModal() {
     __self: this
   })), __jsx(_SignInOutForm_style__WEBPACK_IMPORTED_MODULE_1__["Button"], {
     fullwidth: true,
-    title: 'Continue',
+    title: "Continue",
     intlButtonId: "continueBtn",
     type: "submit",
     style: {
-      color: '#fff'
+      color: "#fff"
     },
     __source: {
       fileName: _jsxFileName,
@@ -16383,7 +16383,7 @@ function SignInModal() {
     __self: this
   }))), __jsx(_SignInOutForm_style__WEBPACK_IMPORTED_MODULE_1__["Button"], {
     fullwidth: true,
-    title: 'Continue with Facebook',
+    title: "Continue with Facebook",
     className: "facebook",
     icon: __jsx(components_AllSvgIcon__WEBPACK_IMPORTED_MODULE_2__["Facebook"], {
       __source: {
@@ -16394,13 +16394,13 @@ function SignInModal() {
     }),
     iconPosition: "left",
     iconStyle: {
-      color: '#ffffff',
+      color: "#ffffff",
       marginRight: 5
     },
     intlButtonId: "continueFacebookBtn",
     onClick: loginCallback,
     style: {
-      color: '#fff'
+      color: "#fff"
     },
     __source: {
       fileName: _jsxFileName,
@@ -16409,7 +16409,7 @@ function SignInModal() {
     __self: this
   }), __jsx(_SignInOutForm_style__WEBPACK_IMPORTED_MODULE_1__["Button"], {
     fullwidth: true,
-    title: 'Continue with Google',
+    title: "Continue with Google",
     className: "google",
     icon: __jsx(components_AllSvgIcon__WEBPACK_IMPORTED_MODULE_2__["Google"], {
       __source: {
@@ -16420,13 +16420,13 @@ function SignInModal() {
     }),
     iconPosition: "left",
     iconStyle: {
-      color: '#ffffff',
+      color: "#ffffff",
       marginRight: 5
     },
     intlButtonId: "continueGoogleBtn",
     onClick: loginCallback,
     style: {
-      color: '#fff'
+      color: "#fff"
     },
     __source: {
       fileName: _jsxFileName,
@@ -16435,7 +16435,7 @@ function SignInModal() {
     __self: this
   }), __jsx(_SignInOutForm_style__WEBPACK_IMPORTED_MODULE_1__["Offer"], {
     style: {
-      padding: '20px 0'
+      padding: "20px 0"
     },
     __source: {
       fileName: _jsxFileName,
@@ -16450,7 +16450,7 @@ function SignInModal() {
       lineNumber: 134
     },
     __self: this
-  }), ' ', __jsx(_SignInOutForm_style__WEBPACK_IMPORTED_MODULE_1__["LinkButton"], {
+  }), " ", __jsx(_SignInOutForm_style__WEBPACK_IMPORTED_MODULE_1__["LinkButton"], {
     onClick: toggleSignUpForm,
     __source: {
       fileName: _jsxFileName,
@@ -16485,7 +16485,7 @@ function SignInModal() {
       lineNumber: 146
     },
     __self: this
-  }), ' ', __jsx(_SignInOutForm_style__WEBPACK_IMPORTED_MODULE_1__["LinkButton"], {
+  }), " ", __jsx(_SignInOutForm_style__WEBPACK_IMPORTED_MODULE_1__["LinkButton"], {
     onClick: toggleForgotPassForm,
     __source: {
       fileName: _jsxFileName,
@@ -16604,7 +16604,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var contexts_auth_auth_context__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! contexts/auth/auth.context */ "./contexts/auth/auth.context.tsx");
 /* harmony import */ var react_intl__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! react-intl */ "react-intl");
 /* harmony import */ var react_intl__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(react_intl__WEBPACK_IMPORTED_MODULE_5__);
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/containers/SignInOutForm/SignUp.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/containers/SignInOutForm/SignUp.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -16619,7 +16619,7 @@ function SignOutModal() {
 
   const toggleSignInForm = () => {
     authDispatch({
-      type: 'SIGNIN'
+      type: "SIGNIN"
     });
   };
 
@@ -16697,7 +16697,7 @@ function SignOutModal() {
     __self: this
   })), __jsx(_SignInOutForm_style__WEBPACK_IMPORTED_MODULE_2__["HelperText"], {
     style: {
-      padding: '20px 0 30px'
+      padding: "20px 0 30px"
     },
     __source: {
       fileName: _jsxFileName,
@@ -16712,7 +16712,7 @@ function SignOutModal() {
       lineNumber: 64
     },
     __self: this
-  }), ' ', __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+  }), " ", __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
     href: "/",
     __source: {
       fileName: _jsxFileName,
@@ -16735,10 +16735,10 @@ function SignOutModal() {
     __self: this
   })))), __jsx(_SignInOutForm_style__WEBPACK_IMPORTED_MODULE_2__["Button"], {
     fullwidth: true,
-    title: 'Continue',
+    title: "Continue",
     intlButtonId: "continueBtn",
     style: {
-      color: '#fff'
+      color: "#fff"
     },
     __source: {
       fileName: _jsxFileName,
@@ -16767,7 +16767,7 @@ function SignOutModal() {
     __self: this
   }))), __jsx(_SignInOutForm_style__WEBPACK_IMPORTED_MODULE_2__["Button"], {
     fullwidth: true,
-    title: 'Continue with Facebook',
+    title: "Continue with Facebook",
     iconPosition: "left",
     className: "facebook",
     icon: __jsx(components_AllSvgIcon__WEBPACK_IMPORTED_MODULE_3__["Facebook"], {
@@ -16778,12 +16778,12 @@ function SignOutModal() {
       __self: this
     }),
     iconStyle: {
-      color: '#ffffff',
+      color: "#ffffff",
       marginRight: 5
     },
     intlButtonId: "continueFacebookBtn",
     style: {
-      color: '#fff'
+      color: "#fff"
     },
     __source: {
       fileName: _jsxFileName,
@@ -16792,7 +16792,7 @@ function SignOutModal() {
     __self: this
   }), __jsx(_SignInOutForm_style__WEBPACK_IMPORTED_MODULE_2__["Button"], {
     fullwidth: true,
-    title: 'Continue with Google',
+    title: "Continue with Google",
     className: "google",
     iconPosition: "left",
     icon: __jsx(components_AllSvgIcon__WEBPACK_IMPORTED_MODULE_3__["Google"], {
@@ -16803,12 +16803,12 @@ function SignOutModal() {
       __self: this
     }),
     iconStyle: {
-      color: '#ffffff',
+      color: "#ffffff",
       marginRight: 5
     },
     intlButtonId: "continueGoogleBtn",
     style: {
-      color: '#fff'
+      color: "#fff"
     },
     __source: {
       fileName: _jsxFileName,
@@ -16817,7 +16817,7 @@ function SignOutModal() {
     __self: this
   }), __jsx(_SignInOutForm_style__WEBPACK_IMPORTED_MODULE_2__["Offer"], {
     style: {
-      padding: '20px 0'
+      padding: "20px 0"
     },
     __source: {
       fileName: _jsxFileName,
@@ -16832,7 +16832,7 @@ function SignOutModal() {
       lineNumber: 113
     },
     __self: this
-  }), ' ', __jsx(_SignInOutForm_style__WEBPACK_IMPORTED_MODULE_2__["LinkButton"], {
+  }), " ", __jsx(_SignInOutForm_style__WEBPACK_IMPORTED_MODULE_2__["LinkButton"], {
     onClick: toggleSignInForm,
     __source: {
       fileName: _jsxFileName,
@@ -16959,7 +16959,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _auth_context__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./auth.context */ "./contexts/auth/auth.context.tsx");
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/contexts/auth/auth.provider.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/contexts/auth/auth.provider.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); if (enumerableOnly) symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }
@@ -17066,7 +17066,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var helper_localStorage__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! helper/localStorage */ "./helper/localStorage.ts");
 /* harmony import */ var helper_utility__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! helper/utility */ "./helper/utility.ts");
 /* harmony import */ var _cart_context__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./cart.context */ "./contexts/cart/cart.context.tsx");
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/contexts/cart/cart.provider.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/contexts/cart/cart.provider.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); if (enumerableOnly) symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }
@@ -17327,7 +17327,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "useCreateContext", function() { return useCreateContext; });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/contexts/create-context.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/contexts/create-context.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 function useCreateContext(defaultValue, reducer) {
@@ -17427,7 +17427,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var stylis_plugin_rtl__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! stylis-plugin-rtl */ "stylis-plugin-rtl");
 /* harmony import */ var stylis_plugin_rtl__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(stylis_plugin_rtl__WEBPACK_IMPORTED_MODULE_5__);
 /* harmony import */ var styled_global_style__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! styled/global.style */ "./styled/global.style.tsx");
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/contexts/language/language.provider.js";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/contexts/language/language.provider.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -17569,7 +17569,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _search_context__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./search.context */ "./contexts/search/search.context.tsx");
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/contexts/search/search.provider.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/contexts/search/search.provider.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); if (enumerableOnly) symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }
@@ -17974,14 +17974,14 @@ const cartAnimation = event => {
 
 /***/ }),
 
-/***/ "./image/logo.svg":
-/*!************************!*\
-  !*** ./image/logo.svg ***!
-  \************************/
+/***/ "./image/logo_text.svg":
+/*!*****************************!*\
+  !*** ./image/logo_text.svg ***!
+  \*****************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDkuMTI0IiBoZWlnaHQ9IjE4IiB2aWV3Qm94PSIwIDAgMTA5LjEyNCAxOCI+CiAgPGcgaWQ9Ikdyb3VwXzI4MjkiIGRhdGEtbmFtZT0iR3JvdXAgMjgyOSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTgyIC0zODguODQ4KSI+CiAgICA8cGF0aCBpZD0iUGF0aF8yNjkwIiBkYXRhLW5hbWU9IlBhdGggMjY5MCIgZD0iTS0xODIsMzk3bDIuMDcyLjAyNmMxLjc0Mi4wMjEsMy40OTEtLjA1MSw1LjIyNC4wODVhNS4yLDUuMiwwLDAsMSw0LjgsNC4xNjEsNS4yMjIsNS4yMjIsMCwwLDEtNC40MjMsNi40ODQsMjEuNjYyLDIxLjY2MiwwLDAsMS0zLjQyMi4xMTdjLS4zOTMsMC0uNDg2LjEyNC0uNDgyLjUuMDE5LDEuNy4wMDgsMy40MDYuMDA4LDUuMTA5di41MzRILTE4MlptMy44MzIsNy42NjljLjQ3LDAsLjkuMDE3LDEuMzE4LDBhMTAuNDQ5LDEwLjQ0OSwwLDAsMCwxLjc4MS0uMTUzLDEuOTQ0LDEuOTQ0LDAsMCwwLDEuNTI3LTEuOTUsMS45NzQsMS45NzQsMCwwLDAtMS4yOTMtMi4wNCwxMC43NDgsMTAuNzQ4LDAsMCwwLTMuMzMyLS4yMjlaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwIC03LjUpIiBmaWxsPSIjMGQxMTM2Ii8+CiAgICA8cGF0aCBpZD0iUGF0aF8yNjkxIiBkYXRhLW5hbWU9IlBhdGggMjY5MSIgZD0iTTEwOTYuOTc0LDQ2NC4wMzhhNC4yNjksNC4yNjksMCwwLDAtMi4wMTMtLjAxOSwyLjUyMSwyLjUyMSwwLDAsMC0xLjksMi40MzFjLS4wNjksMS43NDEtLjA0NywzLjQ4NS0uMDYzLDUuMjI3LDAsLjIsMCwuNCwwLC42MjdoLTMuNTgxVjQ2MC40ODJoMy40NjZ2MS40MjVhMy4yNjYsMy4yNjYsMCwwLDEsMi4zNDktMS40NzcsMTAuOTQ2LDEwLjk0NiwwLDAsMSwxLjc0LjAxM1oiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0xMTY5Ljg1IC02NS44MykiIGZpbGw9IiMwMDhkNzEiLz4KICAgIDxwYXRoIGlkPSJQYXRoXzI2OTIiIGRhdGEtbmFtZT0iUGF0aCAyNjkyIiBkPSJNNDI5LjE1MSwzOTcuMjdjLjIsMCwuMzU4LDAsLjUxNiwwLDIuMjM2LjAyLDQuNDc4LS4wNjQsNi43LjA4OWE0LjQxMiw0LjQxMiwwLDAsMSw0LjI4MywzLjU4NSwzLjg3NiwzLjg3NiwwLDAsMS0yLjE4Miw0LjQyNS40LjQsMCwwLDAtLjA4OS4wNiwxMS4wMjgsMTEuMDI4LDAsMCwxLDEuNTE1LjkyOSw0LjMzOSw0LjMzOSwwLDAsMSwuNzY0LDUuNDMxLDQuNzYxLDQuNzYxLDAsMCwxLTQuMTk1LDIuNDI1Yy0yLjM5My4wODQtNC43OTEuMDI3LTcuMTg3LjAzYS41NDYuNTQ2LDAsMCwxLS4xMy0uMDM4Wm0zLjY2MywxMy45Yy43MjcsMCwxLjQxNiwwLDIuMSwwYTcuMDgzLDcuMDgzLDAsMCwwLC44LS4wMzMsMS45MzIsMS45MzIsMCwwLDAsMS44MS0xLjgsMS44MTYsMS44MTYsMCwwLDAtMS40MDYtMmMtMS4wNzgtLjE2NC0yLjE4NC0uMTU1LTMuMzA1LS4yMjJabTAtNy4xYy43NTksMCwxLjQ4OC4wMTksMi4yMTYtLjAwOWEzLjExOSwzLjExOSwwLDAsMCwuOTMtLjE5MywxLjY1LDEuNjUsMCwwLDAsMS4wOTItMS42ODUsMS41NjcsMS41NjcsMCwwLDAtMS4yMS0xLjYzNGMtLjk4Ny0uMTYtMi0uMTU5LTMuMDI4LS4yMjlaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtNTYyLjMyOCAtNy43NDQpIiBmaWxsPSIjMDA4ZDcxIi8+CiAgICA8cGF0aCBpZD0iUGF0aF8yNjkzIiBkYXRhLW5hbWU9IlBhdGggMjY5MyIgZD0iTTI1Ny4xNDYsNDAyLjY1NmMuODQ4LS45MzUsMS43NjEtMS44MiwyLjUyNS0yLjgxOWEyLjU0OCwyLjU0OCwwLDAsMSwyLjUtMS4xMTRjMS4wMjUuMSwyLjA2Ni4wMjEsMy4yMDguMDIxbC00LjYzNCw0Ljk4Miw0LjczNCw2LjljLTEuMywwLTIuNTE5LS4wMy0zLjczNy4wMTRhMS4wNjksMS4wNjksMCwwLDEtMS4wOC0uNTc3Yy0uNzY0LTEuMjE0LTEuNTgzLTIuMzkzLTIuNDE2LTMuNjM5LS40LjQzNi0uNzgxLjgzNi0xLjEzOCwxLjI1OC0uMDcxLjA4NC0uMDU4LjI1Mi0uMDU5LjM4MiwwLC44MzcsMCwxLjY3MywwLDIuNTM2aC0zLjU2N1YzOTMuMzI4aDMuNTU0djkuM1oiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC00MDAuNjg4IC00LjEyMikiIGZpbGw9IiMwZDExMzYiLz4KICAgIDxwYXRoIGlkPSJQYXRoXzI2OTQiIGRhdGEtbmFtZT0iUGF0aCAyNjk0IiBkPSJNNjEzLjU1OCw0NjguODA4aC0zLjE5NWwtLjEyNi0xLjE3NGExMi40MywxMi40MywwLDAsMS0xLjE4NS45NjhjLTEuNDEuOS00LjQ1OS44NzMtNS43NTctMS4yMzVhMy40NDUsMy40NDUsMCwwLDEsMi4zMjktNS4yMjhjMS4wNjktLjI1OCwyLjE3MS0uMzg0LDMuMjU3LS41Ny4wOTItLjAxNi4xODMtLjAzMy4yNzUtLjA0N2EuODA5LjgwOSwwLDAsMCwuNzcxLS41ODcsMS4wMTgsMS4wMTgsMCwwLDAtLjI5NS0xLjAyMywyLjA3MywyLjA3MywwLDAsMC0yLjA4NS0uNDI4LDEuODExLDEuODExLDAsMCwwLTEuMzM4LDEuMzQ1Yy0uMDE2LjA1LS4wMTMuMTA2LS4wMjYuMTU3YTEuMTQyLDEuMTQyLDAsMCwxLS4wNjMuMTQzYy0uNTEzLS4xLTEuMDMtLjItMS41NDctLjNzLTEuMDExLS4yMDktMS41NDYtLjMyMWEzLjY5LDMuNjksMCwwLDEsLjg1OS0yLjA3NSw0Ljc4OSw0Ljc4OSwwLDAsMSwyLjgyMy0xLjY3OCw3LjIzLDcuMjMsMCwwLDEsNC4xMjIuMjY0LDMuOSwzLjksMCwwLDEsMi42MjksMy43ODFjLjA1OSwxLjY0OC4wMSwzLjMuMDI0LDQuOTVDNjEzLjQ5NCw0NjYuNzU3LDYxMy41MzIsNDY3Ljc2Niw2MTMuNTU4LDQ2OC44MDhabS0zLjYxLTUuMTc2Yy0uNDIzLjA2My0uODIuMS0xLjIwNy4xODVhMTQuNjg4LDE0LjY4OCwwLDAsMC0xLjgzNy40NjhjLS40NDkuMTYxLS41NTcuNi0uNTQ4LDEuMDU5YTEuMTMxLDEuMTMxLDAsMCwwLC41ODUsMS4wMjEsMi4yMzUsMi4yMzUsMCwwLDAsMi42NTgtLjcxOUEzLjE3OCwzLjE3OCwwLDAsMCw2MDkuOTQ4LDQ2My42MzNaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtNzIyLjA2NSAtNjIuMzE2KSIgZmlsbD0iIzAwOGQ3MSIvPgogICAgPHBhdGggaWQ9IlBhdGhfMjY5NSIgZGF0YS1uYW1lPSJQYXRoIDI2OTUiIGQ9Ik05MjcuMDE0LDQ2OC4zNzloLTMuMmMtLjA0MS0uNC0uMDgxLS43OTQtLjEyNS0xLjIyOGEuODYyLjg2MiwwLDAsMC0uMTU0LjEyOWMtMS4zNDUsMS45MzQtNC45MTgsMS44NjktNi40MTcuMTU4YTMuNDIzLDMuNDIzLDAsMCwxLDEuNDU3LTUuNTU0LDI5LjcyNCwyOS43MjQsMCwwLDEsMy4yMzYtLjY1NmMuMjc0LS4wNTMuNTUzLS4wODEuODI2LS4xMzhhLjg4OC44ODgsMCwwLDAsLjQ5LTEuNTYzLDIuMDI2LDIuMDI2LDAsMCwwLTIuMDMxLS40ODYsMS44LDEuOCwwLDAsMC0xLjQxMSwxLjMxNmMtLjAzNC4xLS4wNS4yLS4wODYuMzU5bC0zLjEyMy0uNjI5YTMuOTMxLDMuOTMxLDAsMCwxLDEuOTU0LTMuMDM1LDYuNTI3LDYuNTI3LDAsMCwxLDYuMzQzLS4yMjQsMy42NzUsMy42NzUsMCwwLDEsMi4xMzIsMy40MDljLjA2NCwxLjU4MS4wMjEsMy4xNjcuMDM3LDQuNzUxQzkyNi45NTgsNDY2LjEsOTI2Ljk5LDQ2Ny4yMTgsOTI3LjAxNCw0NjguMzc5Wm0tMy41NDUtNS4xODJjLS44LjEyNS0xLjUuMjEzLTIuMTg3LjM0OWEzLjU2MSwzLjU2MSwwLDAsMC0uOTY2LjM0LDEuMDQ3LDEuMDQ3LDAsMCwwLS41LDEuMDkyLDEuMTE0LDEuMTE0LDAsMCwwLC42MzUuOTksMi4xLDIuMSwwLDAsMCwyLjg1My0xLjNBMTAuNzgyLDEwLjc4MiwwLDAsMCw5MjMuNDY5LDQ2My4yWiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTEwMTAuNTA1IC02MS44OTIpIiBmaWxsPSIjMDA4ZDcxIi8+CiAgICA8cGF0aCBpZD0iUGF0aF8yNjk2IiBkYXRhLW5hbWU9IlBhdGggMjY5NiIgZD0iTTg1LjgyOCw0NjAuOWwtMy4wNTguOTE4YTcuMDIzLDcuMDIzLDAsMCwwLTEuMDA3LTEuMjI3LDIuNjUzLDIuNjUzLDAsMCwwLTQuMTQ3LDEuNTc4LDQuNjQ5LDQuNjQ5LDAsMCwwLS4wMDYsMS43NzMsMi41NjEsMi41NjEsMCwwLDAsMi4yMjIsMi4wNTIsMi41LDIuNSwwLDAsMCwyLjgzLTEuNDQ0Yy4wNTMtLjEuMjQzLS4yMjYuMzMtLjIuOTY5LjI3NiwxLjkzMS41NzksMi45NTYuODk0YTcuNzczLDcuNzczLDAsMCwxLS4yOC43OTIsNS41NzYsNS41NzYsMCwwLDEtNS4yNTMsMy4zMiw2LjI4Nyw2LjI4NywwLDEsMS0uMTYzLTEyLjU2OSw1Ljc1Myw1Ljc1MywwLDAsMSw0LjYzOCwyLjA4NUE0LjYyNSw0LjYyNSwwLDAsMSw4NS44MjgsNDYwLjlaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMjM1LjQ2MSAtNjIuNTA4KSIgZmlsbD0iIzBkMTEzNiIvPgogICAgPHBhdGggaWQ9IlBhdGhfMjY5NyIgZGF0YS1uYW1lPSJQYXRoIDI2OTciIGQ9Ik03NjYuNjE5LDQ2MS4zNTRoOS42NzRjLjAwNi4xMjYuMDE4LjI1Mi4wMTguMzc5LDAsLjYzOS0uMDM4LDEuMjgxLjAxMywxLjkxNmExLjQyNCwxLjQyNCwwLDAsMS0uNDgzLDEuMTg1Yy0xLjU3MiwxLjYyNy0zLjEyMywzLjI3NC00LjY4MSw0LjkxNC0uMDg4LjA5My0uMTY5LjE5Mi0uMzA3LjM1MWg1LjUxOXYzLjFoLTkuOWMtLjAxLS4xNS0uMDI2LS4yOTEtLjAyNi0uNDMyLDAtLjczMi4wMjItMS40NjUtLjAxLTIuMmExLjI0MSwxLjI0MSwwLDAsMSwuNC0uOTgzYzEuNTI2LTEuNiwzLjAzNi0zLjIwOSw0LjU1MS00LjgxNy4wOC0uMDg1LjE1NS0uMTc1LjI3OS0uMzE3aC01LjA1M1oiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04NzIuNjcyIC02Ni43MTQpIiBmaWxsPSIjMDA4ZDcxIi8+CiAgICA8cGF0aCBpZD0iUGF0aF8yNjk4IiBkYXRhLW5hbWU9IlBhdGggMjY5OCIgZD0iTS0uNyw0NzMuMzNWNDYxLjUwOUgyLjg2N1Y0NzMuMzNaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMTY2LjgxNSAtNjYuODU2KSIgZmlsbD0iIzBkMTEzNiIvPgogICAgPHBhdGggaWQ9IlBhdGhfMjY5OSIgZGF0YS1uYW1lPSJQYXRoIDI2OTkiIGQ9Ik0tLjUxOSwzOTAuOTg2YTIuMSwyLjEsMCwwLDEtMi4xNDgsMi4xLDIuMTM5LDIuMTM5LDAsMCwxLTIuMDc4LTIuMTQsMi4xNDEsMi4xNDEsMCwwLDEsMi4xMjYtMi4wOTNBMi4wODIsMi4wODIsMCwwLDEtLjUxOSwzOTAuOTg2WiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTE2My4wOTUpIiBmaWxsPSIjMDA4ZDcxIi8+CiAgPC9nPgo8L3N2Zz4K"
+module.exports = "/_next/static/images/logo_text-9a58b7497af5e4eeb73c2f563406c710.svg";
 
 /***/ }),
 
@@ -18041,7 +18041,7 @@ var data_translation_he_json__WEBPACK_IMPORTED_MODULE_16___namespace = /*#__PURE
 /* harmony import */ var _redq_reuse_modal_lib_index_css__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(/*! @redq/reuse-modal/lib/index.css */ "../../node_modules/@redq/reuse-modal/lib/index.css");
 /* harmony import */ var _redq_reuse_modal_lib_index_css__WEBPACK_IMPORTED_MODULE_20___default = /*#__PURE__*/__webpack_require__.n(_redq_reuse_modal_lib_index_css__WEBPACK_IMPORTED_MODULE_20__);
 /* harmony import */ var styled_global_style__WEBPACK_IMPORTED_MODULE_21__ = __webpack_require__(/*! styled/global.style */ "./styled/global.style.tsx");
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/pages/_app.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/pages/_app.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); if (enumerableOnly) symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }

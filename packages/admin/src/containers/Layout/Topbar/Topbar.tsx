@@ -8,7 +8,7 @@ import { STUFF_MEMBERS, SETTINGS } from "../../../settings/constants";
 import {
   NotificationIcon,
   AlertDotIcon,
-  ArrowLeftRound
+  ArrowLeftRound,
 } from "../../../components/AllSvgIcon";
 import {
   TopbarWrapper,
@@ -24,9 +24,9 @@ import {
   LogoutBtn,
   DrawerIcon,
   CloseButton,
-  DrawerWrapper
+  DrawerWrapper,
 } from "./Topbar.style";
-import Logoimage from "../../../image/PickBazar.png";
+import Logoimage from "../../../image/logo_text.png";
 import UserImage from "../../../image/user.jpg";
 import { useDrawerDispatch } from "../../../context/DrawerContext";
 import { MenuIcon } from "../../../components/AllSvgIcon";
@@ -37,8 +37,8 @@ const data = [
   {
     title: "Delivery Successful",
     time: "5m",
-    message: "Order #34567 had been placed"
-  }
+    message: "Order #34567 had been placed",
+  },
 ];
 const Topbar = ({ refs }: any) => {
   const dispatch = useDrawerDispatch();
@@ -68,33 +68,33 @@ const Topbar = ({ refs }: any) => {
           overrides={{
             Root: {
               style: {
-                zIndex: "1"
-              }
+                zIndex: "1",
+              },
             },
             DrawerBody: {
               style: {
                 marginRight: "0",
                 marginLeft: "0",
                 "@media only screen and (max-width: 767px)": {
-                  marginLeft: "30px"
-                }
-              }
+                  marginLeft: "30px",
+                },
+              },
             },
             DrawerContainer: {
               style: {
                 width: "270px",
                 "@media only screen and (max-width: 767px)": {
-                  width: "80%"
-                }
-              }
+                  width: "80%",
+                },
+              },
             },
             Close: {
               component: () => (
                 <CloseButton onClick={() => setIsDrawerOpen(false)}>
                   <ArrowLeftRound />
                 </CloseButton>
-              )
-            }
+              ),
+            },
           }}
         >
           <Sidebar onMenuItemClick={() => setIsDrawerOpen(false)} />
@@ -112,9 +112,9 @@ const Topbar = ({ refs }: any) => {
             Body: {
               style: () => ({
                 width: "330px",
-                zIndex: 2
-              })
-            }
+                zIndex: 2,
+              }),
+            },
           }}
         >
           <NotificationIconWrapper>
@@ -150,9 +150,9 @@ const Topbar = ({ refs }: any) => {
             Body: {
               style: () => ({
                 width: "220px",
-                zIndex: 2
-              })
-            }
+                zIndex: 2,
+              }),
+            },
           }}
         >
           <ProfileImg>

@@ -7,22 +7,22 @@ import {
   FormFields,
   FormLabel,
   FormTitle,
-  Error
+  Error,
 } from "../../components/FormFields/FormFields";
 import { Wrapper, FormWrapper, LogoImage, LogoWrapper } from "./Login.style";
 import Input from "../../components/Input/Input";
 import Button from "../../components/Button/Button";
-import Logoimage from "../../image/PickBazar.png";
+import Logoimage from "../../image/logo_text.png";
 
 const initialValues = {
   username: "",
-  password: ""
+  password: "",
 };
 
 const getLoginValidationSchema = () => {
   return Yup.object().shape({
     username: Yup.string().required("Username is Required!"),
-    password: Yup.string().required("Password is Required!")
+    password: Yup.string().required("Password is Required!"),
   });
 };
 
@@ -92,9 +92,9 @@ export default () => {
                       borderTopLeftRadius: "3px",
                       borderTopRightRadius: "3px",
                       borderBottomLeftRadius: "3px",
-                      borderBottomRightRadius: "3px"
-                    })
-                  }
+                      borderBottomRightRadius: "3px",
+                    }),
+                  },
                 }}
               >
                 Submit

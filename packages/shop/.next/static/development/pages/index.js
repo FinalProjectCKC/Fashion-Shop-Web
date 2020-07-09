@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static/development/pages/index.js"],{
 
 /***/ "../../node_modules/@apollo/react-common/lib/react-common.esm.js":
-/*!********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@apollo/react-common/lib/react-common.esm.js ***!
-  \********************************************************************************************************************************************/
+/*!***************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@apollo/react-common/lib/react-common.esm.js ***!
+  \***************************************************************************************************************************************************/
 /*! exports provided: ApolloConsumer, ApolloProvider, DocumentType, getApolloContext, operationName, parser, resetApolloContext */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -134,9 +134,9 @@ function parser(document) {
 /***/ }),
 
 /***/ "../../node_modules/@apollo/react-hooks/lib/react-hooks.esm.js":
-/*!******************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@apollo/react-hooks/lib/react-hooks.esm.js ***!
-  \******************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@apollo/react-hooks/lib/react-hooks.esm.js ***!
+  \*************************************************************************************************************************************************/
 /*! exports provided: ApolloConsumer, ApolloProvider, getApolloContext, resetApolloContext, RenderPromises, useApolloClient, useLazyQuery, useMutation, useQuery, useSubscription */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -852,9 +852,9 @@ var RenderPromises = (function () {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/array/from.js":
-/*!********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/core-js/array/from.js ***!
-  \********************************************************************************************************************************************/
+/*!***************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/core-js/array/from.js ***!
+  \***************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -863,9 +863,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/array/from */ "../..
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/array/is-array.js":
-/*!************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/core-js/array/is-array.js ***!
-  \************************************************************************************************************************************************/
+/*!*******************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/core-js/array/is-array.js ***!
+  \*******************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -874,9 +874,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/array/is-array */ ".
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/get-iterator.js":
-/*!**********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/core-js/get-iterator.js ***!
-  \**********************************************************************************************************************************************/
+/*!*****************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/core-js/get-iterator.js ***!
+  \*****************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -885,9 +885,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/get-iterator */ "../
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/is-iterable.js":
-/*!*********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/core-js/is-iterable.js ***!
-  \*********************************************************************************************************************************************/
+/*!****************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/core-js/is-iterable.js ***!
+  \****************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -896,9 +896,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/is-iterable */ "../.
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/json/stringify.js":
-/*!************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/core-js/json/stringify.js ***!
-  \************************************************************************************************************************************************/
+/*!*******************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/core-js/json/stringify.js ***!
+  \*******************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -907,9 +907,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/json/stringify */ ".
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/map.js":
-/*!*************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/core-js/map.js ***!
-  \*************************************************************************************************************************************/
+/*!********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/core-js/map.js ***!
+  \********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -918,9 +918,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/map */ "../../node_m
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/assign.js":
-/*!***********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/core-js/object/assign.js ***!
-  \***********************************************************************************************************************************************/
+/*!******************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/core-js/object/assign.js ***!
+  \******************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -929,9 +929,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/assign */ "..
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/create.js":
-/*!***********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/core-js/object/create.js ***!
-  \***********************************************************************************************************************************************/
+/*!******************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/core-js/object/create.js ***!
+  \******************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -940,9 +940,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/create */ "..
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/define-properties.js":
-/*!**********************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/core-js/object/define-properties.js ***!
-  \**********************************************************************************************************************************************************/
+/*!*****************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/core-js/object/define-properties.js ***!
+  \*****************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -951,9 +951,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/define-proper
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/define-property.js":
-/*!********************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/core-js/object/define-property.js ***!
-  \********************************************************************************************************************************************************/
+/*!***************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/core-js/object/define-property.js ***!
+  \***************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -962,9 +962,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/define-proper
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/freeze.js":
-/*!***********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/core-js/object/freeze.js ***!
-  \***********************************************************************************************************************************************/
+/*!******************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/core-js/object/freeze.js ***!
+  \******************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -973,9 +973,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/freeze */ "..
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js":
-/*!********************************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js ***!
-  \********************************************************************************************************************************************************************/
+/*!***************************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js ***!
+  \***************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -984,9 +984,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/get-own-prope
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptors.js":
-/*!*********************************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptors.js ***!
-  \*********************************************************************************************************************************************************************/
+/*!****************************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptors.js ***!
+  \****************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -995,9 +995,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/get-own-prope
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-symbols.js":
-/*!*****************************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-symbols.js ***!
-  \*****************************************************************************************************************************************************************/
+/*!************************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-symbols.js ***!
+  \************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1006,9 +1006,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/get-own-prope
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/get-prototype-of.js":
-/*!*********************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/core-js/object/get-prototype-of.js ***!
-  \*********************************************************************************************************************************************************/
+/*!****************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/core-js/object/get-prototype-of.js ***!
+  \****************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1017,9 +1017,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/get-prototype
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/keys.js":
-/*!*********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/core-js/object/keys.js ***!
-  \*********************************************************************************************************************************************/
+/*!****************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/core-js/object/keys.js ***!
+  \****************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1028,9 +1028,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/keys */ "../.
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/set-prototype-of.js":
-/*!*********************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/core-js/object/set-prototype-of.js ***!
-  \*********************************************************************************************************************************************************/
+/*!****************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/core-js/object/set-prototype-of.js ***!
+  \****************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1039,9 +1039,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/set-prototype
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/parse-float.js":
-/*!*********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/core-js/parse-float.js ***!
-  \*********************************************************************************************************************************************/
+/*!****************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/core-js/parse-float.js ***!
+  \****************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1050,9 +1050,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/parse-float */ "../.
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/promise.js":
-/*!*****************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/core-js/promise.js ***!
-  \*****************************************************************************************************************************************/
+/*!************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/core-js/promise.js ***!
+  \************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1061,9 +1061,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/promise */ "../../no
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/reflect/construct.js":
-/*!***************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/core-js/reflect/construct.js ***!
-  \***************************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/core-js/reflect/construct.js ***!
+  \**********************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1072,9 +1072,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/reflect/construct */
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/set.js":
-/*!*************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/core-js/set.js ***!
-  \*************************************************************************************************************************************/
+/*!********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/core-js/set.js ***!
+  \********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1083,9 +1083,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/set */ "../../node_m
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/symbol.js":
-/*!****************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/core-js/symbol.js ***!
-  \****************************************************************************************************************************************/
+/*!***********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/core-js/symbol.js ***!
+  \***********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1094,9 +1094,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/symbol */ "../../nod
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/symbol/iterator.js":
-/*!*************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/core-js/symbol/iterator.js ***!
-  \*************************************************************************************************************************************************/
+/*!********************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/core-js/symbol/iterator.js ***!
+  \********************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1105,9 +1105,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/symbol/iterator */ "
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/weak-map.js":
-/*!******************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/core-js/weak-map.js ***!
-  \******************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/core-js/weak-map.js ***!
+  \*************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1116,9 +1116,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/weak-map */ "../../n
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/arrayWithHoles.js":
-/*!************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/helpers/arrayWithHoles.js ***!
-  \************************************************************************************************************************************************/
+/*!*******************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/helpers/arrayWithHoles.js ***!
+  \*******************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1133,9 +1133,9 @@ module.exports = _arrayWithHoles;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/arrayWithoutHoles.js":
-/*!***************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/helpers/arrayWithoutHoles.js ***!
-  \***************************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/helpers/arrayWithoutHoles.js ***!
+  \**********************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1156,9 +1156,9 @@ module.exports = _arrayWithoutHoles;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/assertThisInitialized.js":
-/*!*******************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/helpers/assertThisInitialized.js ***!
-  \*******************************************************************************************************************************************************/
+/*!**************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/helpers/assertThisInitialized.js ***!
+  \**************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1175,9 +1175,9 @@ module.exports = _assertThisInitialized;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/classCallCheck.js":
-/*!************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/helpers/classCallCheck.js ***!
-  \************************************************************************************************************************************************/
+/*!*******************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/helpers/classCallCheck.js ***!
+  \*******************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1192,9 +1192,9 @@ module.exports = _classCallCheck;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/construct.js":
-/*!*******************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/helpers/construct.js ***!
-  \*******************************************************************************************************************************************/
+/*!**************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/helpers/construct.js ***!
+  \**************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1237,9 +1237,9 @@ module.exports = _construct;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/createClass.js":
-/*!*********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/helpers/createClass.js ***!
-  \*********************************************************************************************************************************************/
+/*!****************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/helpers/createClass.js ***!
+  \****************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1267,9 +1267,9 @@ module.exports = _createClass;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/arrayWithHoles.js":
-/*!****************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/helpers/esm/arrayWithHoles.js ***!
-  \****************************************************************************************************************************************************/
+/*!***********************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/helpers/esm/arrayWithHoles.js ***!
+  \***********************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1286,9 +1286,9 @@ function _arrayWithHoles(arr) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/arrayWithoutHoles.js":
-/*!*******************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/helpers/esm/arrayWithoutHoles.js ***!
-  \*******************************************************************************************************************************************************/
+/*!**************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/helpers/esm/arrayWithoutHoles.js ***!
+  \**************************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1311,9 +1311,9 @@ function _arrayWithoutHoles(arr) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/defineProperty.js":
-/*!****************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/helpers/esm/defineProperty.js ***!
-  \****************************************************************************************************************************************************/
+/*!***********************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/helpers/esm/defineProperty.js ***!
+  \***********************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1341,9 +1341,9 @@ function _defineProperty(obj, key, value) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/extends.js":
-/*!*********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/helpers/esm/extends.js ***!
-  \*********************************************************************************************************************************************/
+/*!****************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/helpers/esm/extends.js ***!
+  \****************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1374,9 +1374,9 @@ function _extends() {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/iterableToArray.js":
-/*!*****************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/helpers/esm/iterableToArray.js ***!
-  \*****************************************************************************************************************************************************/
+/*!************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/helpers/esm/iterableToArray.js ***!
+  \************************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1396,9 +1396,9 @@ function _iterableToArray(iter) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/iterableToArrayLimit.js":
-/*!**********************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/helpers/esm/iterableToArrayLimit.js ***!
-  \**********************************************************************************************************************************************************/
+/*!*****************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/helpers/esm/iterableToArrayLimit.js ***!
+  \*****************************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1444,9 +1444,9 @@ function _iterableToArrayLimit(arr, i) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/nonIterableRest.js":
-/*!*****************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/helpers/esm/nonIterableRest.js ***!
-  \*****************************************************************************************************************************************************/
+/*!************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/helpers/esm/nonIterableRest.js ***!
+  \************************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1460,9 +1460,9 @@ function _nonIterableRest() {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/nonIterableSpread.js":
-/*!*******************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/helpers/esm/nonIterableSpread.js ***!
-  \*******************************************************************************************************************************************************/
+/*!**************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/helpers/esm/nonIterableSpread.js ***!
+  \**************************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1476,9 +1476,9 @@ function _nonIterableSpread() {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/objectWithoutProperties.js":
-/*!*************************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/helpers/esm/objectWithoutProperties.js ***!
-  \*************************************************************************************************************************************************************/
+/*!********************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/helpers/esm/objectWithoutProperties.js ***!
+  \********************************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1512,9 +1512,9 @@ function _objectWithoutProperties(source, excluded) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/objectWithoutPropertiesLoose.js":
-/*!******************************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/helpers/esm/objectWithoutPropertiesLoose.js ***!
-  \******************************************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/helpers/esm/objectWithoutPropertiesLoose.js ***!
+  \*************************************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1544,9 +1544,9 @@ function _objectWithoutPropertiesLoose(source, excluded) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/slicedToArray.js":
-/*!***************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/helpers/esm/slicedToArray.js ***!
-  \***************************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/helpers/esm/slicedToArray.js ***!
+  \**********************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1566,9 +1566,9 @@ function _slicedToArray(arr, i) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/taggedTemplateLiteral.js":
-/*!***********************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/helpers/esm/taggedTemplateLiteral.js ***!
-  \***********************************************************************************************************************************************************/
+/*!******************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/helpers/esm/taggedTemplateLiteral.js ***!
+  \******************************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1596,9 +1596,9 @@ function _taggedTemplateLiteral(strings, raw) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/toConsumableArray.js":
-/*!*******************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/helpers/esm/toConsumableArray.js ***!
-  \*******************************************************************************************************************************************************/
+/*!**************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/helpers/esm/toConsumableArray.js ***!
+  \**************************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1618,9 +1618,9 @@ function _toConsumableArray(arr) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/getPrototypeOf.js":
-/*!************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/helpers/getPrototypeOf.js ***!
-  \************************************************************************************************************************************************/
+/*!*******************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/helpers/getPrototypeOf.js ***!
+  \*******************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1640,9 +1640,9 @@ module.exports = _getPrototypeOf;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/inherits.js":
-/*!******************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/helpers/inherits.js ***!
-  \******************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/helpers/inherits.js ***!
+  \*************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1670,9 +1670,9 @@ module.exports = _inherits;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js":
-/*!*******************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js ***!
-  \*******************************************************************************************************************************************************/
+/*!**************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js ***!
+  \**************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1687,9 +1687,9 @@ module.exports = _interopRequireDefault;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/interopRequireWildcard.js":
-/*!********************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/helpers/interopRequireWildcard.js ***!
-  \********************************************************************************************************************************************************/
+/*!***************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/helpers/interopRequireWildcard.js ***!
+  \***************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1758,9 +1758,9 @@ module.exports = _interopRequireWildcard;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/iterableToArray.js":
-/*!*************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/helpers/iterableToArray.js ***!
-  \*************************************************************************************************************************************************/
+/*!********************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/helpers/iterableToArray.js ***!
+  \********************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1777,9 +1777,9 @@ module.exports = _iterableToArray;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/iterableToArrayLimit.js":
-/*!******************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/helpers/iterableToArrayLimit.js ***!
-  \******************************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/helpers/iterableToArrayLimit.js ***!
+  \*************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1822,9 +1822,9 @@ module.exports = _iterableToArrayLimit;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/nonIterableRest.js":
-/*!*************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/helpers/nonIterableRest.js ***!
-  \*************************************************************************************************************************************************/
+/*!********************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/helpers/nonIterableRest.js ***!
+  \********************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1837,9 +1837,9 @@ module.exports = _nonIterableRest;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/nonIterableSpread.js":
-/*!***************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/helpers/nonIterableSpread.js ***!
-  \***************************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/helpers/nonIterableSpread.js ***!
+  \**********************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1852,9 +1852,9 @@ module.exports = _nonIterableSpread;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/possibleConstructorReturn.js":
-/*!***********************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/helpers/possibleConstructorReturn.js ***!
-  \***********************************************************************************************************************************************************/
+/*!******************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/helpers/possibleConstructorReturn.js ***!
+  \******************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1875,9 +1875,9 @@ module.exports = _possibleConstructorReturn;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/setPrototypeOf.js":
-/*!************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/helpers/setPrototypeOf.js ***!
-  \************************************************************************************************************************************************/
+/*!*******************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/helpers/setPrototypeOf.js ***!
+  \*******************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1897,9 +1897,9 @@ module.exports = _setPrototypeOf;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/slicedToArray.js":
-/*!***********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/helpers/slicedToArray.js ***!
-  \***********************************************************************************************************************************************/
+/*!******************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/helpers/slicedToArray.js ***!
+  \******************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1918,9 +1918,9 @@ module.exports = _slicedToArray;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/toConsumableArray.js":
-/*!***************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/helpers/toConsumableArray.js ***!
-  \***************************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/helpers/toConsumableArray.js ***!
+  \**********************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1939,9 +1939,9 @@ module.exports = _toConsumableArray;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/typeof.js":
-/*!****************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/helpers/typeof.js ***!
-  \****************************************************************************************************************************************/
+/*!***********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/helpers/typeof.js ***!
+  \***********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1970,9 +1970,9 @@ module.exports = _typeof;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/regenerator/index.js":
-/*!*******************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime-corejs2/regenerator/index.js ***!
-  \*******************************************************************************************************************************************/
+/*!**************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime-corejs2/regenerator/index.js ***!
+  \**************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1982,9 +1982,9 @@ module.exports = __webpack_require__(/*! regenerator-runtime */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime/helpers/assertThisInitialized.js":
-/*!***********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime/helpers/assertThisInitialized.js ***!
-  \***********************************************************************************************************************************************/
+/*!******************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime/helpers/assertThisInitialized.js ***!
+  \******************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -2001,9 +2001,9 @@ module.exports = _assertThisInitialized;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime/helpers/classCallCheck.js":
-/*!****************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime/helpers/classCallCheck.js ***!
-  \****************************************************************************************************************************************/
+/*!***********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime/helpers/classCallCheck.js ***!
+  \***********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -2018,9 +2018,9 @@ module.exports = _classCallCheck;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime/helpers/createClass.js":
-/*!*************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime/helpers/createClass.js ***!
-  \*************************************************************************************************************************************/
+/*!********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime/helpers/createClass.js ***!
+  \********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -2045,9 +2045,9 @@ module.exports = _createClass;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime/helpers/defineProperty.js":
-/*!****************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime/helpers/defineProperty.js ***!
-  \****************************************************************************************************************************************/
+/*!***********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime/helpers/defineProperty.js ***!
+  \***********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -2071,9 +2071,9 @@ module.exports = _defineProperty;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime/helpers/esm/extends.js":
-/*!*************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime/helpers/esm/extends.js ***!
-  \*************************************************************************************************************************************/
+/*!********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime/helpers/esm/extends.js ***!
+  \********************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -2101,9 +2101,9 @@ function _extends() {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js":
-/*!**********************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js ***!
-  \**********************************************************************************************************************************************************/
+/*!*****************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js ***!
+  \*****************************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -2128,9 +2128,9 @@ function _objectWithoutPropertiesLoose(source, excluded) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime/helpers/extends.js":
-/*!*********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime/helpers/extends.js ***!
-  \*********************************************************************************************************************************/
+/*!****************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime/helpers/extends.js ***!
+  \****************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -2157,9 +2157,9 @@ module.exports = _extends;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime/helpers/getPrototypeOf.js":
-/*!****************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime/helpers/getPrototypeOf.js ***!
-  \****************************************************************************************************************************************/
+/*!***********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime/helpers/getPrototypeOf.js ***!
+  \***********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -2175,9 +2175,9 @@ module.exports = _getPrototypeOf;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime/helpers/inherits.js":
-/*!**********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime/helpers/inherits.js ***!
-  \**********************************************************************************************************************************/
+/*!*****************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime/helpers/inherits.js ***!
+  \*****************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2203,9 +2203,9 @@ module.exports = _inherits;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime/helpers/inheritsLoose.js":
-/*!***************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime/helpers/inheritsLoose.js ***!
-  \***************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime/helpers/inheritsLoose.js ***!
+  \**********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -2220,9 +2220,9 @@ module.exports = _inheritsLoose;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime/helpers/objectWithoutProperties.js":
-/*!*************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime/helpers/objectWithoutProperties.js ***!
-  \*************************************************************************************************************************************************/
+/*!********************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime/helpers/objectWithoutProperties.js ***!
+  \********************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2252,9 +2252,9 @@ module.exports = _objectWithoutProperties;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime/helpers/objectWithoutPropertiesLoose.js":
-/*!******************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime/helpers/objectWithoutPropertiesLoose.js ***!
-  \******************************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime/helpers/objectWithoutPropertiesLoose.js ***!
+  \*************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -2278,9 +2278,9 @@ module.exports = _objectWithoutPropertiesLoose;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime/helpers/possibleConstructorReturn.js":
-/*!***************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime/helpers/possibleConstructorReturn.js ***!
-  \***************************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime/helpers/possibleConstructorReturn.js ***!
+  \**********************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2301,9 +2301,9 @@ module.exports = _possibleConstructorReturn;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime/helpers/setPrototypeOf.js":
-/*!****************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime/helpers/setPrototypeOf.js ***!
-  \****************************************************************************************************************************************/
+/*!***********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime/helpers/setPrototypeOf.js ***!
+  \***********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -2321,9 +2321,9 @@ module.exports = _setPrototypeOf;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime/helpers/typeof.js":
-/*!********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@babel/runtime/helpers/typeof.js ***!
-  \********************************************************************************************************************************/
+/*!***************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@babel/runtime/helpers/typeof.js ***!
+  \***************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -2346,9 +2346,9 @@ module.exports = _typeof;
 /***/ }),
 
 /***/ "../../node_modules/@emotion/is-prop-valid/dist/is-prop-valid.browser.esm.js":
-/*!********************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@emotion/is-prop-valid/dist/is-prop-valid.browser.esm.js ***!
-  \********************************************************************************************************************************************************/
+/*!***************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@emotion/is-prop-valid/dist/is-prop-valid.browser.esm.js ***!
+  \***************************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -2375,9 +2375,9 @@ var index = Object(_emotion_memoize__WEBPACK_IMPORTED_MODULE_0__["default"])(fun
 /***/ }),
 
 /***/ "../../node_modules/@emotion/is-prop-valid/node_modules/@emotion/memoize/dist/memoize.browser.esm.js":
-/*!********************************************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@emotion/is-prop-valid/node_modules/@emotion/memoize/dist/memoize.browser.esm.js ***!
-  \********************************************************************************************************************************************************************************/
+/*!***************************************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@emotion/is-prop-valid/node_modules/@emotion/memoize/dist/memoize.browser.esm.js ***!
+  \***************************************************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -2397,9 +2397,9 @@ function memoize(fn) {
 /***/ }),
 
 /***/ "../../node_modules/@emotion/stylis/dist/stylis.browser.esm.js":
-/*!******************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@emotion/stylis/dist/stylis.browser.esm.js ***!
-  \******************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@emotion/stylis/dist/stylis.browser.esm.js ***!
+  \*************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3025,9 +3025,9 @@ function stylis_min (W) {
 /***/ }),
 
 /***/ "../../node_modules/@emotion/unitless/dist/unitless.browser.esm.js":
-/*!**********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@emotion/unitless/dist/unitless.browser.esm.js ***!
-  \**********************************************************************************************************************************************/
+/*!*****************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@emotion/unitless/dist/unitless.browser.esm.js ***!
+  \*****************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3088,9 +3088,9 @@ var unitlessKeys = {
 /***/ }),
 
 /***/ "../../node_modules/@formatjs/intl-utils/lib/aliases.js":
-/*!***********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@formatjs/intl-utils/lib/aliases.js ***!
-  \***********************************************************************************************************************************/
+/*!******************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@formatjs/intl-utils/lib/aliases.js ***!
+  \******************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3104,9 +3104,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@formatjs/intl-utils/lib/diff.js":
-/*!********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@formatjs/intl-utils/lib/diff.js ***!
-  \********************************************************************************************************************************/
+/*!***************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@formatjs/intl-utils/lib/diff.js ***!
+  \***************************************************************************************************************************************/
 /*! exports provided: selectUnit, DEFAULT_THRESHOLDS */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3195,9 +3195,9 @@ var DEFAULT_THRESHOLDS = {
 /***/ }),
 
 /***/ "../../node_modules/@formatjs/intl-utils/lib/get-canonical-locales.js":
-/*!*************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@formatjs/intl-utils/lib/get-canonical-locales.js ***!
-  \*************************************************************************************************************************************************/
+/*!********************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@formatjs/intl-utils/lib/get-canonical-locales.js ***!
+  \********************************************************************************************************************************************************/
 /*! exports provided: getCanonicalLocales */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3221,9 +3221,9 @@ function getCanonicalLocales(locales) {
 /***/ }),
 
 /***/ "../../node_modules/@formatjs/intl-utils/lib/index.js":
-/*!*********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@formatjs/intl-utils/lib/index.js ***!
-  \*********************************************************************************************************************************/
+/*!****************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@formatjs/intl-utils/lib/index.js ***!
+  \****************************************************************************************************************************************/
 /*! exports provided: selectUnit, defaultNumberOption, getAliasesByLang, getInternalSlot, getMultiInternalSlots, getNumberOption, getOption, getParentLocalesByLang, isLiteralPart, partitionPattern, setInternalSlot, setMultiInternalSlots, setNumberFormatDigitOptions, toObject, objectIs, createResolveLocale, getLocaleHierarchy, supportedLocales, unpackData, isMissingLocaleDataError, SANCTIONED_UNITS, removeUnitNamespace, InternalSlotToken, getCanonicalLocales, invariant */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3298,9 +3298,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@formatjs/intl-utils/lib/invariant.js":
-/*!*************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@formatjs/intl-utils/lib/invariant.js ***!
-  \*************************************************************************************************************************************/
+/*!********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@formatjs/intl-utils/lib/invariant.js ***!
+  \********************************************************************************************************************************************/
 /*! exports provided: invariant */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3318,9 +3318,9 @@ function invariant(condition, message, Err) {
 /***/ }),
 
 /***/ "../../node_modules/@formatjs/intl-utils/lib/number-types.js":
-/*!****************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@formatjs/intl-utils/lib/number-types.js ***!
-  \****************************************************************************************************************************************/
+/*!***********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@formatjs/intl-utils/lib/number-types.js ***!
+  \***********************************************************************************************************************************************/
 /*! exports provided: InternalSlotToken */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3351,9 +3351,9 @@ var InternalSlotToken;
 /***/ }),
 
 /***/ "../../node_modules/@formatjs/intl-utils/lib/parentLocales.js":
-/*!*****************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@formatjs/intl-utils/lib/parentLocales.js ***!
-  \*****************************************************************************************************************************************/
+/*!************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@formatjs/intl-utils/lib/parentLocales.js ***!
+  \************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3367,9 +3367,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/@formatjs/intl-utils/lib/polyfill-utils.js":
-/*!******************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@formatjs/intl-utils/lib/polyfill-utils.js ***!
-  \******************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@formatjs/intl-utils/lib/polyfill-utils.js ***!
+  \*************************************************************************************************************************************************/
 /*! exports provided: toObject, getOption, defaultNumberOption, getNumberOption, getAliasesByLang, getParentLocalesByLang, setInternalSlot, setMultiInternalSlots, getInternalSlot, getMultiInternalSlots, isLiteralPart, partitionPattern, setNumberFormatDigitOptions, objectIs */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3597,9 +3597,9 @@ function objectIs(x, y) {
 /***/ }),
 
 /***/ "../../node_modules/@formatjs/intl-utils/lib/resolve-locale.js":
-/*!******************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@formatjs/intl-utils/lib/resolve-locale.js ***!
-  \******************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@formatjs/intl-utils/lib/resolve-locale.js ***!
+  \*************************************************************************************************************************************************/
 /*! exports provided: createResolveLocale, getLocaleHierarchy, supportedLocales, isMissingLocaleDataError, unpackData */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3891,9 +3891,9 @@ reducer) {
 /***/ }),
 
 /***/ "../../node_modules/@formatjs/intl-utils/lib/units.js":
-/*!*********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@formatjs/intl-utils/lib/units.js ***!
-  \*********************************************************************************************************************************/
+/*!****************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@formatjs/intl-utils/lib/units.js ***!
+  \****************************************************************************************************************************************/
 /*! exports provided: SANCTIONED_UNITS, removeUnitNamespace */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3957,9 +3957,9 @@ function removeUnitNamespace(unit) {
 /***/ }),
 
 /***/ "../../node_modules/@formatjs/macro/dist/index.js":
-/*!*****************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@formatjs/macro/dist/index.js ***!
-  \*****************************************************************************************************************************/
+/*!************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@formatjs/macro/dist/index.js ***!
+  \************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -3979,9 +3979,9 @@ exports.defineMessages = defineMessages;
 /***/ }),
 
 /***/ "../../node_modules/@redq/reuse-modal/es/closeSvg.js":
-/*!********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@redq/reuse-modal/es/closeSvg.js ***!
-  \********************************************************************************************************************************/
+/*!***************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@redq/reuse-modal/es/closeSvg.js ***!
+  \***************************************************************************************************************************************/
 /*! exports provided: CloseIcon */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4013,9 +4013,9 @@ var CloseIcon = function CloseIcon() {
 /***/ }),
 
 /***/ "../../node_modules/@redq/reuse-modal/es/hooks/useBodyScrollLock.js":
-/*!***********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@redq/reuse-modal/es/hooks/useBodyScrollLock.js ***!
-  \***********************************************************************************************************************************************/
+/*!******************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@redq/reuse-modal/es/hooks/useBodyScrollLock.js ***!
+  \******************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4043,9 +4043,9 @@ function useLockBodyScroll() {
 /***/ }),
 
 /***/ "../../node_modules/@redq/reuse-modal/es/hooks/useClickOutside.js":
-/*!*********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@redq/reuse-modal/es/hooks/useClickOutside.js ***!
-  \*********************************************************************************************************************************************/
+/*!****************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@redq/reuse-modal/es/hooks/useClickOutside.js ***!
+  \****************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4084,9 +4084,9 @@ function useClickOutside(_ref) {
 /***/ }),
 
 /***/ "../../node_modules/@redq/reuse-modal/es/hooks/useComponentSize.js":
-/*!**********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@redq/reuse-modal/es/hooks/useComponentSize.js ***!
-  \**********************************************************************************************************************************************/
+/*!*****************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@redq/reuse-modal/es/hooks/useComponentSize.js ***!
+  \*****************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4155,9 +4155,9 @@ var useComponentSize = function useComponentSize(ref) {
 /***/ }),
 
 /***/ "../../node_modules/@redq/reuse-modal/es/hooks/usePortal.js":
-/*!***************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@redq/reuse-modal/es/hooks/usePortal.js ***!
-  \***************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@redq/reuse-modal/es/hooks/usePortal.js ***!
+  \**********************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4205,9 +4205,9 @@ function usePortal() {
 /***/ }),
 
 /***/ "../../node_modules/@redq/reuse-modal/es/hooks/useReactSpring.js":
-/*!********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@redq/reuse-modal/es/hooks/useReactSpring.js ***!
-  \********************************************************************************************************************************************/
+/*!***************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@redq/reuse-modal/es/hooks/useReactSpring.js ***!
+  \***************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4319,9 +4319,9 @@ function useReactSpring() {
 /***/ }),
 
 /***/ "../../node_modules/@redq/reuse-modal/es/hooks/useRnd.js":
-/*!************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@redq/reuse-modal/es/hooks/useRnd.js ***!
-  \************************************************************************************************************************************/
+/*!*******************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@redq/reuse-modal/es/hooks/useRnd.js ***!
+  \*******************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4385,9 +4385,9 @@ function useRnd() {
 /***/ }),
 
 /***/ "../../node_modules/@redq/reuse-modal/es/hooks/useWindowSize.js":
-/*!*******************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@redq/reuse-modal/es/hooks/useWindowSize.js ***!
-  \*******************************************************************************************************************************************/
+/*!**************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@redq/reuse-modal/es/hooks/useWindowSize.js ***!
+  \**************************************************************************************************************************************************/
 /*! exports provided: throttle, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4480,9 +4480,9 @@ function throttle(func) {
 /***/ }),
 
 /***/ "../../node_modules/@redq/reuse-modal/es/index.js":
-/*!*****************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@redq/reuse-modal/es/index.js ***!
-  \*****************************************************************************************************************************/
+/*!************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@redq/reuse-modal/es/index.js ***!
+  \************************************************************************************************************************************/
 /*! exports provided: Modal, openModal, closeModal */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4673,9 +4673,9 @@ function Modal(_ref) {
 /***/ }),
 
 /***/ "../../node_modules/@styled-system/background/dist/index.esm.js":
-/*!*******************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@styled-system/background/dist/index.esm.js ***!
-  \*******************************************************************************************************************************************/
+/*!**************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@styled-system/background/dist/index.esm.js ***!
+  \**************************************************************************************************************************************************/
 /*! exports provided: background, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4702,9 +4702,9 @@ var background = Object(_styled_system_core__WEBPACK_IMPORTED_MODULE_0__["system
 /***/ }),
 
 /***/ "../../node_modules/@styled-system/border/dist/index.esm.js":
-/*!***************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@styled-system/border/dist/index.esm.js ***!
-  \***************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@styled-system/border/dist/index.esm.js ***!
+  \**********************************************************************************************************************************************/
 /*! exports provided: border, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4835,9 +4835,9 @@ var border = Object(_styled_system_core__WEBPACK_IMPORTED_MODULE_0__["system"])(
 /***/ }),
 
 /***/ "../../node_modules/@styled-system/color/dist/index.esm.js":
-/*!**************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@styled-system/color/dist/index.esm.js ***!
-  \**************************************************************************************************************************************/
+/*!*********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@styled-system/color/dist/index.esm.js ***!
+  \*********************************************************************************************************************************************/
 /*! exports provided: color, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4865,9 +4865,9 @@ var color = Object(_styled_system_core__WEBPACK_IMPORTED_MODULE_0__["system"])(c
 /***/ }),
 
 /***/ "../../node_modules/@styled-system/core/dist/index.esm.js":
-/*!*************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@styled-system/core/dist/index.esm.js ***!
-  \*************************************************************************************************************************************/
+/*!********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@styled-system/core/dist/index.esm.js ***!
+  \********************************************************************************************************************************************/
 /*! exports provided: merge, get, createParser, createStyleFunction, system, compose */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -5100,9 +5100,9 @@ var compose = function compose() {
 /***/ }),
 
 /***/ "../../node_modules/@styled-system/css/dist/index.esm.js":
-/*!************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@styled-system/css/dist/index.esm.js ***!
-  \************************************************************************************************************************************/
+/*!*******************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@styled-system/css/dist/index.esm.js ***!
+  \*******************************************************************************************************************************************/
 /*! exports provided: get, responsive, css, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -5309,9 +5309,9 @@ var css = function css(args) {
 /***/ }),
 
 /***/ "../../node_modules/@styled-system/flexbox/dist/index.esm.js":
-/*!****************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@styled-system/flexbox/dist/index.esm.js ***!
-  \****************************************************************************************************************************************/
+/*!***********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@styled-system/flexbox/dist/index.esm.js ***!
+  \***********************************************************************************************************************************************/
 /*! exports provided: flexbox, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -5343,9 +5343,9 @@ var flexbox = Object(_styled_system_core__WEBPACK_IMPORTED_MODULE_0__["system"])
 /***/ }),
 
 /***/ "../../node_modules/@styled-system/grid/dist/index.esm.js":
-/*!*************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@styled-system/grid/dist/index.esm.js ***!
-  \*************************************************************************************************************************************/
+/*!********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@styled-system/grid/dist/index.esm.js ***!
+  \********************************************************************************************************************************************/
 /*! exports provided: grid, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -5390,9 +5390,9 @@ var grid = Object(_styled_system_core__WEBPACK_IMPORTED_MODULE_0__["system"])(co
 /***/ }),
 
 /***/ "../../node_modules/@styled-system/layout/dist/index.esm.js":
-/*!***************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@styled-system/layout/dist/index.esm.js ***!
-  \***************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@styled-system/layout/dist/index.esm.js ***!
+  \**********************************************************************************************************************************************/
 /*! exports provided: layout, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -5453,9 +5453,9 @@ var layout = Object(_styled_system_core__WEBPACK_IMPORTED_MODULE_0__["system"])(
 /***/ }),
 
 /***/ "../../node_modules/@styled-system/position/dist/index.esm.js":
-/*!*****************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@styled-system/position/dist/index.esm.js ***!
-  \*****************************************************************************************************************************************/
+/*!************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@styled-system/position/dist/index.esm.js ***!
+  \************************************************************************************************************************************************/
 /*! exports provided: position, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -5501,9 +5501,9 @@ var position = Object(_styled_system_core__WEBPACK_IMPORTED_MODULE_0__["system"]
 /***/ }),
 
 /***/ "../../node_modules/@styled-system/shadow/dist/index.esm.js":
-/*!***************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@styled-system/shadow/dist/index.esm.js ***!
-  \***************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@styled-system/shadow/dist/index.esm.js ***!
+  \**********************************************************************************************************************************************/
 /*! exports provided: shadow, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -5528,9 +5528,9 @@ var shadow = Object(_styled_system_core__WEBPACK_IMPORTED_MODULE_0__["system"])(
 /***/ }),
 
 /***/ "../../node_modules/@styled-system/space/dist/index.esm.js":
-/*!**************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@styled-system/space/dist/index.esm.js ***!
-  \**************************************************************************************************************************************/
+/*!*********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@styled-system/space/dist/index.esm.js ***!
+  \*********************************************************************************************************************************************/
 /*! exports provided: margin, padding, space, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -5670,9 +5670,9 @@ var space = Object(_styled_system_core__WEBPACK_IMPORTED_MODULE_0__["compose"])(
 /***/ }),
 
 /***/ "../../node_modules/@styled-system/theme-get/dist/index.esm.js":
-/*!******************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@styled-system/theme-get/dist/index.esm.js ***!
-  \******************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@styled-system/theme-get/dist/index.esm.js ***!
+  \*************************************************************************************************************************************************/
 /*! exports provided: themeGet, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -5696,9 +5696,9 @@ var themeGet = function themeGet(path, fallback) {
 /***/ }),
 
 /***/ "../../node_modules/@styled-system/typography/dist/index.esm.js":
-/*!*******************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@styled-system/typography/dist/index.esm.js ***!
-  \*******************************************************************************************************************************************/
+/*!**************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@styled-system/typography/dist/index.esm.js ***!
+  \**************************************************************************************************************************************************/
 /*! exports provided: typography, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -5742,9 +5742,9 @@ var typography = Object(_styled_system_core__WEBPACK_IMPORTED_MODULE_0__["system
 /***/ }),
 
 /***/ "../../node_modules/@styled-system/variant/dist/index.esm.js":
-/*!****************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@styled-system/variant/dist/index.esm.js ***!
-  \****************************************************************************************************************************************/
+/*!***********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@styled-system/variant/dist/index.esm.js ***!
+  \***********************************************************************************************************************************************/
 /*! exports provided: variant, default, buttonStyle, textStyle, colorStyle */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -5802,9 +5802,9 @@ var colorStyle = variant({
 /***/ }),
 
 /***/ "../../node_modules/@wry/context/lib/context.esm.js":
-/*!*******************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@wry/context/lib/context.esm.js ***!
-  \*******************************************************************************************************************************/
+/*!**************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@wry/context/lib/context.esm.js ***!
+  \**************************************************************************************************************************************/
 /*! exports provided: Slot, asyncFromGen, bind, noContext, setTimeout, wrapYieldingFiberMethods */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -6020,9 +6020,9 @@ function wrapYieldingFiberMethods(Fiber) {
 /***/ }),
 
 /***/ "../../node_modules/@wry/equality/lib/equality.esm.js":
-/*!*********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/@wry/equality/lib/equality.esm.js ***!
-  \*********************************************************************************************************************************/
+/*!****************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/@wry/equality/lib/equality.esm.js ***!
+  \****************************************************************************************************************************************/
 /*! exports provided: default, equal */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -6163,9 +6163,9 @@ function previouslyCompared(a, b) {
 /***/ }),
 
 /***/ "../../node_modules/add-px-to-style/index.js":
-/*!************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/add-px-to-style/index.js ***!
-  \************************************************************************************************************************/
+/*!*******************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/add-px-to-style/index.js ***!
+  \*******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -6214,9 +6214,9 @@ module.exports = function(name, value) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-cache-inmemory/lib/bundle.esm.js":
-/*!***************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/apollo-cache-inmemory/lib/bundle.esm.js ***!
-  \***************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/apollo-cache-inmemory/lib/bundle.esm.js ***!
+  \**********************************************************************************************************************************************/
 /*! exports provided: HeuristicFragmentMatcher, InMemoryCache, IntrospectionFragmentMatcher, ObjectCache, StoreReader, StoreWriter, WriteError, assertIdValue, defaultDataIdFromObject, defaultNormalizedCacheFactory, enhanceErrorWithDocument */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -7227,9 +7227,9 @@ var InMemoryCache = (function (_super) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-cache/lib/bundle.esm.js":
-/*!******************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/apollo-cache/lib/bundle.esm.js ***!
-  \******************************************************************************************************************************/
+/*!*************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/apollo-cache/lib/bundle.esm.js ***!
+  \*************************************************************************************************************************************/
 /*! exports provided: ApolloCache, Cache */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -7418,9 +7418,9 @@ var Cache;
 /***/ }),
 
 /***/ "../../node_modules/apollo-client/bundle.esm.js":
-/*!***************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/apollo-client/bundle.esm.js ***!
-  \***************************************************************************************************************************/
+/*!**********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/apollo-client/bundle.esm.js ***!
+  \**********************************************************************************************************************************/
 /*! exports provided: default, ApolloClient, ApolloError, FetchType, NetworkStatus, ObservableQuery, isApolloError */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -9549,9 +9549,9 @@ var ApolloClient = (function () {
 /***/ }),
 
 /***/ "../../node_modules/apollo-link-http-common/lib/bundle.esm.js":
-/*!*****************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/apollo-link-http-common/lib/bundle.esm.js ***!
-  \*****************************************************************************************************************************************/
+/*!************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/apollo-link-http-common/lib/bundle.esm.js ***!
+  \************************************************************************************************************************************************/
 /*! exports provided: checkFetcher, createSignalIfSupported, fallbackHttpConfig, parseAndCheckHttpResponse, selectHttpOptionsAndBody, selectURI, serializeFetchParameter, throwServerError */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -9698,9 +9698,9 @@ var selectURI = function (operation, fallbackURI) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-link-http/lib/bundle.esm.js":
-/*!**********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/apollo-link-http/lib/bundle.esm.js ***!
-  \**********************************************************************************************************************************/
+/*!*****************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/apollo-link-http/lib/bundle.esm.js ***!
+  \*****************************************************************************************************************************************/
 /*! exports provided: HttpLink, createHttpLink */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -9861,9 +9861,9 @@ var HttpLink = (function (_super) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-link/lib/bundle.esm.js":
-/*!*****************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/apollo-link/lib/bundle.esm.js ***!
-  \*****************************************************************************************************************************/
+/*!************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/apollo-link/lib/bundle.esm.js ***!
+  \************************************************************************************************************************************/
 /*! exports provided: Observable, getOperationName, ApolloLink, concat, createOperation, empty, execute, from, fromError, fromPromise, makePromise, split, toPromise */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -10084,9 +10084,9 @@ function execute(link, operation) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-utilities/lib/bundle.esm.js":
-/*!**********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/apollo-utilities/lib/bundle.esm.js ***!
-  \**********************************************************************************************************************************/
+/*!*****************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/apollo-utilities/lib/bundle.esm.js ***!
+  \*****************************************************************************************************************************************/
 /*! exports provided: isEqual, addTypenameToDocument, argumentsObjectFromField, assign, buildQueryFromSelectionSet, canUseWeakMap, checkDocument, cloneDeep, createFragmentMap, getDefaultValues, getDirectiveInfoFromField, getDirectiveNames, getDirectivesFromDocument, getEnv, getFragmentDefinition, getFragmentDefinitions, getFragmentQueryDocument, getInclusionDirectives, getMainDefinition, getMutationDefinition, getOperationDefinition, getOperationDefinitionOrDie, getOperationName, getQueryDefinition, getStoreKeyName, graphQLResultHasError, hasClientExports, hasDirectives, isDevelopment, isEnv, isField, isIdValue, isInlineFragment, isJsonValue, isNumberValue, isProduction, isScalarValue, isTest, maybeDeepFreeze, mergeDeep, mergeDeepArray, removeArgumentsFromDocument, removeClientSetsFromDocument, removeConnectionDirectiveFromDocument, removeDirectivesFromDocument, removeFragmentSpreadFromDocument, resultKeyNameFromField, shouldInclude, storeKeyNameFromField, stripSymbols, toIdValue, tryFunctionOrLogError, valueFromNode, valueToObjectRepresentation, variablesInOperation, warnOnceInDevelopment */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -11075,9 +11075,9 @@ function stripSymbols(data) {
 /***/ }),
 
 /***/ "../../node_modules/classnames/index.js":
-/*!*******************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/classnames/index.js ***!
-  \*******************************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/classnames/index.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -11137,9 +11137,9 @@ var __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;/*!
 /***/ }),
 
 /***/ "../../node_modules/consolidated-events/lib/index.esm.js":
-/*!************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/consolidated-events/lib/index.esm.js ***!
-  \************************************************************************************************************************************/
+/*!*******************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/consolidated-events/lib/index.esm.js ***!
+  \*******************************************************************************************************************************************/
 /*! exports provided: addEventListener */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -11357,9 +11357,9 @@ function addEventListener(target, eventName, listener, options) {
 /***/ }),
 
 /***/ "../../node_modules/cookie/index.js":
-/*!***************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/cookie/index.js ***!
-  \***************************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/cookie/index.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -11567,9 +11567,9 @@ function tryDecode(str, decode) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/array/from.js":
-/*!********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/fn/array/from.js ***!
-  \********************************************************************************************************************************/
+/*!***************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/fn/array/from.js ***!
+  \***************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -11581,9 +11581,9 @@ module.exports = __webpack_require__(/*! ../../modules/_core */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/array/is-array.js":
-/*!************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/fn/array/is-array.js ***!
-  \************************************************************************************************************************************/
+/*!*******************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/fn/array/is-array.js ***!
+  \*******************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -11594,9 +11594,9 @@ module.exports = __webpack_require__(/*! ../../modules/_core */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/get-iterator.js":
-/*!**********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/fn/get-iterator.js ***!
-  \**********************************************************************************************************************************/
+/*!*****************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/fn/get-iterator.js ***!
+  \*****************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -11608,9 +11608,9 @@ module.exports = __webpack_require__(/*! ../modules/core.get-iterator */ "../../
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/is-iterable.js":
-/*!*********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/fn/is-iterable.js ***!
-  \*********************************************************************************************************************************/
+/*!****************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/fn/is-iterable.js ***!
+  \****************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -11622,9 +11622,9 @@ module.exports = __webpack_require__(/*! ../modules/core.is-iterable */ "../../n
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/json/stringify.js":
-/*!************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/fn/json/stringify.js ***!
-  \************************************************************************************************************************************/
+/*!*******************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/fn/json/stringify.js ***!
+  \*******************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -11638,9 +11638,9 @@ module.exports = function stringify(it) { // eslint-disable-line no-unused-vars
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/map.js":
-/*!*************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/fn/map.js ***!
-  \*************************************************************************************************************************/
+/*!********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/fn/map.js ***!
+  \********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -11657,9 +11657,9 @@ module.exports = __webpack_require__(/*! ../modules/_core */ "../../node_modules
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/object/assign.js":
-/*!***********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/fn/object/assign.js ***!
-  \***********************************************************************************************************************************/
+/*!******************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/fn/object/assign.js ***!
+  \******************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -11670,9 +11670,9 @@ module.exports = __webpack_require__(/*! ../../modules/_core */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/object/create.js":
-/*!***********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/fn/object/create.js ***!
-  \***********************************************************************************************************************************/
+/*!******************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/fn/object/create.js ***!
+  \******************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -11686,9 +11686,9 @@ module.exports = function create(P, D) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/object/define-properties.js":
-/*!**********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/fn/object/define-properties.js ***!
-  \**********************************************************************************************************************************************/
+/*!*****************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/fn/object/define-properties.js ***!
+  \*****************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -11702,9 +11702,9 @@ module.exports = function defineProperties(T, D) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/object/define-property.js":
-/*!********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/fn/object/define-property.js ***!
-  \********************************************************************************************************************************************/
+/*!***************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/fn/object/define-property.js ***!
+  \***************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -11718,9 +11718,9 @@ module.exports = function defineProperty(it, key, desc) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/object/freeze.js":
-/*!***********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/fn/object/freeze.js ***!
-  \***********************************************************************************************************************************/
+/*!******************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/fn/object/freeze.js ***!
+  \******************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -11731,9 +11731,9 @@ module.exports = __webpack_require__(/*! ../../modules/_core */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/object/get-own-property-descriptor.js":
-/*!********************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/fn/object/get-own-property-descriptor.js ***!
-  \********************************************************************************************************************************************************/
+/*!***************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/fn/object/get-own-property-descriptor.js ***!
+  \***************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -11747,9 +11747,9 @@ module.exports = function getOwnPropertyDescriptor(it, key) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/object/get-own-property-descriptors.js":
-/*!*********************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/fn/object/get-own-property-descriptors.js ***!
-  \*********************************************************************************************************************************************************/
+/*!****************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/fn/object/get-own-property-descriptors.js ***!
+  \****************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -11760,9 +11760,9 @@ module.exports = __webpack_require__(/*! ../../modules/_core */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/object/get-own-property-symbols.js":
-/*!*****************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/fn/object/get-own-property-symbols.js ***!
-  \*****************************************************************************************************************************************************/
+/*!************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/fn/object/get-own-property-symbols.js ***!
+  \************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -11773,9 +11773,9 @@ module.exports = __webpack_require__(/*! ../../modules/_core */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/object/get-prototype-of.js":
-/*!*********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/fn/object/get-prototype-of.js ***!
-  \*********************************************************************************************************************************************/
+/*!****************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/fn/object/get-prototype-of.js ***!
+  \****************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -11786,9 +11786,9 @@ module.exports = __webpack_require__(/*! ../../modules/_core */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/object/keys.js":
-/*!*********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/fn/object/keys.js ***!
-  \*********************************************************************************************************************************/
+/*!****************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/fn/object/keys.js ***!
+  \****************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -11799,9 +11799,9 @@ module.exports = __webpack_require__(/*! ../../modules/_core */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/object/set-prototype-of.js":
-/*!*********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/fn/object/set-prototype-of.js ***!
-  \*********************************************************************************************************************************************/
+/*!****************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/fn/object/set-prototype-of.js ***!
+  \****************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -11812,9 +11812,9 @@ module.exports = __webpack_require__(/*! ../../modules/_core */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/parse-float.js":
-/*!*********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/fn/parse-float.js ***!
-  \*********************************************************************************************************************************/
+/*!****************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/fn/parse-float.js ***!
+  \****************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -11825,9 +11825,9 @@ module.exports = __webpack_require__(/*! ../modules/_core */ "../../node_modules
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/promise.js":
-/*!*****************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/fn/promise.js ***!
-  \*****************************************************************************************************************************/
+/*!************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/fn/promise.js ***!
+  \************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -11843,9 +11843,9 @@ module.exports = __webpack_require__(/*! ../modules/_core */ "../../node_modules
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/reflect/construct.js":
-/*!***************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/fn/reflect/construct.js ***!
-  \***************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/fn/reflect/construct.js ***!
+  \**********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -11856,9 +11856,9 @@ module.exports = __webpack_require__(/*! ../../modules/_core */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/set.js":
-/*!*************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/fn/set.js ***!
-  \*************************************************************************************************************************/
+/*!********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/fn/set.js ***!
+  \********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -11875,9 +11875,9 @@ module.exports = __webpack_require__(/*! ../modules/_core */ "../../node_modules
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/symbol/index.js":
-/*!**********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/fn/symbol/index.js ***!
-  \**********************************************************************************************************************************/
+/*!*****************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/fn/symbol/index.js ***!
+  \*****************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -11891,9 +11891,9 @@ module.exports = __webpack_require__(/*! ../../modules/_core */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/symbol/iterator.js":
-/*!*************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/fn/symbol/iterator.js ***!
-  \*************************************************************************************************************************************/
+/*!********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/fn/symbol/iterator.js ***!
+  \********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -11905,9 +11905,9 @@ module.exports = __webpack_require__(/*! ../../modules/_wks-ext */ "../../node_m
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/weak-map.js":
-/*!******************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/fn/weak-map.js ***!
-  \******************************************************************************************************************************/
+/*!*************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/fn/weak-map.js ***!
+  \*************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -11922,9 +11922,9 @@ module.exports = __webpack_require__(/*! ../modules/_core */ "../../node_modules
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_a-function.js":
-/*!**************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_a-function.js ***!
-  \**************************************************************************************************************************************/
+/*!*********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_a-function.js ***!
+  \*********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -11937,9 +11937,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_add-to-unscopables.js":
-/*!**********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_add-to-unscopables.js ***!
-  \**********************************************************************************************************************************************/
+/*!*****************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_add-to-unscopables.js ***!
+  \*****************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -11949,9 +11949,9 @@ module.exports = function () { /* empty */ };
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_an-instance.js":
-/*!***************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_an-instance.js ***!
-  \***************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_an-instance.js ***!
+  \**********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -11965,9 +11965,9 @@ module.exports = function (it, Constructor, name, forbiddenField) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_an-object.js":
-/*!*************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_an-object.js ***!
-  \*************************************************************************************************************************************/
+/*!********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_an-object.js ***!
+  \********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -11981,9 +11981,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_array-from-iterable.js":
-/*!***********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_array-from-iterable.js ***!
-  \***********************************************************************************************************************************************/
+/*!******************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_array-from-iterable.js ***!
+  \******************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -11999,9 +11999,9 @@ module.exports = function (iter, ITERATOR) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_array-includes.js":
-/*!******************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_array-includes.js ***!
-  \******************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_array-includes.js ***!
+  \*************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -12033,9 +12033,9 @@ module.exports = function (IS_INCLUDES) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_array-methods.js":
-/*!*****************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_array-methods.js ***!
-  \*****************************************************************************************************************************************/
+/*!************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_array-methods.js ***!
+  \************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -12088,9 +12088,9 @@ module.exports = function (TYPE, $create) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_array-species-constructor.js":
-/*!*****************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_array-species-constructor.js ***!
-  \*****************************************************************************************************************************************************/
+/*!************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_array-species-constructor.js ***!
+  \************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -12115,9 +12115,9 @@ module.exports = function (original) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_array-species-create.js":
-/*!************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_array-species-create.js ***!
-  \************************************************************************************************************************************************/
+/*!*******************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_array-species-create.js ***!
+  \*******************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -12132,9 +12132,9 @@ module.exports = function (original, length) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_bind.js":
-/*!********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_bind.js ***!
-  \********************************************************************************************************************************/
+/*!***************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_bind.js ***!
+  \***************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -12169,9 +12169,9 @@ module.exports = Function.bind || function bind(that /* , ...args */) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_classof.js":
-/*!***********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_classof.js ***!
-  \***********************************************************************************************************************************/
+/*!******************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_classof.js ***!
+  \******************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -12203,9 +12203,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_cof.js":
-/*!*******************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_cof.js ***!
-  \*******************************************************************************************************************************/
+/*!**************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_cof.js ***!
+  \**************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -12219,9 +12219,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_collection-strong.js":
-/*!*********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_collection-strong.js ***!
-  \*********************************************************************************************************************************************/
+/*!****************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_collection-strong.js ***!
+  \****************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -12375,9 +12375,9 @@ module.exports = {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_collection-to-json.js":
-/*!**********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_collection-to-json.js ***!
-  \**********************************************************************************************************************************************/
+/*!*****************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_collection-to-json.js ***!
+  \*****************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -12395,9 +12395,9 @@ module.exports = function (NAME) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_collection-weak.js":
-/*!*******************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_collection-weak.js ***!
-  \*******************************************************************************************************************************************/
+/*!**************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_collection-weak.js ***!
+  \**************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -12492,9 +12492,9 @@ module.exports = {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_collection.js":
-/*!**************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_collection.js ***!
-  \**************************************************************************************************************************************/
+/*!*********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_collection.js ***!
+  \*********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -12563,9 +12563,9 @@ module.exports = function (NAME, wrapper, methods, common, IS_MAP, IS_WEAK) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_core.js":
-/*!********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_core.js ***!
-  \********************************************************************************************************************************/
+/*!***************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_core.js ***!
+  \***************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -12576,9 +12576,9 @@ if (typeof __e == 'number') __e = core; // eslint-disable-line no-undef
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_create-property.js":
-/*!*******************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_create-property.js ***!
-  \*******************************************************************************************************************************************/
+/*!**************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_create-property.js ***!
+  \**************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -12596,9 +12596,9 @@ module.exports = function (object, index, value) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_ctx.js":
-/*!*******************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_ctx.js ***!
-  \*******************************************************************************************************************************/
+/*!**************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_ctx.js ***!
+  \**************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -12627,9 +12627,9 @@ module.exports = function (fn, that, length) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_defined.js":
-/*!***********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_defined.js ***!
-  \***********************************************************************************************************************************/
+/*!******************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_defined.js ***!
+  \******************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -12643,9 +12643,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_descriptors.js":
-/*!***************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_descriptors.js ***!
-  \***************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_descriptors.js ***!
+  \**********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -12658,9 +12658,9 @@ module.exports = !__webpack_require__(/*! ./_fails */ "../../node_modules/core-j
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_dom-create.js":
-/*!**************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_dom-create.js ***!
-  \**************************************************************************************************************************************/
+/*!*********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_dom-create.js ***!
+  \*********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -12676,9 +12676,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_enum-bug-keys.js":
-/*!*****************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_enum-bug-keys.js ***!
-  \*****************************************************************************************************************************************/
+/*!************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_enum-bug-keys.js ***!
+  \************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -12691,9 +12691,9 @@ module.exports = (
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_enum-keys.js":
-/*!*************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_enum-keys.js ***!
-  \*************************************************************************************************************************************/
+/*!********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_enum-keys.js ***!
+  \********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -12717,9 +12717,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_export.js":
-/*!**********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_export.js ***!
-  \**********************************************************************************************************************************/
+/*!*****************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_export.js ***!
+  \*****************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -12790,9 +12790,9 @@ module.exports = $export;
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_fails.js":
-/*!*********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_fails.js ***!
-  \*********************************************************************************************************************************/
+/*!****************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_fails.js ***!
+  \****************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -12808,9 +12808,9 @@ module.exports = function (exec) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_for-of.js":
-/*!**********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_for-of.js ***!
-  \**********************************************************************************************************************************/
+/*!*****************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_for-of.js ***!
+  \*****************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -12844,9 +12844,9 @@ exports.RETURN = RETURN;
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_global.js":
-/*!**********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_global.js ***!
-  \**********************************************************************************************************************************/
+/*!*****************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_global.js ***!
+  \*****************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -12861,9 +12861,9 @@ if (typeof __g == 'number') __g = global; // eslint-disable-line no-undef
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_has.js":
-/*!*******************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_has.js ***!
-  \*******************************************************************************************************************************/
+/*!**************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_has.js ***!
+  \**************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -12876,9 +12876,9 @@ module.exports = function (it, key) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_hide.js":
-/*!********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_hide.js ***!
-  \********************************************************************************************************************************/
+/*!***************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_hide.js ***!
+  \***************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -12895,9 +12895,9 @@ module.exports = __webpack_require__(/*! ./_descriptors */ "../../node_modules/c
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_html.js":
-/*!********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_html.js ***!
-  \********************************************************************************************************************************/
+/*!***************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_html.js ***!
+  \***************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -12908,9 +12908,9 @@ module.exports = document && document.documentElement;
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_ie8-dom-define.js":
-/*!******************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_ie8-dom-define.js ***!
-  \******************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_ie8-dom-define.js ***!
+  \*************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -12922,9 +12922,9 @@ module.exports = !__webpack_require__(/*! ./_descriptors */ "../../node_modules/
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_invoke.js":
-/*!**********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_invoke.js ***!
-  \**********************************************************************************************************************************/
+/*!*****************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_invoke.js ***!
+  \*****************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -12949,9 +12949,9 @@ module.exports = function (fn, args, that) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_iobject.js":
-/*!***********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_iobject.js ***!
-  \***********************************************************************************************************************************/
+/*!******************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_iobject.js ***!
+  \******************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -12966,9 +12966,9 @@ module.exports = Object('z').propertyIsEnumerable(0) ? Object : function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_is-array-iter.js":
-/*!*****************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_is-array-iter.js ***!
-  \*****************************************************************************************************************************************/
+/*!************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_is-array-iter.js ***!
+  \************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -12985,9 +12985,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_is-array.js":
-/*!************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_is-array.js ***!
-  \************************************************************************************************************************************/
+/*!*******************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_is-array.js ***!
+  \*******************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13001,9 +13001,9 @@ module.exports = Array.isArray || function isArray(arg) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_is-object.js":
-/*!*************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_is-object.js ***!
-  \*************************************************************************************************************************************/
+/*!********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_is-object.js ***!
+  \********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -13015,9 +13015,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_iter-call.js":
-/*!*************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_iter-call.js ***!
-  \*************************************************************************************************************************************/
+/*!********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_iter-call.js ***!
+  \********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13038,9 +13038,9 @@ module.exports = function (iterator, fn, value, entries) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_iter-create.js":
-/*!***************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_iter-create.js ***!
-  \***************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_iter-create.js ***!
+  \**********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13063,9 +13063,9 @@ module.exports = function (Constructor, NAME, next) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_iter-define.js":
-/*!***************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_iter-define.js ***!
-  \***************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_iter-define.js ***!
+  \**********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13144,9 +13144,9 @@ module.exports = function (Base, NAME, Constructor, next, DEFAULT, IS_SET, FORCE
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_iter-detect.js":
-/*!***************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_iter-detect.js ***!
-  \***************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_iter-detect.js ***!
+  \**********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13177,9 +13177,9 @@ module.exports = function (exec, skipClosing) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_iter-step.js":
-/*!*************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_iter-step.js ***!
-  \*************************************************************************************************************************************/
+/*!********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_iter-step.js ***!
+  \********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -13191,9 +13191,9 @@ module.exports = function (done, value) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_iterators.js":
-/*!*************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_iterators.js ***!
-  \*************************************************************************************************************************************/
+/*!********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_iterators.js ***!
+  \********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -13203,9 +13203,9 @@ module.exports = {};
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_library.js":
-/*!***********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_library.js ***!
-  \***********************************************************************************************************************************/
+/*!******************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_library.js ***!
+  \******************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -13215,9 +13215,9 @@ module.exports = true;
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_meta.js":
-/*!********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_meta.js ***!
-  \********************************************************************************************************************************/
+/*!***************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_meta.js ***!
+  \***************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13279,9 +13279,9 @@ var meta = module.exports = {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_microtask.js":
-/*!*************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_microtask.js ***!
-  \*************************************************************************************************************************************/
+/*!********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_microtask.js ***!
+  \********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13359,9 +13359,9 @@ module.exports = function () {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_new-promise-capability.js":
-/*!**************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_new-promise-capability.js ***!
-  \**************************************************************************************************************************************************/
+/*!*********************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_new-promise-capability.js ***!
+  \*********************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13389,9 +13389,9 @@ module.exports.f = function (C) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-assign.js":
-/*!*****************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_object-assign.js ***!
-  \*****************************************************************************************************************************************/
+/*!************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_object-assign.js ***!
+  \************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13439,9 +13439,9 @@ module.exports = !$assign || __webpack_require__(/*! ./_fails */ "../../node_mod
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-create.js":
-/*!*****************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_object-create.js ***!
-  \*****************************************************************************************************************************************/
+/*!************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_object-create.js ***!
+  \************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13491,9 +13491,9 @@ module.exports = Object.create || function create(O, Properties) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-dp.js":
-/*!*************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_object-dp.js ***!
-  \*************************************************************************************************************************************/
+/*!********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_object-dp.js ***!
+  \********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13518,9 +13518,9 @@ exports.f = __webpack_require__(/*! ./_descriptors */ "../../node_modules/core-j
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-dps.js":
-/*!**************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_object-dps.js ***!
-  \**************************************************************************************************************************************/
+/*!*********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_object-dps.js ***!
+  \*********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13542,9 +13542,9 @@ module.exports = __webpack_require__(/*! ./_descriptors */ "../../node_modules/c
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-gopd.js":
-/*!***************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_object-gopd.js ***!
-  \***************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_object-gopd.js ***!
+  \**********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13569,9 +13569,9 @@ exports.f = __webpack_require__(/*! ./_descriptors */ "../../node_modules/core-j
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-gopn-ext.js":
-/*!*******************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_object-gopn-ext.js ***!
-  \*******************************************************************************************************************************************/
+/*!**************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_object-gopn-ext.js ***!
+  \**************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13599,9 +13599,9 @@ module.exports.f = function getOwnPropertyNames(it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-gopn.js":
-/*!***************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_object-gopn.js ***!
-  \***************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_object-gopn.js ***!
+  \**********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13617,9 +13617,9 @@ exports.f = Object.getOwnPropertyNames || function getOwnPropertyNames(O) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-gops.js":
-/*!***************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_object-gops.js ***!
-  \***************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_object-gops.js ***!
+  \**********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -13629,9 +13629,9 @@ exports.f = Object.getOwnPropertySymbols;
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-gpo.js":
-/*!**************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_object-gpo.js ***!
-  \**************************************************************************************************************************************/
+/*!*********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_object-gpo.js ***!
+  \*********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13653,9 +13653,9 @@ module.exports = Object.getPrototypeOf || function (O) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-keys-internal.js":
-/*!************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_object-keys-internal.js ***!
-  \************************************************************************************************************************************************/
+/*!*******************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_object-keys-internal.js ***!
+  \*******************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13681,9 +13681,9 @@ module.exports = function (object, names) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-keys.js":
-/*!***************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_object-keys.js ***!
-  \***************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_object-keys.js ***!
+  \**********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13699,9 +13699,9 @@ module.exports = Object.keys || function keys(O) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-pie.js":
-/*!**************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_object-pie.js ***!
-  \**************************************************************************************************************************************/
+/*!*********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_object-pie.js ***!
+  \*********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -13711,9 +13711,9 @@ exports.f = {}.propertyIsEnumerable;
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-sap.js":
-/*!**************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_object-sap.js ***!
-  \**************************************************************************************************************************************/
+/*!*********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_object-sap.js ***!
+  \*********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13732,9 +13732,9 @@ module.exports = function (KEY, exec) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_own-keys.js":
-/*!************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_own-keys.js ***!
-  \************************************************************************************************************************************/
+/*!*******************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_own-keys.js ***!
+  \*******************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13753,9 +13753,9 @@ module.exports = Reflect && Reflect.ownKeys || function ownKeys(it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_parse-float.js":
-/*!***************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_parse-float.js ***!
-  \***************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_parse-float.js ***!
+  \**********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13772,9 +13772,9 @@ module.exports = 1 / $parseFloat(__webpack_require__(/*! ./_string-ws */ "../../
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_perform.js":
-/*!***********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_perform.js ***!
-  \***********************************************************************************************************************************/
+/*!******************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_perform.js ***!
+  \******************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -13790,9 +13790,9 @@ module.exports = function (exec) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_promise-resolve.js":
-/*!*******************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_promise-resolve.js ***!
-  \*******************************************************************************************************************************************/
+/*!**************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_promise-resolve.js ***!
+  \**************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13813,9 +13813,9 @@ module.exports = function (C, x) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_property-desc.js":
-/*!*****************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_property-desc.js ***!
-  \*****************************************************************************************************************************************/
+/*!************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_property-desc.js ***!
+  \************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -13832,9 +13832,9 @@ module.exports = function (bitmap, value) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_redefine-all.js":
-/*!****************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_redefine-all.js ***!
-  \****************************************************************************************************************************************/
+/*!***********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_redefine-all.js ***!
+  \***********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13850,9 +13850,9 @@ module.exports = function (target, src, safe) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_redefine.js":
-/*!************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_redefine.js ***!
-  \************************************************************************************************************************************/
+/*!*******************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_redefine.js ***!
+  \*******************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13862,9 +13862,9 @@ module.exports = __webpack_require__(/*! ./_hide */ "../../node_modules/core-js/
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_set-collection-from.js":
-/*!***********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_set-collection-from.js ***!
-  \***********************************************************************************************************************************************/
+/*!******************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_set-collection-from.js ***!
+  \******************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13902,9 +13902,9 @@ module.exports = function (COLLECTION) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_set-collection-of.js":
-/*!*********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_set-collection-of.js ***!
-  \*********************************************************************************************************************************************/
+/*!****************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_set-collection-of.js ***!
+  \****************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13926,9 +13926,9 @@ module.exports = function (COLLECTION) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_set-proto.js":
-/*!*************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_set-proto.js ***!
-  \*************************************************************************************************************************************/
+/*!********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_set-proto.js ***!
+  \********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13962,9 +13962,9 @@ module.exports = {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_set-species.js":
-/*!***************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_set-species.js ***!
-  \***************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_set-species.js ***!
+  \**********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13988,9 +13988,9 @@ module.exports = function (KEY) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_set-to-string-tag.js":
-/*!*********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_set-to-string-tag.js ***!
-  \*********************************************************************************************************************************************/
+/*!****************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_set-to-string-tag.js ***!
+  \****************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14006,9 +14006,9 @@ module.exports = function (it, tag, stat) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_shared-key.js":
-/*!**************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_shared-key.js ***!
-  \**************************************************************************************************************************************/
+/*!*********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_shared-key.js ***!
+  \*********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14022,9 +14022,9 @@ module.exports = function (key) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_shared.js":
-/*!**********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_shared.js ***!
-  \**********************************************************************************************************************************/
+/*!*****************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_shared.js ***!
+  \*****************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14045,9 +14045,9 @@ var store = global[SHARED] || (global[SHARED] = {});
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_species-constructor.js":
-/*!***********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_species-constructor.js ***!
-  \***********************************************************************************************************************************************/
+/*!******************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_species-constructor.js ***!
+  \******************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14065,9 +14065,9 @@ module.exports = function (O, D) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_string-at.js":
-/*!*************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_string-at.js ***!
-  \*************************************************************************************************************************************/
+/*!********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_string-at.js ***!
+  \********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14093,9 +14093,9 @@ module.exports = function (TO_STRING) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_string-trim.js":
-/*!***************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_string-trim.js ***!
-  \***************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_string-trim.js ***!
+  \**********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14134,9 +14134,9 @@ module.exports = exporter;
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_string-ws.js":
-/*!*************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_string-ws.js ***!
-  \*************************************************************************************************************************************/
+/*!********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_string-ws.js ***!
+  \********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -14147,9 +14147,9 @@ module.exports = '\x09\x0A\x0B\x0C\x0D\x20\xA0\u1680\u180E\u2000\u2001\u2002\u20
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_task.js":
-/*!********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_task.js ***!
-  \********************************************************************************************************************************/
+/*!***************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_task.js ***!
+  \***************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14242,9 +14242,9 @@ module.exports = {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_to-absolute-index.js":
-/*!*********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_to-absolute-index.js ***!
-  \*********************************************************************************************************************************************/
+/*!****************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_to-absolute-index.js ***!
+  \****************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14260,9 +14260,9 @@ module.exports = function (index, length) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_to-integer.js":
-/*!**************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_to-integer.js ***!
-  \**************************************************************************************************************************************/
+/*!*********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_to-integer.js ***!
+  \*********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -14277,9 +14277,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_to-iobject.js":
-/*!**************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_to-iobject.js ***!
-  \**************************************************************************************************************************************/
+/*!*********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_to-iobject.js ***!
+  \*********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14294,9 +14294,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_to-length.js":
-/*!*************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_to-length.js ***!
-  \*************************************************************************************************************************************/
+/*!********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_to-length.js ***!
+  \********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14311,9 +14311,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_to-object.js":
-/*!*************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_to-object.js ***!
-  \*************************************************************************************************************************************/
+/*!********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_to-object.js ***!
+  \********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14327,9 +14327,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_to-primitive.js":
-/*!****************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_to-primitive.js ***!
-  \****************************************************************************************************************************************/
+/*!***********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_to-primitive.js ***!
+  \***********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14350,9 +14350,9 @@ module.exports = function (it, S) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_uid.js":
-/*!*******************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_uid.js ***!
-  \*******************************************************************************************************************************/
+/*!**************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_uid.js ***!
+  \**************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -14366,9 +14366,9 @@ module.exports = function (key) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_user-agent.js":
-/*!**************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_user-agent.js ***!
-  \**************************************************************************************************************************************/
+/*!*********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_user-agent.js ***!
+  \*********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14381,9 +14381,9 @@ module.exports = navigator && navigator.userAgent || '';
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_validate-collection.js":
-/*!***********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_validate-collection.js ***!
-  \***********************************************************************************************************************************************/
+/*!******************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_validate-collection.js ***!
+  \******************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14397,9 +14397,9 @@ module.exports = function (it, TYPE) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_wks-define.js":
-/*!**************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_wks-define.js ***!
-  \**************************************************************************************************************************************/
+/*!*********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_wks-define.js ***!
+  \*********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14417,9 +14417,9 @@ module.exports = function (name) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_wks-ext.js":
-/*!***********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_wks-ext.js ***!
-  \***********************************************************************************************************************************/
+/*!******************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_wks-ext.js ***!
+  \******************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14429,9 +14429,9 @@ exports.f = __webpack_require__(/*! ./_wks */ "../../node_modules/core-js/librar
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_wks.js":
-/*!*******************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/_wks.js ***!
-  \*******************************************************************************************************************************/
+/*!**************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/_wks.js ***!
+  \**************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14451,9 +14451,9 @@ $exports.store = store;
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/core.get-iterator-method.js":
-/*!***************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/core.get-iterator-method.js ***!
-  \***************************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/core.get-iterator-method.js ***!
+  \**********************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14470,9 +14470,9 @@ module.exports = __webpack_require__(/*! ./_core */ "../../node_modules/core-js/
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/core.get-iterator.js":
-/*!********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/core.get-iterator.js ***!
-  \********************************************************************************************************************************************/
+/*!***************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/core.get-iterator.js ***!
+  \***************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14488,9 +14488,9 @@ module.exports = __webpack_require__(/*! ./_core */ "../../node_modules/core-js/
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/core.is-iterable.js":
-/*!*******************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/core.is-iterable.js ***!
-  \*******************************************************************************************************************************************/
+/*!**************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/core.is-iterable.js ***!
+  \**************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14509,9 +14509,9 @@ module.exports = __webpack_require__(/*! ./_core */ "../../node_modules/core-js/
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.array.from.js":
-/*!*****************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/es6.array.from.js ***!
-  \*****************************************************************************************************************************************/
+/*!************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/es6.array.from.js ***!
+  \************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14558,9 +14558,9 @@ $export($export.S + $export.F * !__webpack_require__(/*! ./_iter-detect */ "../.
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.array.is-array.js":
-/*!*********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/es6.array.is-array.js ***!
-  \*********************************************************************************************************************************************/
+/*!****************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/es6.array.is-array.js ***!
+  \****************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14573,9 +14573,9 @@ $export($export.S, 'Array', { isArray: __webpack_require__(/*! ./_is-array */ ".
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.array.iterator.js":
-/*!*********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/es6.array.iterator.js ***!
-  \*********************************************************************************************************************************************/
+/*!****************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/es6.array.iterator.js ***!
+  \****************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14619,9 +14619,9 @@ addToUnscopables('entries');
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.map.js":
-/*!**********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/es6.map.js ***!
-  \**********************************************************************************************************************************/
+/*!*****************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/es6.map.js ***!
+  \*****************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14650,9 +14650,9 @@ module.exports = __webpack_require__(/*! ./_collection */ "../../node_modules/co
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.object.assign.js":
-/*!********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/es6.object.assign.js ***!
-  \********************************************************************************************************************************************/
+/*!***************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/es6.object.assign.js ***!
+  \***************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14665,9 +14665,9 @@ $export($export.S + $export.F, 'Object', { assign: __webpack_require__(/*! ./_ob
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.object.create.js":
-/*!********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/es6.object.create.js ***!
-  \********************************************************************************************************************************************/
+/*!***************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/es6.object.create.js ***!
+  \***************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14679,9 +14679,9 @@ $export($export.S, 'Object', { create: __webpack_require__(/*! ./_object-create 
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.object.define-properties.js":
-/*!*******************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/es6.object.define-properties.js ***!
-  \*******************************************************************************************************************************************************/
+/*!**************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/es6.object.define-properties.js ***!
+  \**************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14693,9 +14693,9 @@ $export($export.S + $export.F * !__webpack_require__(/*! ./_descriptors */ "../.
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.object.define-property.js":
-/*!*****************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/es6.object.define-property.js ***!
-  \*****************************************************************************************************************************************************/
+/*!************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/es6.object.define-property.js ***!
+  \************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14707,9 +14707,9 @@ $export($export.S + $export.F * !__webpack_require__(/*! ./_descriptors */ "../.
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.object.freeze.js":
-/*!********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/es6.object.freeze.js ***!
-  \********************************************************************************************************************************************/
+/*!***************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/es6.object.freeze.js ***!
+  \***************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14727,9 +14727,9 @@ __webpack_require__(/*! ./_object-sap */ "../../node_modules/core-js/library/mod
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.object.get-own-property-descriptor.js":
-/*!*****************************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/es6.object.get-own-property-descriptor.js ***!
-  \*****************************************************************************************************************************************************************/
+/*!************************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/es6.object.get-own-property-descriptor.js ***!
+  \************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14747,9 +14747,9 @@ __webpack_require__(/*! ./_object-sap */ "../../node_modules/core-js/library/mod
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.object.get-prototype-of.js":
-/*!******************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/es6.object.get-prototype-of.js ***!
-  \******************************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/es6.object.get-prototype-of.js ***!
+  \*************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14767,9 +14767,9 @@ __webpack_require__(/*! ./_object-sap */ "../../node_modules/core-js/library/mod
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.object.keys.js":
-/*!******************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/es6.object.keys.js ***!
-  \******************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/es6.object.keys.js ***!
+  \*************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14787,9 +14787,9 @@ __webpack_require__(/*! ./_object-sap */ "../../node_modules/core-js/library/mod
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.object.set-prototype-of.js":
-/*!******************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/es6.object.set-prototype-of.js ***!
-  \******************************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/es6.object.set-prototype-of.js ***!
+  \*************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14801,9 +14801,9 @@ $export($export.S, 'Object', { setPrototypeOf: __webpack_require__(/*! ./_set-pr
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.object.to-string.js":
-/*!***********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/es6.object.to-string.js ***!
-  \***********************************************************************************************************************************************/
+/*!******************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/es6.object.to-string.js ***!
+  \******************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -14812,9 +14812,9 @@ $export($export.S, 'Object', { setPrototypeOf: __webpack_require__(/*! ./_set-pr
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.parse-float.js":
-/*!******************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/es6.parse-float.js ***!
-  \******************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/es6.parse-float.js ***!
+  \*************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14827,9 +14827,9 @@ $export($export.G + $export.F * (parseFloat != $parseFloat), { parseFloat: $pars
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.promise.js":
-/*!**************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/es6.promise.js ***!
-  \**************************************************************************************************************************************/
+/*!*********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/es6.promise.js ***!
+  \*********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15125,9 +15125,9 @@ $export($export.S + $export.F * !(USE_NATIVE && __webpack_require__(/*! ./_iter-
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.reflect.construct.js":
-/*!************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/es6.reflect.construct.js ***!
-  \************************************************************************************************************************************************/
+/*!*******************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/es6.reflect.construct.js ***!
+  \*******************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15183,9 +15183,9 @@ $export($export.S + $export.F * (NEW_TARGET_BUG || ARGS_BUG), 'Reflect', {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.set.js":
-/*!**********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/es6.set.js ***!
-  \**********************************************************************************************************************************/
+/*!*****************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/es6.set.js ***!
+  \*****************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15209,9 +15209,9 @@ module.exports = __webpack_require__(/*! ./_collection */ "../../node_modules/co
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.string.iterator.js":
-/*!**********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/es6.string.iterator.js ***!
-  \**********************************************************************************************************************************************/
+/*!*****************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/es6.string.iterator.js ***!
+  \*****************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15238,9 +15238,9 @@ __webpack_require__(/*! ./_iter-define */ "../../node_modules/core-js/library/mo
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.symbol.js":
-/*!*************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/es6.symbol.js ***!
-  \*************************************************************************************************************************************/
+/*!********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/es6.symbol.js ***!
+  \********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15496,9 +15496,9 @@ setToStringTag(global.JSON, 'JSON', true);
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.weak-map.js":
-/*!***************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/es6.weak-map.js ***!
-  \***************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/es6.weak-map.js ***!
+  \**********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15568,9 +15568,9 @@ if (NATIVE_WEAK_MAP && IS_IE11) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es7.map.from.js":
-/*!***************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/es7.map.from.js ***!
-  \***************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/es7.map.from.js ***!
+  \**********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15581,9 +15581,9 @@ __webpack_require__(/*! ./_set-collection-from */ "../../node_modules/core-js/li
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es7.map.of.js":
-/*!*************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/es7.map.of.js ***!
-  \*************************************************************************************************************************************/
+/*!********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/es7.map.of.js ***!
+  \********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15594,9 +15594,9 @@ __webpack_require__(/*! ./_set-collection-of */ "../../node_modules/core-js/libr
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es7.map.to-json.js":
-/*!******************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/es7.map.to-json.js ***!
-  \******************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/es7.map.to-json.js ***!
+  \*************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15609,9 +15609,9 @@ $export($export.P + $export.R, 'Map', { toJSON: __webpack_require__(/*! ./_colle
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es7.object.get-own-property-descriptors.js":
-/*!******************************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/es7.object.get-own-property-descriptors.js ***!
-  \******************************************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/es7.object.get-own-property-descriptors.js ***!
+  \*************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15642,9 +15642,9 @@ $export($export.S, 'Object', {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es7.promise.finally.js":
-/*!**********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/es7.promise.finally.js ***!
-  \**********************************************************************************************************************************************/
+/*!*****************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/es7.promise.finally.js ***!
+  \*****************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15674,9 +15674,9 @@ $export($export.P + $export.R, 'Promise', { 'finally': function (onFinally) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es7.promise.try.js":
-/*!******************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/es7.promise.try.js ***!
-  \******************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/es7.promise.try.js ***!
+  \*************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15698,9 +15698,9 @@ $export($export.S, 'Promise', { 'try': function (callbackfn) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es7.set.from.js":
-/*!***************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/es7.set.from.js ***!
-  \***************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/es7.set.from.js ***!
+  \**********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15711,9 +15711,9 @@ __webpack_require__(/*! ./_set-collection-from */ "../../node_modules/core-js/li
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es7.set.of.js":
-/*!*************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/es7.set.of.js ***!
-  \*************************************************************************************************************************************/
+/*!********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/es7.set.of.js ***!
+  \********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15724,9 +15724,9 @@ __webpack_require__(/*! ./_set-collection-of */ "../../node_modules/core-js/libr
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es7.set.to-json.js":
-/*!******************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/es7.set.to-json.js ***!
-  \******************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/es7.set.to-json.js ***!
+  \*************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15739,9 +15739,9 @@ $export($export.P + $export.R, 'Set', { toJSON: __webpack_require__(/*! ./_colle
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es7.symbol.async-iterator.js":
-/*!****************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/es7.symbol.async-iterator.js ***!
-  \****************************************************************************************************************************************************/
+/*!***********************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/es7.symbol.async-iterator.js ***!
+  \***********************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15751,9 +15751,9 @@ __webpack_require__(/*! ./_wks-define */ "../../node_modules/core-js/library/mod
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es7.symbol.observable.js":
-/*!************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/es7.symbol.observable.js ***!
-  \************************************************************************************************************************************************/
+/*!*******************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/es7.symbol.observable.js ***!
+  \*******************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15763,9 +15763,9 @@ __webpack_require__(/*! ./_wks-define */ "../../node_modules/core-js/library/mod
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es7.weak-map.from.js":
-/*!********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/es7.weak-map.from.js ***!
-  \********************************************************************************************************************************************/
+/*!***************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/es7.weak-map.from.js ***!
+  \***************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15776,9 +15776,9 @@ __webpack_require__(/*! ./_set-collection-from */ "../../node_modules/core-js/li
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es7.weak-map.of.js":
-/*!******************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/es7.weak-map.of.js ***!
-  \******************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/es7.weak-map.of.js ***!
+  \*************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15789,9 +15789,9 @@ __webpack_require__(/*! ./_set-collection-of */ "../../node_modules/core-js/libr
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/web.dom.iterable.js":
-/*!*******************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/core-js/library/modules/web.dom.iterable.js ***!
-  \*******************************************************************************************************************************************/
+/*!**************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/core-js/library/modules/web.dom.iterable.js ***!
+  \**************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15819,9 +15819,9 @@ for (var i = 0; i < DOMIterables.length; i++) {
 /***/ }),
 
 /***/ "../../node_modules/currency.js/dist/currency.min.js":
-/*!********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/currency.js/dist/currency.min.js ***!
-  \********************************************************************************************************************************/
+/*!***************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/currency.js/dist/currency.min.js ***!
+  \***************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15842,9 +15842,9 @@ this.p/a)*a).toFixed(b.precision)},toJSON:function(){return this.value}};return 
 /***/ }),
 
 /***/ "../../node_modules/dom-css/index.js":
-/*!****************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/dom-css/index.js ***!
-  \****************************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/dom-css/index.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15914,9 +15914,9 @@ module.exports.get = function (element, properties) {
 /***/ }),
 
 /***/ "../../node_modules/eventemitter3/index.js":
-/*!**********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/eventemitter3/index.js ***!
-  \**********************************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/eventemitter3/index.js ***!
+  \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16262,9 +16262,9 @@ if (true) {
 /***/ }),
 
 /***/ "../../node_modules/fast-json-stable-stringify/index.js":
-/*!***********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/fast-json-stable-stringify/index.js ***!
-  \***********************************************************************************************************************************/
+/*!******************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/fast-json-stable-stringify/index.js ***!
+  \******************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16333,9 +16333,9 @@ module.exports = function (data, opts) {
 /***/ }),
 
 /***/ "../../node_modules/fast-memoize/src/index.js":
-/*!*************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/fast-memoize/src/index.js ***!
-  \*************************************************************************************************************************/
+/*!********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/fast-memoize/src/index.js ***!
+  \********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -16488,9 +16488,9 @@ module.exports.strategies = {
 /***/ }),
 
 /***/ "../../node_modules/function-bind/implementation.js":
-/*!*******************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/function-bind/implementation.js ***!
-  \*******************************************************************************************************************************/
+/*!**************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/function-bind/implementation.js ***!
+  \**************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16552,9 +16552,9 @@ module.exports = function bind(that) {
 /***/ }),
 
 /***/ "../../node_modules/function-bind/index.js":
-/*!**********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/function-bind/index.js ***!
-  \**********************************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/function-bind/index.js ***!
+  \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16569,9 +16569,9 @@ module.exports = Function.prototype.bind || implementation;
 /***/ }),
 
 /***/ "../../node_modules/graphql/error/GraphQLError.mjs":
-/*!******************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/graphql/error/GraphQLError.mjs ***!
-  \******************************************************************************************************************************/
+/*!*************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/graphql/error/GraphQLError.mjs ***!
+  \*************************************************************************************************************************************/
 /*! exports provided: GraphQLError, printError */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -16756,9 +16756,9 @@ function printError(error) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/error/syntaxError.mjs":
-/*!*****************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/graphql/error/syntaxError.mjs ***!
-  \*****************************************************************************************************************************/
+/*!************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/graphql/error/syntaxError.mjs ***!
+  \************************************************************************************************************************************/
 /*! exports provided: syntaxError */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -16780,9 +16780,9 @@ function syntaxError(source, position, description) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/jsutils/defineToJSON.mjs":
-/*!********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/graphql/jsutils/defineToJSON.mjs ***!
-  \********************************************************************************************************************************/
+/*!***************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/graphql/jsutils/defineToJSON.mjs ***!
+  \***************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -16810,9 +16810,9 @@ function defineToJSON(classObject) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/jsutils/defineToStringTag.mjs":
-/*!*************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/graphql/jsutils/defineToStringTag.mjs ***!
-  \*************************************************************************************************************************************/
+/*!********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/graphql/jsutils/defineToStringTag.mjs ***!
+  \********************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -16846,9 +16846,9 @@ function defineToStringTag(classObject) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/jsutils/devAssert.mjs":
-/*!*****************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/graphql/jsutils/devAssert.mjs ***!
-  \*****************************************************************************************************************************/
+/*!************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/graphql/jsutils/devAssert.mjs ***!
+  \************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -16867,9 +16867,9 @@ function devAssert(condition, message) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/jsutils/inspect.mjs":
-/*!***************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/graphql/jsutils/inspect.mjs ***!
-  \***************************************************************************************************************************/
+/*!**********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/graphql/jsutils/inspect.mjs ***!
+  \**********************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -17006,9 +17006,9 @@ function getObjectTag(object) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/jsutils/isObjectLike.mjs":
-/*!********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/graphql/jsutils/isObjectLike.mjs ***!
-  \********************************************************************************************************************************/
+/*!***************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/graphql/jsutils/isObjectLike.mjs ***!
+  \***************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -17029,9 +17029,9 @@ function isObjectLike(value) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/jsutils/nodejsCustomInspectSymbol.mjs":
-/*!*********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/graphql/jsutils/nodejsCustomInspectSymbol.mjs ***!
-  \*********************************************************************************************************************************************/
+/*!****************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/graphql/jsutils/nodejsCustomInspectSymbol.mjs ***!
+  \****************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -17044,9 +17044,9 @@ var nodejsCustomInspectSymbol = typeof Symbol === 'function' && typeof Symbol.fo
 /***/ }),
 
 /***/ "../../node_modules/graphql/language/blockString.mjs":
-/*!********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/graphql/language/blockString.mjs ***!
-  \********************************************************************************************************************************/
+/*!***************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/graphql/language/blockString.mjs ***!
+  \***************************************************************************************************************************************/
 /*! exports provided: dedentBlockStringValue, getBlockStringIndentation, printBlockString */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -17155,9 +17155,9 @@ function printBlockString(value) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/language/directiveLocation.mjs":
-/*!**************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/graphql/language/directiveLocation.mjs ***!
-  \**************************************************************************************************************************************/
+/*!*********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/graphql/language/directiveLocation.mjs ***!
+  \*********************************************************************************************************************************************/
 /*! exports provided: DirectiveLocation */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -17198,9 +17198,9 @@ var DirectiveLocation = Object.freeze({
 /***/ }),
 
 /***/ "../../node_modules/graphql/language/kinds.mjs":
-/*!**************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/graphql/language/kinds.mjs ***!
-  \**************************************************************************************************************************/
+/*!*********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/graphql/language/kinds.mjs ***!
+  \*********************************************************************************************************************************/
 /*! exports provided: Kind */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -17274,9 +17274,9 @@ var Kind = Object.freeze({
 /***/ }),
 
 /***/ "../../node_modules/graphql/language/lexer.mjs":
-/*!**************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/graphql/language/lexer.mjs ***!
-  \**************************************************************************************************************************/
+/*!*********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/graphql/language/lexer.mjs ***!
+  \*********************************************************************************************************************************/
 /*! exports provided: createLexer, isPunctuatorToken */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -17906,9 +17906,9 @@ function readName(source, start, line, col, prev) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/language/location.mjs":
-/*!*****************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/graphql/language/location.mjs ***!
-  \*****************************************************************************************************************************/
+/*!************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/graphql/language/location.mjs ***!
+  \************************************************************************************************************************************/
 /*! exports provided: getLocation */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -17944,9 +17944,9 @@ function getLocation(source, position) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/language/parser.mjs":
-/*!***************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/graphql/language/parser.mjs ***!
-  \***************************************************************************************************************************/
+/*!**********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/graphql/language/parser.mjs ***!
+  \**********************************************************************************************************************************/
 /*! exports provided: parse, parseValue, parseType */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -19497,9 +19497,9 @@ function getTokenDesc(token) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/language/printLocation.mjs":
-/*!**********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/graphql/language/printLocation.mjs ***!
-  \**********************************************************************************************************************************/
+/*!*****************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/graphql/language/printLocation.mjs ***!
+  \*****************************************************************************************************************************************/
 /*! exports provided: printLocation, printSourceLocation */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -19579,9 +19579,9 @@ function lpad(len, str) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/language/printer.mjs":
-/*!****************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/graphql/language/printer.mjs ***!
-  \****************************************************************************************************************************/
+/*!***********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/graphql/language/printer.mjs ***!
+  \***********************************************************************************************************************************/
 /*! exports provided: print */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -19895,9 +19895,9 @@ function hasMultilineItems(maybeArray) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/language/source.mjs":
-/*!***************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/graphql/language/source.mjs ***!
-  \***************************************************************************************************************************/
+/*!**********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/graphql/language/source.mjs ***!
+  \**********************************************************************************************************************************/
 /*! exports provided: Source */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -19934,9 +19934,9 @@ Object(_jsutils_defineToStringTag__WEBPACK_IMPORTED_MODULE_1__["default"])(Sourc
 /***/ }),
 
 /***/ "../../node_modules/graphql/language/tokenKind.mjs":
-/*!******************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/graphql/language/tokenKind.mjs ***!
-  \******************************************************************************************************************************/
+/*!*************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/graphql/language/tokenKind.mjs ***!
+  \*************************************************************************************************************************************/
 /*! exports provided: TokenKind */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -19979,9 +19979,9 @@ var TokenKind = Object.freeze({
 /***/ }),
 
 /***/ "../../node_modules/graphql/language/visitor.mjs":
-/*!****************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/graphql/language/visitor.mjs ***!
-  \****************************************************************************************************************************/
+/*!***********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/graphql/language/visitor.mjs ***!
+  \***********************************************************************************************************************************/
 /*! exports provided: QueryDocumentKeys, BREAK, visit, visitInParallel, visitWithTypeInfo, getVisitFn */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -20421,9 +20421,9 @@ function getVisitFn(visitor, kind, isLeaving) {
 /***/ }),
 
 /***/ "../../node_modules/has/src/index.js":
-/*!****************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/has/src/index.js ***!
-  \****************************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/has/src/index.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -20438,9 +20438,9 @@ module.exports = bind.call(Function.call, Object.prototype.hasOwnProperty);
 /***/ }),
 
 /***/ "../../node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js":
-/*!***********************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js ***!
-  \***********************************************************************************************************************************************************/
+/*!******************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js ***!
+  \******************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -20550,9 +20550,9 @@ module.exports = hoistNonReactStatics;
 /***/ }),
 
 /***/ "../../node_modules/intl-format-cache/lib/index.js":
-/*!******************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/intl-format-cache/lib/index.js ***!
-  \******************************************************************************************************************************/
+/*!*************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/intl-format-cache/lib/index.js ***!
+  \*************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -20609,9 +20609,9 @@ var memoizeFormatConstructor = function (FormatConstructor, cache) {
 /***/ }),
 
 /***/ "../../node_modules/intl-locales-supported/lib/index.js":
-/*!***********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/intl-locales-supported/lib/index.js ***!
-  \***********************************************************************************************************************************/
+/*!******************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/intl-locales-supported/lib/index.js ***!
+  \******************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -20653,9 +20653,9 @@ function areIntlLocalesSupported(locales, constructorsToCheck) {
 /***/ }),
 
 /***/ "../../node_modules/intl-messageformat-parser/lib/index.js":
-/*!**************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/intl-messageformat-parser/lib/index.js ***!
-  \**************************************************************************************************************************************/
+/*!*********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/intl-messageformat-parser/lib/index.js ***!
+  \*********************************************************************************************************************************************/
 /*! exports provided: TYPE, isLiteralElement, isArgumentElement, isNumberElement, isDateElement, isTimeElement, isSelectElement, isPluralElement, isPoundElement, isNumberSkeleton, isDateTimeSkeleton, createLiteralElement, createNumberElement, SyntaxError, pegParse, parseDateTimeSkeleton, convertNumberSkeletonToNumberFormatOptions, parse */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -20717,9 +20717,9 @@ function parse(input, opts) {
 /***/ }),
 
 /***/ "../../node_modules/intl-messageformat-parser/lib/normalize.js":
-/*!******************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/intl-messageformat-parser/lib/normalize.js ***!
-  \******************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/intl-messageformat-parser/lib/normalize.js ***!
+  \*************************************************************************************************************************************************/
 /*! exports provided: normalizeHashtagInPlural */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -20780,9 +20780,9 @@ function normalizeHashtagInPlural(els) {
 /***/ }),
 
 /***/ "../../node_modules/intl-messageformat-parser/lib/parser.js":
-/*!***************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/intl-messageformat-parser/lib/parser.js ***!
-  \***************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/intl-messageformat-parser/lib/parser.js ***!
+  \**********************************************************************************************************************************************/
 /*! exports provided: SyntaxError, pegParse */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -23411,9 +23411,9 @@ var pegParse = peg$parse;
 /***/ }),
 
 /***/ "../../node_modules/intl-messageformat-parser/lib/skeleton.js":
-/*!*****************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/intl-messageformat-parser/lib/skeleton.js ***!
-  \*****************************************************************************************************************************************/
+/*!************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/intl-messageformat-parser/lib/skeleton.js ***!
+  \************************************************************************************************************************************************/
 /*! exports provided: parseDateTimeSkeleton, convertNumberSkeletonToNumberFormatOptions */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -23733,9 +23733,9 @@ function convertNumberSkeletonToNumberFormatOptions(tokens) {
 /***/ }),
 
 /***/ "../../node_modules/intl-messageformat-parser/lib/types.js":
-/*!**************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/intl-messageformat-parser/lib/types.js ***!
-  \**************************************************************************************************************************************/
+/*!*********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/intl-messageformat-parser/lib/types.js ***!
+  \*********************************************************************************************************************************************/
 /*! exports provided: TYPE, isLiteralElement, isArgumentElement, isNumberElement, isDateElement, isTimeElement, isSelectElement, isPluralElement, isPoundElement, isNumberSkeleton, isDateTimeSkeleton, createLiteralElement, createNumberElement */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -23841,9 +23841,9 @@ function createNumberElement(value, style) {
 /***/ }),
 
 /***/ "../../node_modules/intl-messageformat/lib/core.js":
-/*!******************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/intl-messageformat/lib/core.js ***!
-  \******************************************************************************************************************************/
+/*!*************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/intl-messageformat/lib/core.js ***!
+  \*************************************************************************************************************************************/
 /*! exports provided: createDefaultFormatters, IntlMessageFormat, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -24020,9 +24020,9 @@ var IntlMessageFormat = /** @class */ (function () {
 /***/ }),
 
 /***/ "../../node_modules/intl-messageformat/lib/formatters.js":
-/*!************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/intl-messageformat/lib/formatters.js ***!
-  \************************************************************************************************************************************/
+/*!*******************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/intl-messageformat/lib/formatters.js ***!
+  \*******************************************************************************************************************************************/
 /*! exports provided: formatToParts, formatToString, formatHTMLMessage */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -24340,9 +24340,9 @@ originalMessage) {
 /***/ }),
 
 /***/ "../../node_modules/intl-messageformat/lib/index.js":
-/*!*******************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/intl-messageformat/lib/index.js ***!
-  \*******************************************************************************************************************************/
+/*!**************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/intl-messageformat/lib/index.js ***!
+  \**************************************************************************************************************************************/
 /*! exports provided: formatToParts, formatToString, formatHTMLMessage, createDefaultFormatters, IntlMessageFormat, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -24374,9 +24374,9 @@ See the accompanying LICENSE file for terms.
 /***/ }),
 
 /***/ "../../node_modules/js-cookie/src/js.cookie.js":
-/*!**************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/js-cookie/src/js.cookie.js ***!
-  \**************************************************************************************************************************/
+/*!*********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/js-cookie/src/js.cookie.js ***!
+  \*********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -24552,9 +24552,9 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_RESULT__;/*!
 /***/ }),
 
 /***/ "../../node_modules/lodash/_DataView.js":
-/*!*******************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_DataView.js ***!
-  \*******************************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_DataView.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -24570,9 +24570,9 @@ module.exports = DataView;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_Hash.js":
-/*!***************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_Hash.js ***!
-  \***************************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_Hash.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -24613,9 +24613,9 @@ module.exports = Hash;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_ListCache.js":
-/*!********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_ListCache.js ***!
-  \********************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_ListCache.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -24656,9 +24656,9 @@ module.exports = ListCache;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_Map.js":
-/*!**************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_Map.js ***!
-  \**************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_Map.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -24674,9 +24674,9 @@ module.exports = Map;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_MapCache.js":
-/*!*******************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_MapCache.js ***!
-  \*******************************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_MapCache.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -24717,9 +24717,9 @@ module.exports = MapCache;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_Promise.js":
-/*!******************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_Promise.js ***!
-  \******************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_Promise.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -24735,9 +24735,9 @@ module.exports = Promise;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_Set.js":
-/*!**************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_Set.js ***!
-  \**************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_Set.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -24753,9 +24753,9 @@ module.exports = Set;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_Stack.js":
-/*!****************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_Stack.js ***!
-  \****************************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_Stack.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -24791,9 +24791,9 @@ module.exports = Stack;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_Symbol.js":
-/*!*****************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_Symbol.js ***!
-  \*****************************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_Symbol.js ***!
+  \************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -24808,9 +24808,9 @@ module.exports = Symbol;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_Uint8Array.js":
-/*!*********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_Uint8Array.js ***!
-  \*********************************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_Uint8Array.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -24825,9 +24825,9 @@ module.exports = Uint8Array;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_WeakMap.js":
-/*!******************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_WeakMap.js ***!
-  \******************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_WeakMap.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -24843,9 +24843,9 @@ module.exports = WeakMap;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_apply.js":
-/*!****************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_apply.js ***!
-  \****************************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_apply.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -24875,9 +24875,9 @@ module.exports = apply;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_arrayEach.js":
-/*!********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_arrayEach.js ***!
-  \********************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_arrayEach.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -24908,9 +24908,9 @@ module.exports = arrayEach;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_arrayFilter.js":
-/*!**********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_arrayFilter.js ***!
-  \**********************************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_arrayFilter.js ***!
+  \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -24944,9 +24944,9 @@ module.exports = arrayFilter;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_arrayLikeKeys.js":
-/*!************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_arrayLikeKeys.js ***!
-  \************************************************************************************************************************/
+/*!*******************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_arrayLikeKeys.js ***!
+  \*******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -25004,9 +25004,9 @@ module.exports = arrayLikeKeys;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_arrayPush.js":
-/*!********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_arrayPush.js ***!
-  \********************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_arrayPush.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -25035,9 +25035,9 @@ module.exports = arrayPush;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_assignValue.js":
-/*!**********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_assignValue.js ***!
-  \**********************************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_assignValue.js ***!
+  \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -25074,9 +25074,9 @@ module.exports = assignValue;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_assocIndexOf.js":
-/*!***********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_assocIndexOf.js ***!
-  \***********************************************************************************************************************/
+/*!******************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_assocIndexOf.js ***!
+  \******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -25106,9 +25106,9 @@ module.exports = assocIndexOf;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_baseAssign.js":
-/*!*********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_baseAssign.js ***!
-  \*********************************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_baseAssign.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -25134,9 +25134,9 @@ module.exports = baseAssign;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_baseAssignIn.js":
-/*!***********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_baseAssignIn.js ***!
-  \***********************************************************************************************************************/
+/*!******************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_baseAssignIn.js ***!
+  \******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -25162,9 +25162,9 @@ module.exports = baseAssignIn;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_baseAssignValue.js":
-/*!**************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_baseAssignValue.js ***!
-  \**************************************************************************************************************************/
+/*!*********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_baseAssignValue.js ***!
+  \*********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -25198,9 +25198,9 @@ module.exports = baseAssignValue;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_baseClone.js":
-/*!********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_baseClone.js ***!
-  \********************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_baseClone.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -25374,9 +25374,9 @@ module.exports = baseClone;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_baseCreate.js":
-/*!*********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_baseCreate.js ***!
-  \*********************************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_baseCreate.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -25415,9 +25415,9 @@ module.exports = baseCreate;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_baseGetAllKeys.js":
-/*!*************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_baseGetAllKeys.js ***!
-  \*************************************************************************************************************************/
+/*!********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_baseGetAllKeys.js ***!
+  \********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -25446,9 +25446,9 @@ module.exports = baseGetAllKeys;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_baseGetTag.js":
-/*!*********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_baseGetTag.js ***!
-  \*********************************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_baseGetTag.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -25485,9 +25485,9 @@ module.exports = baseGetTag;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_baseIsArguments.js":
-/*!**************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_baseIsArguments.js ***!
-  \**************************************************************************************************************************/
+/*!*********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_baseIsArguments.js ***!
+  \*********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -25514,9 +25514,9 @@ module.exports = baseIsArguments;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_baseIsMap.js":
-/*!********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_baseIsMap.js ***!
-  \********************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_baseIsMap.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -25543,9 +25543,9 @@ module.exports = baseIsMap;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_baseIsNative.js":
-/*!***********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_baseIsNative.js ***!
-  \***********************************************************************************************************************/
+/*!******************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_baseIsNative.js ***!
+  \******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -25601,9 +25601,9 @@ module.exports = baseIsNative;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_baseIsSet.js":
-/*!********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_baseIsSet.js ***!
-  \********************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_baseIsSet.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -25630,9 +25630,9 @@ module.exports = baseIsSet;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_baseIsTypedArray.js":
-/*!***************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_baseIsTypedArray.js ***!
-  \***************************************************************************************************************************/
+/*!**********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_baseIsTypedArray.js ***!
+  \**********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -25701,9 +25701,9 @@ module.exports = baseIsTypedArray;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_baseKeys.js":
-/*!*******************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_baseKeys.js ***!
-  \*******************************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_baseKeys.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -25742,9 +25742,9 @@ module.exports = baseKeys;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_baseKeysIn.js":
-/*!*********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_baseKeysIn.js ***!
-  \*********************************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_baseKeysIn.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -25786,9 +25786,9 @@ module.exports = baseKeysIn;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_baseRest.js":
-/*!*******************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_baseRest.js ***!
-  \*******************************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_baseRest.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -25814,9 +25814,9 @@ module.exports = baseRest;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_baseSetToString.js":
-/*!**************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_baseSetToString.js ***!
-  \**************************************************************************************************************************/
+/*!*********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_baseSetToString.js ***!
+  \*********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -25847,9 +25847,9 @@ module.exports = baseSetToString;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_baseTimes.js":
-/*!********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_baseTimes.js ***!
-  \********************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_baseTimes.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -25878,9 +25878,9 @@ module.exports = baseTimes;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_baseUnary.js":
-/*!********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_baseUnary.js ***!
-  \********************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_baseUnary.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -25903,9 +25903,9 @@ module.exports = baseUnary;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_cloneArrayBuffer.js":
-/*!***************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_cloneArrayBuffer.js ***!
-  \***************************************************************************************************************************/
+/*!**********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_cloneArrayBuffer.js ***!
+  \**********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -25930,9 +25930,9 @@ module.exports = cloneArrayBuffer;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_cloneBuffer.js":
-/*!**********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_cloneBuffer.js ***!
-  \**********************************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_cloneBuffer.js ***!
+  \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -25977,9 +25977,9 @@ module.exports = cloneBuffer;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_cloneDataView.js":
-/*!************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_cloneDataView.js ***!
-  \************************************************************************************************************************/
+/*!*******************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_cloneDataView.js ***!
+  \*******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26004,9 +26004,9 @@ module.exports = cloneDataView;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_cloneRegExp.js":
-/*!**********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_cloneRegExp.js ***!
-  \**********************************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_cloneRegExp.js ***!
+  \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -26032,9 +26032,9 @@ module.exports = cloneRegExp;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_cloneSymbol.js":
-/*!**********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_cloneSymbol.js ***!
-  \**********************************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_cloneSymbol.js ***!
+  \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26061,9 +26061,9 @@ module.exports = cloneSymbol;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_cloneTypedArray.js":
-/*!**************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_cloneTypedArray.js ***!
-  \**************************************************************************************************************************/
+/*!*********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_cloneTypedArray.js ***!
+  \*********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26088,9 +26088,9 @@ module.exports = cloneTypedArray;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_copyArray.js":
-/*!********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_copyArray.js ***!
-  \********************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_copyArray.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -26119,9 +26119,9 @@ module.exports = copyArray;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_copyObject.js":
-/*!*********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_copyObject.js ***!
-  \*********************************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_copyObject.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26170,9 +26170,9 @@ module.exports = copyObject;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_copySymbols.js":
-/*!**********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_copySymbols.js ***!
-  \**********************************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_copySymbols.js ***!
+  \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26197,9 +26197,9 @@ module.exports = copySymbols;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_copySymbolsIn.js":
-/*!************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_copySymbolsIn.js ***!
-  \************************************************************************************************************************/
+/*!*******************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_copySymbolsIn.js ***!
+  \*******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26224,9 +26224,9 @@ module.exports = copySymbolsIn;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_coreJsData.js":
-/*!*********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_coreJsData.js ***!
-  \*********************************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_coreJsData.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26241,9 +26241,9 @@ module.exports = coreJsData;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_createAssigner.js":
-/*!*************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_createAssigner.js ***!
-  \*************************************************************************************************************************/
+/*!********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_createAssigner.js ***!
+  \********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26289,9 +26289,9 @@ module.exports = createAssigner;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_defineProperty.js":
-/*!*************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_defineProperty.js ***!
-  \*************************************************************************************************************************/
+/*!********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_defineProperty.js ***!
+  \********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26311,9 +26311,9 @@ module.exports = defineProperty;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_freeGlobal.js":
-/*!*********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_freeGlobal.js ***!
-  \*********************************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_freeGlobal.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26327,9 +26327,9 @@ module.exports = freeGlobal;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_getAllKeys.js":
-/*!*********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_getAllKeys.js ***!
-  \*********************************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_getAllKeys.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26354,9 +26354,9 @@ module.exports = getAllKeys;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_getAllKeysIn.js":
-/*!***********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_getAllKeysIn.js ***!
-  \***********************************************************************************************************************/
+/*!******************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_getAllKeysIn.js ***!
+  \******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26382,9 +26382,9 @@ module.exports = getAllKeysIn;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_getMapData.js":
-/*!*********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_getMapData.js ***!
-  \*********************************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_getMapData.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26411,9 +26411,9 @@ module.exports = getMapData;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_getNative.js":
-/*!********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_getNative.js ***!
-  \********************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_getNative.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26439,9 +26439,9 @@ module.exports = getNative;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_getPrototype.js":
-/*!***********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_getPrototype.js ***!
-  \***********************************************************************************************************************/
+/*!******************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_getPrototype.js ***!
+  \******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26456,9 +26456,9 @@ module.exports = getPrototype;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_getRawTag.js":
-/*!********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_getRawTag.js ***!
-  \********************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_getRawTag.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26513,9 +26513,9 @@ module.exports = getRawTag;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_getSymbols.js":
-/*!*********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_getSymbols.js ***!
-  \*********************************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_getSymbols.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26554,9 +26554,9 @@ module.exports = getSymbols;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_getSymbolsIn.js":
-/*!***********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_getSymbolsIn.js ***!
-  \***********************************************************************************************************************/
+/*!******************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_getSymbolsIn.js ***!
+  \******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26590,9 +26590,9 @@ module.exports = getSymbolsIn;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_getTag.js":
-/*!*****************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_getTag.js ***!
-  \*****************************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_getTag.js ***!
+  \************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26659,9 +26659,9 @@ module.exports = getTag;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_getValue.js":
-/*!*******************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_getValue.js ***!
-  \*******************************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_getValue.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -26683,9 +26683,9 @@ module.exports = getValue;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_hashClear.js":
-/*!********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_hashClear.js ***!
-  \********************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_hashClear.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26709,9 +26709,9 @@ module.exports = hashClear;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_hashDelete.js":
-/*!*********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_hashDelete.js ***!
-  \*********************************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_hashDelete.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -26737,9 +26737,9 @@ module.exports = hashDelete;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_hashGet.js":
-/*!******************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_hashGet.js ***!
-  \******************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_hashGet.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26778,9 +26778,9 @@ module.exports = hashGet;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_hashHas.js":
-/*!******************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_hashHas.js ***!
-  \******************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_hashHas.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26812,9 +26812,9 @@ module.exports = hashHas;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_hashSet.js":
-/*!******************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_hashSet.js ***!
-  \******************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_hashSet.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26846,9 +26846,9 @@ module.exports = hashSet;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_initCloneArray.js":
-/*!*************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_initCloneArray.js ***!
-  \*************************************************************************************************************************/
+/*!********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_initCloneArray.js ***!
+  \********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -26883,9 +26883,9 @@ module.exports = initCloneArray;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_initCloneByTag.js":
-/*!*************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_initCloneByTag.js ***!
-  \*************************************************************************************************************************/
+/*!********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_initCloneByTag.js ***!
+  \********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26971,9 +26971,9 @@ module.exports = initCloneByTag;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_initCloneObject.js":
-/*!**************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_initCloneObject.js ***!
-  \**************************************************************************************************************************/
+/*!*********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_initCloneObject.js ***!
+  \*********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27000,9 +27000,9 @@ module.exports = initCloneObject;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_isIndex.js":
-/*!******************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_isIndex.js ***!
-  \******************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_isIndex.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -27036,9 +27036,9 @@ module.exports = isIndex;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_isIterateeCall.js":
-/*!*************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_isIterateeCall.js ***!
-  \*************************************************************************************************************************/
+/*!********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_isIterateeCall.js ***!
+  \********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27077,9 +27077,9 @@ module.exports = isIterateeCall;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_isKeyable.js":
-/*!********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_isKeyable.js ***!
-  \********************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_isKeyable.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -27103,9 +27103,9 @@ module.exports = isKeyable;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_isMasked.js":
-/*!*******************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_isMasked.js ***!
-  \*******************************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_isMasked.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27134,9 +27134,9 @@ module.exports = isMasked;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_isPrototype.js":
-/*!**********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_isPrototype.js ***!
-  \**********************************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_isPrototype.js ***!
+  \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -27163,9 +27163,9 @@ module.exports = isPrototype;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_listCacheClear.js":
-/*!*************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_listCacheClear.js ***!
-  \*************************************************************************************************************************/
+/*!********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_listCacheClear.js ***!
+  \********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -27187,9 +27187,9 @@ module.exports = listCacheClear;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_listCacheDelete.js":
-/*!**************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_listCacheDelete.js ***!
-  \**************************************************************************************************************************/
+/*!*********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_listCacheDelete.js ***!
+  \*********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27233,9 +27233,9 @@ module.exports = listCacheDelete;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_listCacheGet.js":
-/*!***********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_listCacheGet.js ***!
-  \***********************************************************************************************************************/
+/*!******************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_listCacheGet.js ***!
+  \******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27263,9 +27263,9 @@ module.exports = listCacheGet;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_listCacheHas.js":
-/*!***********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_listCacheHas.js ***!
-  \***********************************************************************************************************************/
+/*!******************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_listCacheHas.js ***!
+  \******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27290,9 +27290,9 @@ module.exports = listCacheHas;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_listCacheSet.js":
-/*!***********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_listCacheSet.js ***!
-  \***********************************************************************************************************************/
+/*!******************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_listCacheSet.js ***!
+  \******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27327,9 +27327,9 @@ module.exports = listCacheSet;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_mapCacheClear.js":
-/*!************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_mapCacheClear.js ***!
-  \************************************************************************************************************************/
+/*!*******************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_mapCacheClear.js ***!
+  \*******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27359,9 +27359,9 @@ module.exports = mapCacheClear;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_mapCacheDelete.js":
-/*!*************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_mapCacheDelete.js ***!
-  \*************************************************************************************************************************/
+/*!********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_mapCacheDelete.js ***!
+  \********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27388,9 +27388,9 @@ module.exports = mapCacheDelete;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_mapCacheGet.js":
-/*!**********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_mapCacheGet.js ***!
-  \**********************************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_mapCacheGet.js ***!
+  \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27415,9 +27415,9 @@ module.exports = mapCacheGet;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_mapCacheHas.js":
-/*!**********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_mapCacheHas.js ***!
-  \**********************************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_mapCacheHas.js ***!
+  \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27442,9 +27442,9 @@ module.exports = mapCacheHas;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_mapCacheSet.js":
-/*!**********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_mapCacheSet.js ***!
-  \**********************************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_mapCacheSet.js ***!
+  \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27475,9 +27475,9 @@ module.exports = mapCacheSet;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_nativeCreate.js":
-/*!***********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_nativeCreate.js ***!
-  \***********************************************************************************************************************/
+/*!******************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_nativeCreate.js ***!
+  \******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27492,9 +27492,9 @@ module.exports = nativeCreate;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_nativeKeys.js":
-/*!*********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_nativeKeys.js ***!
-  \*********************************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_nativeKeys.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27509,9 +27509,9 @@ module.exports = nativeKeys;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_nativeKeysIn.js":
-/*!***********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_nativeKeysIn.js ***!
-  \***********************************************************************************************************************/
+/*!******************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_nativeKeysIn.js ***!
+  \******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -27540,9 +27540,9 @@ module.exports = nativeKeysIn;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_nodeUtil.js":
-/*!*******************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_nodeUtil.js ***!
-  \*******************************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_nodeUtil.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27582,9 +27582,9 @@ module.exports = nodeUtil;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_objectToString.js":
-/*!*************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_objectToString.js ***!
-  \*************************************************************************************************************************/
+/*!********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_objectToString.js ***!
+  \********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -27615,9 +27615,9 @@ module.exports = objectToString;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_overArg.js":
-/*!******************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_overArg.js ***!
-  \******************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_overArg.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -27641,9 +27641,9 @@ module.exports = overArg;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_overRest.js":
-/*!*******************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_overRest.js ***!
-  \*******************************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_overRest.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27688,9 +27688,9 @@ module.exports = overRest;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_root.js":
-/*!***************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_root.js ***!
-  \***************************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_root.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27708,9 +27708,9 @@ module.exports = root;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_setToString.js":
-/*!**********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_setToString.js ***!
-  \**********************************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_setToString.js ***!
+  \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27733,9 +27733,9 @@ module.exports = setToString;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_shortOut.js":
-/*!*******************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_shortOut.js ***!
-  \*******************************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_shortOut.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -27781,9 +27781,9 @@ module.exports = shortOut;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_stackClear.js":
-/*!*********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_stackClear.js ***!
-  \*********************************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_stackClear.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27807,9 +27807,9 @@ module.exports = stackClear;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_stackDelete.js":
-/*!**********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_stackDelete.js ***!
-  \**********************************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_stackDelete.js ***!
+  \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -27836,9 +27836,9 @@ module.exports = stackDelete;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_stackGet.js":
-/*!*******************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_stackGet.js ***!
-  \*******************************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_stackGet.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -27861,9 +27861,9 @@ module.exports = stackGet;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_stackHas.js":
-/*!*******************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_stackHas.js ***!
-  \*******************************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_stackHas.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -27886,9 +27886,9 @@ module.exports = stackHas;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_stackSet.js":
-/*!*******************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_stackSet.js ***!
-  \*******************************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_stackSet.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27931,9 +27931,9 @@ module.exports = stackSet;
 /***/ }),
 
 /***/ "../../node_modules/lodash/_toSource.js":
-/*!*******************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/_toSource.js ***!
-  \*******************************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/_toSource.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -27968,9 +27968,9 @@ module.exports = toSource;
 /***/ }),
 
 /***/ "../../node_modules/lodash/assign.js":
-/*!****************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/assign.js ***!
-  \****************************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/assign.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28037,9 +28037,9 @@ module.exports = assign;
 /***/ }),
 
 /***/ "../../node_modules/lodash/clone.js":
-/*!***************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/clone.js ***!
-  \***************************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/clone.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28084,9 +28084,9 @@ module.exports = clone;
 /***/ }),
 
 /***/ "../../node_modules/lodash/constant.js":
-/*!******************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/constant.js ***!
-  \******************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/constant.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -28121,9 +28121,9 @@ module.exports = constant;
 /***/ }),
 
 /***/ "../../node_modules/lodash/debounce.js":
-/*!******************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/debounce.js ***!
-  \******************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/debounce.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28323,9 +28323,9 @@ module.exports = debounce;
 /***/ }),
 
 /***/ "../../node_modules/lodash/eq.js":
-/*!************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/eq.js ***!
-  \************************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/eq.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -28371,9 +28371,9 @@ module.exports = eq;
 /***/ }),
 
 /***/ "../../node_modules/lodash/identity.js":
-/*!******************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/identity.js ***!
-  \******************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/identity.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -28403,9 +28403,9 @@ module.exports = identity;
 /***/ }),
 
 /***/ "../../node_modules/lodash/isArguments.js":
-/*!*********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/isArguments.js ***!
-  \*********************************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/isArguments.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28450,9 +28450,9 @@ module.exports = isArguments;
 /***/ }),
 
 /***/ "../../node_modules/lodash/isArray.js":
-/*!*****************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/isArray.js ***!
-  \*****************************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/isArray.js ***!
+  \************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -28487,9 +28487,9 @@ module.exports = isArray;
 /***/ }),
 
 /***/ "../../node_modules/lodash/isArrayLike.js":
-/*!*********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/isArrayLike.js ***!
-  \*********************************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/isArrayLike.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28531,9 +28531,9 @@ module.exports = isArrayLike;
 /***/ }),
 
 /***/ "../../node_modules/lodash/isBuffer.js":
-/*!******************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/isBuffer.js ***!
-  \******************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/isBuffer.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28581,9 +28581,9 @@ module.exports = isBuffer;
 /***/ }),
 
 /***/ "../../node_modules/lodash/isFunction.js":
-/*!********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/isFunction.js ***!
-  \********************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/isFunction.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28629,9 +28629,9 @@ module.exports = isFunction;
 /***/ }),
 
 /***/ "../../node_modules/lodash/isLength.js":
-/*!******************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/isLength.js ***!
-  \******************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/isLength.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -28675,9 +28675,9 @@ module.exports = isLength;
 /***/ }),
 
 /***/ "../../node_modules/lodash/isMap.js":
-/*!***************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/isMap.js ***!
-  \***************************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/isMap.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28713,9 +28713,9 @@ module.exports = isMap;
 /***/ }),
 
 /***/ "../../node_modules/lodash/isObject.js":
-/*!******************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/isObject.js ***!
-  \******************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/isObject.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -28755,9 +28755,9 @@ module.exports = isObject;
 /***/ }),
 
 /***/ "../../node_modules/lodash/isObjectLike.js":
-/*!**********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/isObjectLike.js ***!
-  \**********************************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/isObjectLike.js ***!
+  \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -28795,9 +28795,9 @@ module.exports = isObjectLike;
 /***/ }),
 
 /***/ "../../node_modules/lodash/isSet.js":
-/*!***************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/isSet.js ***!
-  \***************************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/isSet.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28833,9 +28833,9 @@ module.exports = isSet;
 /***/ }),
 
 /***/ "../../node_modules/lodash/isSymbol.js":
-/*!******************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/isSymbol.js ***!
-  \******************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/isSymbol.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28873,9 +28873,9 @@ module.exports = isSymbol;
 /***/ }),
 
 /***/ "../../node_modules/lodash/isTypedArray.js":
-/*!**********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/isTypedArray.js ***!
-  \**********************************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/isTypedArray.js ***!
+  \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28911,9 +28911,9 @@ module.exports = isTypedArray;
 /***/ }),
 
 /***/ "../../node_modules/lodash/keys.js":
-/*!**************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/keys.js ***!
-  \**************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/keys.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28959,9 +28959,9 @@ module.exports = keys;
 /***/ }),
 
 /***/ "../../node_modules/lodash/keysIn.js":
-/*!****************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/keysIn.js ***!
-  \****************************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/keysIn.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29002,9 +29002,9 @@ module.exports = keysIn;
 /***/ }),
 
 /***/ "../../node_modules/lodash/noop.js":
-/*!**************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/noop.js ***!
-  \**************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/noop.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -29030,9 +29030,9 @@ module.exports = noop;
 /***/ }),
 
 /***/ "../../node_modules/lodash/now.js":
-/*!*************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/now.js ***!
-  \*************************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/now.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29064,9 +29064,9 @@ module.exports = now;
 /***/ }),
 
 /***/ "../../node_modules/lodash/stubArray.js":
-/*!*******************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/stubArray.js ***!
-  \*******************************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/stubArray.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -29098,9 +29098,9 @@ module.exports = stubArray;
 /***/ }),
 
 /***/ "../../node_modules/lodash/stubFalse.js":
-/*!*******************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/stubFalse.js ***!
-  \*******************************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/stubFalse.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -29127,9 +29127,9 @@ module.exports = stubFalse;
 /***/ }),
 
 /***/ "../../node_modules/lodash/throttle.js":
-/*!******************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/throttle.js ***!
-  \******************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/throttle.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29207,9 +29207,9 @@ module.exports = throttle;
 /***/ }),
 
 /***/ "../../node_modules/lodash/toNumber.js":
-/*!******************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/lodash/toNumber.js ***!
-  \******************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/lodash/toNumber.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29284,9 +29284,9 @@ module.exports = toNumber;
 /***/ }),
 
 /***/ "../../node_modules/next-cookies/index.js":
-/*!*********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/next-cookies/index.js ***!
-  \*********************************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/next-cookies/index.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29308,9 +29308,9 @@ module.exports = nextCookies;
 /***/ }),
 
 /***/ "../../node_modules/next/dist/build/polyfills/fetch/index.js":
-/*!****************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/next/dist/build/polyfills/fetch/index.js ***!
-  \****************************************************************************************************************************************/
+/*!***********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/next/dist/build/polyfills/fetch/index.js ***!
+  \***********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29331,9 +29331,9 @@ module.exports = (__webpack_require__(/*! dll-reference dll_1878973bba91fdb6b153
 /***/ }),
 
 /***/ "../../node_modules/next/dist/build/polyfills/object.assign/index.js":
-/*!************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/next/dist/build/polyfills/object.assign/index.js ***!
-  \************************************************************************************************************************************************/
+/*!*******************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/next/dist/build/polyfills/object.assign/index.js ***!
+  \*******************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29342,10 +29342,10 @@ var assign=Object.assign.bind(Object);function g(){return assign;}Object.defineP
 
 /***/ }),
 
-/***/ "../../node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fad%2FDownloads%2FPickbazar%20-%20React%20GraphQL%20Ecommerce%20Template%2Fpickbazar%2Fpackages%2Fshop%2Fpages%2Findex.tsx!./":
-/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fad%2FDownloads%2FPickbazar%20-%20React%20GraphQL%20Ecommerce%20Template%2Fpickbazar%2Fpackages%2Fshop%2Fpages%2Findex.tsx ***!
-  \**************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/***/ "../../node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fad%2FDownloads%2FPickbazar%20-%20React%20GraphQL%20Ecommerce%20Template%2FFashion-Shop-Web%2Fpackages%2Fshop%2Fpages%2Findex.tsx!./":
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fad%2FDownloads%2FPickbazar%20-%20React%20GraphQL%20Ecommerce%20Template%2FFashion-Shop-Web%2Fpackages%2Fshop%2Fpages%2Findex.tsx ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29366,9 +29366,9 @@ var assign=Object.assign.bind(Object);function g(){return assign;}Object.defineP
 /***/ }),
 
 /***/ "../../node_modules/next/dist/client/link.js":
-/*!************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/next/dist/client/link.js ***!
-  \************************************************************************************************************************/
+/*!*******************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/next/dist/client/link.js ***!
+  \*******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29702,9 +29702,9 @@ exports["default"] = _default;
 /***/ }),
 
 /***/ "../../node_modules/next/dist/client/router.js":
-/*!**************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/next/dist/client/router.js ***!
-  \**************************************************************************************************************************/
+/*!*********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/next/dist/client/router.js ***!
+  \*********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29893,9 +29893,9 @@ function makePublicRouterInstance(router) {
 /***/ }),
 
 /***/ "../../node_modules/next/dist/client/with-router.js":
-/*!*******************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/next/dist/client/with-router.js ***!
-  \*******************************************************************************************************************************/
+/*!**************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/next/dist/client/with-router.js ***!
+  \**************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29935,9 +29935,9 @@ function withRouter(ComposedComponent) {
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/amp-context.js":
-/*!****************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/next/dist/next-server/lib/amp-context.js ***!
-  \****************************************************************************************************************************************/
+/*!***********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/next/dist/next-server/lib/amp-context.js ***!
+  \***********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29967,9 +29967,9 @@ exports.AmpStateContext = React.createContext({});
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/amp.js":
-/*!********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/next/dist/next-server/lib/amp.js ***!
-  \********************************************************************************************************************************/
+/*!***************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/next/dist/next-server/lib/amp.js ***!
+  \***************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -30016,9 +30016,9 @@ exports.useAmp = useAmp;
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/dynamic.js":
-/*!************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/next/dist/next-server/lib/dynamic.js ***!
-  \************************************************************************************************************************************/
+/*!*******************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/next/dist/next-server/lib/dynamic.js ***!
+  \*******************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -30178,9 +30178,9 @@ exports["default"] = dynamic;
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/head-manager-context.js":
-/*!*************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/next/dist/next-server/lib/head-manager-context.js ***!
-  \*************************************************************************************************************************************************/
+/*!********************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/next/dist/next-server/lib/head-manager-context.js ***!
+  \********************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -30210,9 +30210,9 @@ exports.HeadManagerContext = React.createContext(null);
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/head.js":
-/*!*********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/next/dist/next-server/lib/head.js ***!
-  \*********************************************************************************************************************************/
+/*!****************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/next/dist/next-server/lib/head.js ***!
+  \****************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -30391,9 +30391,9 @@ exports["default"] = Head;
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/loadable-context.js":
-/*!*********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/next/dist/next-server/lib/loadable-context.js ***!
-  \*********************************************************************************************************************************************/
+/*!****************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/next/dist/next-server/lib/loadable-context.js ***!
+  \****************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -30424,9 +30424,9 @@ exports.LoadableContext = React.createContext(null);
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/loadable.js":
-/*!*************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/next/dist/next-server/lib/loadable.js ***!
-  \*************************************************************************************************************************************/
+/*!********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/next/dist/next-server/lib/loadable.js ***!
+  \********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -30828,9 +30828,9 @@ exports["default"] = Loadable;
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/mitt.js":
-/*!*********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/next/dist/next-server/lib/mitt.js ***!
-  \*********************************************************************************************************************************/
+/*!****************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/next/dist/next-server/lib/mitt.js ***!
+  \****************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -30889,9 +30889,9 @@ exports["default"] = mitt;
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/router-context.js":
-/*!*******************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/next/dist/next-server/lib/router-context.js ***!
-  \*******************************************************************************************************************************************/
+/*!**************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/next/dist/next-server/lib/router-context.js ***!
+  \**************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -30921,9 +30921,9 @@ exports.RouterContext = React.createContext(null);
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/router/router.js":
-/*!******************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/next/dist/next-server/lib/router/router.js ***!
-  \******************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/next/dist/next-server/lib/router/router.js ***!
+  \*************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -31671,9 +31671,9 @@ Router.events = mitt_1["default"]();
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/router/utils/is-dynamic.js":
-/*!****************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/next/dist/next-server/lib/router/utils/is-dynamic.js ***!
-  \****************************************************************************************************************************************************/
+/*!***********************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/next/dist/next-server/lib/router/utils/is-dynamic.js ***!
+  \***********************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -31698,9 +31698,9 @@ exports.isDynamicRoute = isDynamicRoute;
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/router/utils/route-matcher.js":
-/*!*******************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/next/dist/next-server/lib/router/utils/route-matcher.js ***!
-  \*******************************************************************************************************************************************************/
+/*!**************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/next/dist/next-server/lib/router/utils/route-matcher.js ***!
+  \**************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -31748,9 +31748,9 @@ exports.getRouteMatcher = getRouteMatcher;
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/router/utils/route-regex.js":
-/*!*****************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/next/dist/next-server/lib/router/utils/route-regex.js ***!
-  \*****************************************************************************************************************************************************/
+/*!************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/next/dist/next-server/lib/router/utils/route-regex.js ***!
+  \************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -31789,9 +31789,9 @@ exports.getRouteRegex = getRouteRegex;
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/side-effect.js":
-/*!****************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/next/dist/next-server/lib/side-effect.js ***!
-  \****************************************************************************************************************************************/
+/*!***********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/next/dist/next-server/lib/side-effect.js ***!
+  \***********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -31899,9 +31899,9 @@ exports["default"] = function () {
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/utils.js":
-/*!**********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/next/dist/next-server/lib/utils.js ***!
-  \**********************************************************************************************************************************/
+/*!*****************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/next/dist/next-server/lib/utils.js ***!
+  \*****************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -32083,9 +32083,9 @@ exports.ST = exports.SP && typeof performance.mark === 'function' && typeof perf
 /***/ }),
 
 /***/ "../../node_modules/next/link.js":
-/*!************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/next/link.js ***!
-  \************************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/next/link.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -32095,9 +32095,9 @@ module.exports = __webpack_require__(/*! ./dist/client/link */ "../../node_modul
 /***/ }),
 
 /***/ "../../node_modules/next/node_modules/react-is/cjs/react-is.development.js":
-/*!******************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/next/node_modules/react-is/cjs/react-is.development.js ***!
-  \******************************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/next/node_modules/react-is/cjs/react-is.development.js ***!
+  \*************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -32334,9 +32334,9 @@ exports.isSuspense = isSuspense;
 /***/ }),
 
 /***/ "../../node_modules/next/node_modules/react-is/index.js":
-/*!***********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/next/node_modules/react-is/index.js ***!
-  \***********************************************************************************************************************************/
+/*!******************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/next/node_modules/react-is/index.js ***!
+  \******************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -32450,9 +32450,9 @@ module.exports = function(module) {
 /***/ }),
 
 /***/ "../../node_modules/node-libs-browser/node_modules/punycode/punycode.js":
-/*!***************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/node-libs-browser/node_modules/punycode/punycode.js ***!
-  \***************************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/node-libs-browser/node_modules/punycode/punycode.js ***!
+  \**********************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -32981,9 +32981,9 @@ module.exports = function(module) {
 /***/ }),
 
 /***/ "../../node_modules/optimism/lib/bundle.esm.js":
-/*!**************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/optimism/lib/bundle.esm.js ***!
-  \**************************************************************************************************************************/
+/*!*********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/optimism/lib/bundle.esm.js ***!
+  \*********************************************************************************************************************************/
 /*! exports provided: asyncFromGen, bindContext, noContext, setTimeout, KeyTrie, defaultMakeCacheKey, wrap */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -33485,9 +33485,9 @@ function wrap(originalFunction, options) {
 /***/ }),
 
 /***/ "../../node_modules/performance-now/lib/performance-now.js":
-/*!**************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/performance-now/lib/performance-now.js ***!
-  \**************************************************************************************************************************************/
+/*!*********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/performance-now/lib/performance-now.js ***!
+  \*********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -33533,9 +33533,9 @@ function wrap(originalFunction, options) {
 /***/ }),
 
 /***/ "../../node_modules/prefix-style/index.js":
-/*!*********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/prefix-style/index.js ***!
-  \*********************************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/prefix-style/index.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -33574,9 +33574,9 @@ module.exports = function prefixStyle (prop) {
 /***/ }),
 
 /***/ "../../node_modules/process/browser.js":
-/*!******************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/process/browser.js ***!
-  \******************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/process/browser.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -33769,9 +33769,9 @@ process.umask = function() { return 0; };
 /***/ }),
 
 /***/ "../../node_modules/prop-types-exact/build/helpers/isPlainObject.js":
-/*!***********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/prop-types-exact/build/helpers/isPlainObject.js ***!
-  \***********************************************************************************************************************************************/
+/*!******************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/prop-types-exact/build/helpers/isPlainObject.js ***!
+  \******************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -33791,9 +33791,9 @@ module.exports = exports['default'];
 /***/ }),
 
 /***/ "../../node_modules/prop-types-exact/build/index.js":
-/*!*******************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/prop-types-exact/build/index.js ***!
-  \*******************************************************************************************************************************/
+/*!**************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/prop-types-exact/build/index.js ***!
+  \**************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -33869,9 +33869,9 @@ module.exports = (__webpack_require__(/*! dll-reference dll_1878973bba91fdb6b153
 /***/ }),
 
 /***/ "../../node_modules/prop-types/factoryWithTypeCheckers.js":
-/*!*************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/prop-types/factoryWithTypeCheckers.js ***!
-  \*************************************************************************************************************************************/
+/*!********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/prop-types/factoryWithTypeCheckers.js ***!
+  \********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -34472,9 +34472,9 @@ module.exports = function(isValidElement, throwOnDirectAccess) {
 /***/ }),
 
 /***/ "../../node_modules/prop-types/index.js":
-/*!*******************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/prop-types/index.js ***!
-  \*******************************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/prop-types/index.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -34509,9 +34509,9 @@ module.exports = (__webpack_require__(/*! dll-reference dll_1878973bba91fdb6b153
 /***/ }),
 
 /***/ "../../node_modules/querystring-es3/decode.js":
-/*!*************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/querystring-es3/decode.js ***!
-  \*************************************************************************************************************************/
+/*!********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/querystring-es3/decode.js ***!
+  \********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -34605,9 +34605,9 @@ var isArray = Array.isArray || function (xs) {
 /***/ }),
 
 /***/ "../../node_modules/querystring-es3/encode.js":
-/*!*************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/querystring-es3/encode.js ***!
-  \*************************************************************************************************************************/
+/*!********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/querystring-es3/encode.js ***!
+  \********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -34702,9 +34702,9 @@ var objectKeys = Object.keys || function (obj) {
 /***/ }),
 
 /***/ "../../node_modules/querystring-es3/index.js":
-/*!************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/querystring-es3/index.js ***!
-  \************************************************************************************************************************/
+/*!*******************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/querystring-es3/index.js ***!
+  \*******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -34718,9 +34718,9 @@ exports.encode = exports.stringify = __webpack_require__(/*! ./encode */ "../../
 /***/ }),
 
 /***/ "../../node_modules/raf/index.js":
-/*!************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/raf/index.js ***!
-  \************************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/raf/index.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -34805,9 +34805,9 @@ module.exports.polyfill = function(object) {
 /***/ }),
 
 /***/ "../../node_modules/re-resizable/lib/index.js":
-/*!*************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/re-resizable/lib/index.js ***!
-  \*************************************************************************************************************************/
+/*!********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/re-resizable/lib/index.js ***!
+  \********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -35496,9 +35496,9 @@ exports.Resizable = Resizable;
 /***/ }),
 
 /***/ "../../node_modules/re-resizable/lib/resizer.js":
-/*!***************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/re-resizable/lib/resizer.js ***!
-  \***************************************************************************************************************************/
+/*!**********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/re-resizable/lib/resizer.js ***!
+  \**********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -35599,9 +35599,9 @@ exports.Resizer = Resizer;
 /***/ }),
 
 /***/ "../../node_modules/react-content-loader/dist/react-content-loader.es.js":
-/*!****************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-content-loader/dist/react-content-loader.es.js ***!
-  \****************************************************************************************************************************************************/
+/*!***********************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-content-loader/dist/react-content-loader.es.js ***!
+  \***********************************************************************************************************************************************************/
 /*! exports provided: default, BulletList, Code, Facebook, Instagram, List */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -35750,9 +35750,9 @@ var ReactContentLoaderBulletList = function (props) { return (Object(react__WEBP
 /***/ }),
 
 /***/ "../../node_modules/react-custom-scrollbars/lib/Scrollbars/defaultRenderElements.js":
-/*!***************************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-custom-scrollbars/lib/Scrollbars/defaultRenderElements.js ***!
-  \***************************************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-custom-scrollbars/lib/Scrollbars/defaultRenderElements.js ***!
+  \**********************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -35838,9 +35838,9 @@ function renderThumbVerticalDefault(_ref4) {
 /***/ }),
 
 /***/ "../../node_modules/react-custom-scrollbars/lib/Scrollbars/index.js":
-/*!***********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-custom-scrollbars/lib/Scrollbars/index.js ***!
-  \***********************************************************************************************************************************************/
+/*!******************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-custom-scrollbars/lib/Scrollbars/index.js ***!
+  \******************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -36642,9 +36642,9 @@ Scrollbars.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/react-custom-scrollbars/lib/Scrollbars/styles.js":
-/*!************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-custom-scrollbars/lib/Scrollbars/styles.js ***!
-  \************************************************************************************************************************************************/
+/*!*******************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-custom-scrollbars/lib/Scrollbars/styles.js ***!
+  \*******************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -36724,9 +36724,9 @@ var disableSelectStyleReset = exports.disableSelectStyleReset = {
 /***/ }),
 
 /***/ "../../node_modules/react-custom-scrollbars/lib/index.js":
-/*!************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-custom-scrollbars/lib/index.js ***!
-  \************************************************************************************************************************************/
+/*!*******************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-custom-scrollbars/lib/index.js ***!
+  \*******************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -36750,9 +36750,9 @@ exports.Scrollbars = _Scrollbars2["default"];
 /***/ }),
 
 /***/ "../../node_modules/react-custom-scrollbars/lib/utils/getInnerHeight.js":
-/*!***************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-custom-scrollbars/lib/utils/getInnerHeight.js ***!
-  \***************************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-custom-scrollbars/lib/utils/getInnerHeight.js ***!
+  \**********************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -36776,9 +36776,9 @@ function getInnerHeight(el) {
 /***/ }),
 
 /***/ "../../node_modules/react-custom-scrollbars/lib/utils/getInnerWidth.js":
-/*!**************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-custom-scrollbars/lib/utils/getInnerWidth.js ***!
-  \**************************************************************************************************************************************************/
+/*!*********************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-custom-scrollbars/lib/utils/getInnerWidth.js ***!
+  \*********************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -36802,9 +36802,9 @@ function getInnerWidth(el) {
 /***/ }),
 
 /***/ "../../node_modules/react-custom-scrollbars/lib/utils/getScrollbarWidth.js":
-/*!******************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-custom-scrollbars/lib/utils/getScrollbarWidth.js ***!
-  \******************************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-custom-scrollbars/lib/utils/getScrollbarWidth.js ***!
+  \*************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -36849,9 +36849,9 @@ function getScrollbarWidth() {
 /***/ }),
 
 /***/ "../../node_modules/react-custom-scrollbars/lib/utils/isString.js":
-/*!*********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-custom-scrollbars/lib/utils/isString.js ***!
-  \*********************************************************************************************************************************************/
+/*!****************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-custom-scrollbars/lib/utils/isString.js ***!
+  \****************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -36869,9 +36869,9 @@ function isString(maybe) {
 /***/ }),
 
 /***/ "../../node_modules/react-custom-scrollbars/lib/utils/returnFalse.js":
-/*!************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-custom-scrollbars/lib/utils/returnFalse.js ***!
-  \************************************************************************************************************************************************/
+/*!*******************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-custom-scrollbars/lib/utils/returnFalse.js ***!
+  \*******************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -36889,9 +36889,9 @@ function returnFalse() {
 /***/ }),
 
 /***/ "../../node_modules/react-device-detect/main.js":
-/*!***************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-device-detect/main.js ***!
-  \***************************************************************************************************************************/
+/*!**********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-device-detect/main.js ***!
+  \**********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -37693,9 +37693,9 @@ module.exports = (__webpack_require__(/*! dll-reference dll_1878973bba91fdb6b153
 /***/ }),
 
 /***/ "../../node_modules/react-draggable/dist/react-draggable.js":
-/*!***************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-draggable/dist/react-draggable.js ***!
-  \***************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-draggable/dist/react-draggable.js ***!
+  \**********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -39915,9 +39915,9 @@ module.exports = (__webpack_require__(/*! dll-reference dll_1878973bba91fdb6b153
 /***/ }),
 
 /***/ "../../node_modules/react-image/umd/index.js":
-/*!************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-image/umd/index.js ***!
-  \************************************************************************************************************************/
+/*!*******************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-image/umd/index.js ***!
+  \*******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -39928,9 +39928,9 @@ module.exports = (__webpack_require__(/*! dll-reference dll_1878973bba91fdb6b153
 /***/ }),
 
 /***/ "../../node_modules/react-intl/lib/components/createFormattedComponent.js":
-/*!*****************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-intl/lib/components/createFormattedComponent.js ***!
-  \*****************************************************************************************************************************************************/
+/*!************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-intl/lib/components/createFormattedComponent.js ***!
+  \************************************************************************************************************************************************************/
 /*! exports provided: FormattedNumberParts, createFormattedDateTimePartsComponent, createFormattedComponent */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -40013,9 +40013,9 @@ function createFormattedComponent(name) {
 /***/ }),
 
 /***/ "../../node_modules/react-intl/lib/components/html-message.js":
-/*!*****************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-intl/lib/components/html-message.js ***!
-  \*****************************************************************************************************************************************/
+/*!************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-intl/lib/components/html-message.js ***!
+  \************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -40074,9 +40074,9 @@ FormattedHTMLMessage.defaultProps = Object.assign(Object.assign({}, _message__WE
 /***/ }),
 
 /***/ "../../node_modules/react-intl/lib/components/injectIntl.js":
-/*!***************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-intl/lib/components/injectIntl.js ***!
-  \***************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-intl/lib/components/injectIntl.js ***!
+  \**********************************************************************************************************************************************/
 /*! exports provided: Provider, Context, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -40128,9 +40128,9 @@ function injectIntl(WrappedComponent, options) {
 /***/ }),
 
 /***/ "../../node_modules/react-intl/lib/components/message.js":
-/*!************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-intl/lib/components/message.js ***!
-  \************************************************************************************************************************************/
+/*!*******************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-intl/lib/components/message.js ***!
+  \*******************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -40212,9 +40212,9 @@ FormattedMessage.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/react-intl/lib/components/plural.js":
-/*!***********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-intl/lib/components/plural.js ***!
-  \***********************************************************************************************************************************/
+/*!******************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-intl/lib/components/plural.js ***!
+  \******************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -40253,9 +40253,9 @@ FormattedPlural.displayName = 'FormattedPlural';
 /***/ }),
 
 /***/ "../../node_modules/react-intl/lib/components/provider.js":
-/*!*************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-intl/lib/components/provider.js ***!
-  \*************************************************************************************************************************************/
+/*!********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-intl/lib/components/provider.js ***!
+  \********************************************************************************************************************************************/
 /*! exports provided: createIntl, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -40363,9 +40363,9 @@ IntlProvider.defaultProps = _utils__WEBPACK_IMPORTED_MODULE_2__["DEFAULT_INTL_CO
 /***/ }),
 
 /***/ "../../node_modules/react-intl/lib/components/relative.js":
-/*!*************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-intl/lib/components/relative.js ***!
-  \*************************************************************************************************************************************/
+/*!********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-intl/lib/components/relative.js ***!
+  \********************************************************************************************************************************************/
 /*! exports provided: FormattedRelativeTime, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -40530,9 +40530,9 @@ FormattedRelativeTime.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/react-intl/lib/components/useIntl.js":
-/*!************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-intl/lib/components/useIntl.js ***!
-  \************************************************************************************************************************************/
+/*!*******************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-intl/lib/components/useIntl.js ***!
+  \*******************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -40556,9 +40556,9 @@ function useIntl() {
 /***/ }),
 
 /***/ "../../node_modules/react-intl/lib/formatters/dateTime.js":
-/*!*************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-intl/lib/formatters/dateTime.js ***!
-  \*************************************************************************************************************************************/
+/*!********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-intl/lib/formatters/dateTime.js ***!
+  \********************************************************************************************************************************************/
 /*! exports provided: getFormatter, formatDate, formatTime, formatDateToParts, formatTimeToParts */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -40649,9 +40649,9 @@ function formatTimeToParts(config, getDateTimeFormat, value, options = {}) {
 /***/ }),
 
 /***/ "../../node_modules/react-intl/lib/formatters/displayName.js":
-/*!****************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-intl/lib/formatters/displayName.js ***!
-  \****************************************************************************************************************************************/
+/*!***********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-intl/lib/formatters/displayName.js ***!
+  \***********************************************************************************************************************************************/
 /*! exports provided: formatDisplayName */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -40686,9 +40686,9 @@ Try polyfilling it using "@formatjs/intl-displaynames"
 /***/ }),
 
 /***/ "../../node_modules/react-intl/lib/formatters/list.js":
-/*!*********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-intl/lib/formatters/list.js ***!
-  \*********************************************************************************************************************************/
+/*!****************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-intl/lib/formatters/list.js ***!
+  \****************************************************************************************************************************************/
 /*! exports provided: formatList */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -40752,9 +40752,9 @@ Try polyfilling it using "@formatjs/intl-listformat"
 /***/ }),
 
 /***/ "../../node_modules/react-intl/lib/formatters/message.js":
-/*!************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-intl/lib/formatters/message.js ***!
-  \************************************************************************************************************************************/
+/*!*******************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-intl/lib/formatters/message.js ***!
+  \*******************************************************************************************************************************************/
 /*! exports provided: prepareIntlMessageFormatHtmlOutput, formatMessage, formatHTMLMessage */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -40867,9 +40867,9 @@ function formatHTMLMessage(config, state, messageDescriptor = { id: '' }, rawVal
 /***/ }),
 
 /***/ "../../node_modules/react-intl/lib/formatters/number.js":
-/*!***********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-intl/lib/formatters/number.js ***!
-  \***********************************************************************************************************************************/
+/*!******************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-intl/lib/formatters/number.js ***!
+  \******************************************************************************************************************************************/
 /*! exports provided: getFormatter, formatNumber, formatNumberToParts */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -40933,9 +40933,9 @@ function formatNumberToParts(config, getNumberFormat, value, options = {}) {
 /***/ }),
 
 /***/ "../../node_modules/react-intl/lib/formatters/plural.js":
-/*!***********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-intl/lib/formatters/plural.js ***!
-  \***********************************************************************************************************************************/
+/*!******************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-intl/lib/formatters/plural.js ***!
+  \******************************************************************************************************************************************/
 /*! exports provided: formatPlural */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -40968,9 +40968,9 @@ Try polyfilling it using "@formatjs/intl-pluralrules"
 /***/ }),
 
 /***/ "../../node_modules/react-intl/lib/formatters/relativeTime.js":
-/*!*****************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-intl/lib/formatters/relativeTime.js ***!
-  \*****************************************************************************************************************************************/
+/*!************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-intl/lib/formatters/relativeTime.js ***!
+  \************************************************************************************************************************************************/
 /*! exports provided: formatRelativeTime */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -41012,9 +41012,9 @@ Try polyfilling it using "@formatjs/intl-relativetimeformat"
 /***/ }),
 
 /***/ "../../node_modules/react-intl/lib/index.js":
-/*!***********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-intl/lib/index.js ***!
-  \***********************************************************************************************************************/
+/*!******************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-intl/lib/index.js ***!
+  \******************************************************************************************************************************/
 /*! exports provided: defineMessages, injectIntl, RawIntlProvider, IntlContext, useIntl, IntlProvider, createIntl, FormattedDate, FormattedTime, FormattedNumber, FormattedList, FormattedDisplayName, FormattedDateParts, FormattedTimeParts, FormattedNumberParts, FormattedRelativeTime, FormattedPlural, FormattedMessage, FormattedHTMLMessage, createIntlCache */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -41088,9 +41088,9 @@ const FormattedTimeParts = Object(_components_createFormattedComponent__WEBPACK_
 /***/ }),
 
 /***/ "../../node_modules/react-intl/lib/utils.js":
-/*!***********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-intl/lib/utils.js ***!
-  \***********************************************************************************************************************/
+/*!******************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-intl/lib/utils.js ***!
+  \******************************************************************************************************************************/
 /*! exports provided: escape, filterProps, invariantIntlContext, createError, defaultErrorHandler, DEFAULT_INTL_CONFIG, createIntlCache, createFormatters, getNamedFormat */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -41213,9 +41213,9 @@ function getNamedFormat(formats, type, name, onError) {
 /***/ }),
 
 /***/ "../../node_modules/react-is/cjs/react-is.development.js":
-/*!************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-is/cjs/react-is.development.js ***!
-  \************************************************************************************************************************************/
+/*!*******************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-is/cjs/react-is.development.js ***!
+  \*******************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -41461,9 +41461,9 @@ exports.isSuspense = isSuspense;
 /***/ }),
 
 /***/ "../../node_modules/react-is/index.js":
-/*!*****************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-is/index.js ***!
-  \*****************************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-is/index.js ***!
+  \************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -41478,9 +41478,9 @@ if (false) {} else {
 /***/ }),
 
 /***/ "../../node_modules/react-multi-carousel/index.js":
-/*!*****************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-multi-carousel/index.js ***!
-  \*****************************************************************************************************************************/
+/*!************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-multi-carousel/index.js ***!
+  \************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -41490,9 +41490,9 @@ module.exports = __webpack_require__(/*! ./lib */ "../../node_modules/react-mult
 /***/ }),
 
 /***/ "../../node_modules/react-multi-carousel/lib/Arrows.js":
-/*!**********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-multi-carousel/lib/Arrows.js ***!
-  \**********************************************************************************************************************************/
+/*!*****************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-multi-carousel/lib/Arrows.js ***!
+  \*****************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -41502,9 +41502,9 @@ Object.defineProperty(exports,"__esModule",{value:!0});var React=__webpack_requi
 /***/ }),
 
 /***/ "../../node_modules/react-multi-carousel/lib/Carousel.js":
-/*!************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-multi-carousel/lib/Carousel.js ***!
-  \************************************************************************************************************************************/
+/*!*******************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-multi-carousel/lib/Carousel.js ***!
+  \*******************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -41514,9 +41514,9 @@ var __extends=this&&this.__extends||function(){var extendStatics=function(d,b){r
 /***/ }),
 
 /***/ "../../node_modules/react-multi-carousel/lib/CarouselItems.js":
-/*!*****************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-multi-carousel/lib/CarouselItems.js ***!
-  \*****************************************************************************************************************************************/
+/*!************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-multi-carousel/lib/CarouselItems.js ***!
+  \************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -41526,9 +41526,9 @@ Object.defineProperty(exports,"__esModule",{value:!0});var React=__webpack_requi
 /***/ }),
 
 /***/ "../../node_modules/react-multi-carousel/lib/Dots.js":
-/*!********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-multi-carousel/lib/Dots.js ***!
-  \********************************************************************************************************************************/
+/*!***************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-multi-carousel/lib/Dots.js ***!
+  \***************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -41538,9 +41538,9 @@ Object.defineProperty(exports,"__esModule",{value:!0});var React=__webpack_requi
 /***/ }),
 
 /***/ "../../node_modules/react-multi-carousel/lib/index.js":
-/*!*********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-multi-carousel/lib/index.js ***!
-  \*********************************************************************************************************************************/
+/*!****************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-multi-carousel/lib/index.js ***!
+  \****************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -41550,9 +41550,9 @@ Object.defineProperty(exports,"__esModule",{value:!0});var Carousel_1=__webpack_
 /***/ }),
 
 /***/ "../../node_modules/react-multi-carousel/lib/types.js":
-/*!*********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-multi-carousel/lib/types.js ***!
-  \*********************************************************************************************************************************/
+/*!****************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-multi-carousel/lib/types.js ***!
+  \****************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -41562,9 +41562,9 @@ var __extends=this&&this.__extends||function(){var extendStatics=function(d,b){r
 /***/ }),
 
 /***/ "../../node_modules/react-multi-carousel/lib/utils/clones.js":
-/*!****************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-multi-carousel/lib/utils/clones.js ***!
-  \****************************************************************************************************************************************/
+/*!***********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-multi-carousel/lib/utils/clones.js ***!
+  \***********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -41574,9 +41574,9 @@ function getOriginalCounterPart(index,_a,childrenArr){var slidesToShow=_a.slides
 /***/ }),
 
 /***/ "../../node_modules/react-multi-carousel/lib/utils/common.js":
-/*!****************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-multi-carousel/lib/utils/common.js ***!
-  \****************************************************************************************************************************************/
+/*!***********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-multi-carousel/lib/utils/common.js ***!
+  \***********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -41586,9 +41586,9 @@ Object.defineProperty(exports,"__esModule",{value:!0});var elementWidth_1=__webp
 /***/ }),
 
 /***/ "../../node_modules/react-multi-carousel/lib/utils/dots.js":
-/*!**************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-multi-carousel/lib/utils/dots.js ***!
-  \**************************************************************************************************************************************/
+/*!*********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-multi-carousel/lib/utils/dots.js ***!
+  \*********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -41598,9 +41598,9 @@ Object.defineProperty(exports,"__esModule",{value:!0});var clones_1=__webpack_re
 /***/ }),
 
 /***/ "../../node_modules/react-multi-carousel/lib/utils/elementWidth.js":
-/*!**********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-multi-carousel/lib/utils/elementWidth.js ***!
-  \**********************************************************************************************************************************************/
+/*!*****************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-multi-carousel/lib/utils/elementWidth.js ***!
+  \*****************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -41610,9 +41610,9 @@ Object.defineProperty(exports,"__esModule",{value:!0});var hasWarnAboutTypo=!1;f
 /***/ }),
 
 /***/ "../../node_modules/react-multi-carousel/lib/utils/index.js":
-/*!***************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-multi-carousel/lib/utils/index.js ***!
-  \***************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-multi-carousel/lib/utils/index.js ***!
+  \**********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -41622,9 +41622,9 @@ Object.defineProperty(exports,"__esModule",{value:!0});var clones_1=__webpack_re
 /***/ }),
 
 /***/ "../../node_modules/react-multi-carousel/lib/utils/mouseOrTouchMove.js":
-/*!**************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-multi-carousel/lib/utils/mouseOrTouchMove.js ***!
-  \**************************************************************************************************************************************************/
+/*!*********************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-multi-carousel/lib/utils/mouseOrTouchMove.js ***!
+  \*********************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -41634,9 +41634,9 @@ function populateSlidesOnMouseTouchMove(state,props,initialX,lastX,clientX,trans
 /***/ }),
 
 /***/ "../../node_modules/react-multi-carousel/lib/utils/next.js":
-/*!**************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-multi-carousel/lib/utils/next.js ***!
-  \**************************************************************************************************************************************/
+/*!*********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-multi-carousel/lib/utils/next.js ***!
+  \*********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -41646,9 +41646,9 @@ Object.defineProperty(exports,"__esModule",{value:!0});var common_1=__webpack_re
 /***/ }),
 
 /***/ "../../node_modules/react-multi-carousel/lib/utils/previous.js":
-/*!******************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-multi-carousel/lib/utils/previous.js ***!
-  \******************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-multi-carousel/lib/utils/previous.js ***!
+  \*************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -41658,9 +41658,9 @@ Object.defineProperty(exports,"__esModule",{value:!0});var React=__webpack_requi
 /***/ }),
 
 /***/ "../../node_modules/react-multi-carousel/lib/utils/throttle.js":
-/*!******************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-multi-carousel/lib/utils/throttle.js ***!
-  \******************************************************************************************************************************************/
+/*!*************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-multi-carousel/lib/utils/throttle.js ***!
+  \*************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -41670,9 +41670,9 @@ Object.defineProperty(exports,"__esModule",{value:!0});var throttle=function(fun
 /***/ }),
 
 /***/ "../../node_modules/react-multi-carousel/lib/utils/throwError.js":
-/*!********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-multi-carousel/lib/utils/throwError.js ***!
-  \********************************************************************************************************************************************/
+/*!***************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-multi-carousel/lib/utils/throwError.js ***!
+  \***************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -41682,9 +41682,9 @@ function throwError(state,props){var partialVisbile=props.partialVisbile,partial
 /***/ }),
 
 /***/ "../../node_modules/react-reveal/Fade.js":
-/*!********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-reveal/Fade.js ***!
-  \********************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-reveal/Fade.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -41694,9 +41694,9 @@ function _interopRequireDefault(o){return o&&o.__esModule?o:{default:o}}function
 /***/ }),
 
 /***/ "../../node_modules/react-reveal/RevealBase.js":
-/*!**************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-reveal/RevealBase.js ***!
-  \**************************************************************************************************************************/
+/*!*********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-reveal/RevealBase.js ***!
+  \*********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -41706,9 +41706,9 @@ function _interopRequireDefault(e){return e&&e.__esModule?e:{default:e}}function
 /***/ }),
 
 /***/ "../../node_modules/react-reveal/globals.js":
-/*!***********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-reveal/globals.js ***!
-  \***********************************************************************************************************************/
+/*!******************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-reveal/globals.js ***!
+  \******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -41718,9 +41718,9 @@ function insertRule(e){try{return sheet.insertRule(e,sheet.cssRules.length)}catc
 /***/ }),
 
 /***/ "../../node_modules/react-reveal/wrap.js":
-/*!********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-reveal/wrap.js ***!
-  \********************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-reveal/wrap.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -41730,9 +41730,9 @@ function _interopRequireDefault(e){return e&&e.__esModule?e:{default:e}}function
 /***/ }),
 
 /***/ "../../node_modules/react-rnd/lib/index.js":
-/*!**********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-rnd/lib/index.js ***!
-  \**********************************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-rnd/lib/index.js ***!
+  \*****************************************************************************************************************************/
 /*! exports provided: Rnd */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -42166,9 +42166,9 @@ var Rnd = /** @class */ (function (_super) {
 /***/ }),
 
 /***/ "../../node_modules/react-spring/renderprops.cjs.js":
-/*!*******************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-spring/renderprops.cjs.js ***!
-  \*******************************************************************************************************************************/
+/*!**************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-spring/renderprops.cjs.js ***!
+  \**************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -44607,9 +44607,9 @@ exports.Globals = Globals;
 /***/ }),
 
 /***/ "../../node_modules/react-spring/web.js":
-/*!*******************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-spring/web.js ***!
-  \*******************************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-spring/web.js ***!
+  \**************************************************************************************************************************/
 /*! exports provided: apply, config, update, animated, a, interpolate, Globals, useSpring, useTrail, useTransition, useChain, useSprings */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -46610,9 +46610,9 @@ const extendedAnimated = apply(domElements);
 /***/ }),
 
 /***/ "../../node_modules/react-stickynode/dist/Sticky.js":
-/*!*******************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-stickynode/dist/Sticky.js ***!
-  \*******************************************************************************************************************************/
+/*!**************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-stickynode/dist/Sticky.js ***!
+  \**************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -47115,9 +47115,9 @@ module.exports = Sticky;
 /***/ }),
 
 /***/ "../../node_modules/react-stickynode/index.js":
-/*!*************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-stickynode/index.js ***!
-  \*************************************************************************************************************************/
+/*!********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-stickynode/index.js ***!
+  \********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -47127,9 +47127,9 @@ module.exports = __webpack_require__(/*! ./dist/Sticky */ "../../node_modules/re
 /***/ }),
 
 /***/ "../../node_modules/react-text-mask/dist/reactTextMask.js":
-/*!*************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-text-mask/dist/reactTextMask.js ***!
-  \*************************************************************************************************************************************/
+/*!********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-text-mask/dist/reactTextMask.js ***!
+  \********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -47138,9 +47138,9 @@ module.exports = __webpack_require__(/*! ./dist/Sticky */ "../../node_modules/re
 /***/ }),
 
 /***/ "../../node_modules/react-waypoint/es/index.js":
-/*!**************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/react-waypoint/es/index.js ***!
-  \**************************************************************************************************************************/
+/*!*********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/react-waypoint/es/index.js ***!
+  \*********************************************************************************************************************************/
 /*! exports provided: Waypoint */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -47819,9 +47819,9 @@ module.exports = (__webpack_require__(/*! dll-reference dll_1878973bba91fdb6b153
 /***/ }),
 
 /***/ "../../node_modules/regenerator-runtime/runtime.js":
-/*!******************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/regenerator-runtime/runtime.js ***!
-  \******************************************************************************************************************************/
+/*!*************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/regenerator-runtime/runtime.js ***!
+  \*************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -48556,9 +48556,9 @@ try {
 /***/ }),
 
 /***/ "../../node_modules/resize-observer-polyfill/dist/ResizeObserver.es.js":
-/*!**************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/resize-observer-polyfill/dist/ResizeObserver.es.js ***!
-  \**************************************************************************************************************************************************/
+/*!*********************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/resize-observer-polyfill/dist/ResizeObserver.es.js ***!
+  \*********************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -49498,9 +49498,9 @@ var index = (function () {
 /***/ }),
 
 /***/ "../../node_modules/shallow-equal/objects/index.js":
-/*!******************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/shallow-equal/objects/index.js ***!
-  \******************************************************************************************************************************/
+/*!*************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/shallow-equal/objects/index.js ***!
+  \*************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -49541,9 +49541,9 @@ module.exports = shallowEqualObjects;
 /***/ }),
 
 /***/ "../../node_modules/shallowequal/index.js":
-/*!*********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/shallowequal/index.js ***!
-  \*********************************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/shallowequal/index.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -49598,9 +49598,9 @@ module.exports = function shallowEqual(objA, objB, compare, compareContext) {
 /***/ }),
 
 /***/ "../../node_modules/styled-components/dist/styled-components.browser.esm.js":
-/*!*******************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/styled-components/dist/styled-components.browser.esm.js ***!
-  \*******************************************************************************************************************************************************/
+/*!**************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/styled-components/dist/styled-components.browser.esm.js ***!
+  \**************************************************************************************************************************************************************/
 /*! exports provided: default, ServerStyleSheet, StyleSheetConsumer, StyleSheetContext, StyleSheetManager, ThemeConsumer, ThemeContext, ThemeProvider, __PRIVATE__, createGlobalStyle, css, isStyledComponent, keyframes, useTheme, version, withTheme */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -51558,9 +51558,9 @@ if ( true && typeof window !== 'undefined') {
 /***/ }),
 
 /***/ "../../node_modules/styled-system/dist/index.esm.js":
-/*!*******************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/styled-system/dist/index.esm.js ***!
-  \*******************************************************************************************************************************/
+/*!**************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/styled-system/dist/index.esm.js ***!
+  \**************************************************************************************************************************************/
 /*! exports provided: get, createParser, createStyleFunction, compose, system, margin, padding, space, color, layout, typography, flexbox, border, background, position, grid, shadow, boxShadow, textShadow, variant, buttonStyle, textStyle, colorStyle, borders, width, height, minWidth, minHeight, maxWidth, maxHeight, size, verticalAlign, display, overflow, overflowX, overflowY, opacity, fontSize, fontFamily, fontWeight, lineHeight, textAlign, fontStyle, letterSpacing, alignItems, alignContent, justifyItems, justifyContent, flexWrap, flexDirection, flex, flexGrow, flexShrink, flexBasis, justifySelf, alignSelf, order, gridGap, gridColumnGap, gridRowGap, gridColumn, gridRow, gridAutoFlow, gridAutoColumns, gridAutoRows, gridTemplateColumns, gridTemplateRows, gridTemplateAreas, gridArea, borderWidth, borderStyle, borderColor, borderTop, borderRight, borderBottom, borderLeft, borderRadius, backgroundImage, backgroundSize, backgroundPosition, backgroundRepeat, zIndex, top, right, bottom, left, style */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -51802,9 +51802,9 @@ var style = function style(_ref) {
 /***/ }),
 
 /***/ "../../node_modules/subscribe-ui-event/dist-es/AugmentedEvent.js":
-/*!********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/subscribe-ui-event/dist-es/AugmentedEvent.js ***!
-  \********************************************************************************************************************************************/
+/*!***************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/subscribe-ui-event/dist-es/AugmentedEvent.js ***!
+  \***************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -51938,9 +51938,9 @@ var AugmentedEvent = function () {
 /***/ }),
 
 /***/ "../../node_modules/subscribe-ui-event/dist-es/constants.js":
-/*!***************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/subscribe-ui-event/dist-es/constants.js ***!
-  \***************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/subscribe-ui-event/dist-es/constants.js ***!
+  \**********************************************************************************************************************************************/
 /*! exports provided: EVENT_END_DELAY, DEFAULT_THROTTLE_RATE */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -51960,9 +51960,9 @@ var DEFAULT_THROTTLE_RATE = 50;
 /***/ }),
 
 /***/ "../../node_modules/subscribe-ui-event/dist-es/globalVars.js":
-/*!****************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/subscribe-ui-event/dist-es/globalVars.js ***!
-  \****************************************************************************************************************************************/
+/*!***********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/subscribe-ui-event/dist-es/globalVars.js ***!
+  \***********************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -51993,9 +51993,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/subscribe-ui-event/dist-es/lib/leIE8.js":
-/*!***************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/subscribe-ui-event/dist-es/lib/leIE8.js ***!
-  \***************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/subscribe-ui-event/dist-es/lib/leIE8.js ***!
+  \**********************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -52023,9 +52023,9 @@ if (typeof navigator !== 'undefined') {
 /***/ }),
 
 /***/ "../../node_modules/subscribe-ui-event/dist-es/lib/listen.js":
-/*!****************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/subscribe-ui-event/dist-es/lib/listen.js ***!
-  \****************************************************************************************************************************************/
+/*!***********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/subscribe-ui-event/dist-es/lib/listen.js ***!
+  \***********************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -52087,9 +52087,9 @@ function listen(target, eventType, handler, options) {
 /***/ }),
 
 /***/ "../../node_modules/subscribe-ui-event/dist-es/lib/rAFThrottle.js":
-/*!*********************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/subscribe-ui-event/dist-es/lib/rAFThrottle.js ***!
-  \*********************************************************************************************************************************************/
+/*!****************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/subscribe-ui-event/dist-es/lib/rAFThrottle.js ***!
+  \****************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -52146,9 +52146,9 @@ function rAFThrottle(func) {
 /***/ }),
 
 /***/ "../../node_modules/subscribe-ui-event/dist-es/lib/supportPassiveEvent.js":
-/*!*****************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/subscribe-ui-event/dist-es/lib/supportPassiveEvent.js ***!
-  \*****************************************************************************************************************************************************/
+/*!************************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/subscribe-ui-event/dist-es/lib/supportPassiveEvent.js ***!
+  \************************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -52176,9 +52176,9 @@ if (typeof window !== 'undefined') {
 /***/ }),
 
 /***/ "../../node_modules/subscribe-ui-event/dist-es/mainEventConnectors.js":
-/*!*************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/subscribe-ui-event/dist-es/mainEventConnectors.js ***!
-  \*************************************************************************************************************************************************/
+/*!********************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/subscribe-ui-event/dist-es/mainEventConnectors.js ***!
+  \********************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -52403,9 +52403,9 @@ function connectDiscreteEvent(target, event) {
 /***/ }),
 
 /***/ "../../node_modules/subscribe-ui-event/dist-es/subscribe.js":
-/*!***************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/subscribe-ui-event/dist-es/subscribe.js ***!
-  \***************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/subscribe-ui-event/dist-es/subscribe.js ***!
+  \**********************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -52473,9 +52473,9 @@ function subscribe(type, cb) {
 /***/ }),
 
 /***/ "../../node_modules/subscribe-ui-event/dist-es/unsubscribe.js":
-/*!*****************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/subscribe-ui-event/dist-es/unsubscribe.js ***!
-  \*****************************************************************************************************************************************/
+/*!************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/subscribe-ui-event/dist-es/unsubscribe.js ***!
+  \************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -52515,9 +52515,9 @@ function unsubscribe(type, cb) {
 /***/ }),
 
 /***/ "../../node_modules/subscribe-ui-event/index.es.js":
-/*!******************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/subscribe-ui-event/index.es.js ***!
-  \******************************************************************************************************************************/
+/*!*************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/subscribe-ui-event/index.es.js ***!
+  \*************************************************************************************************************************************/
 /*! exports provided: listen, subscribe, unsubscribe */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -52554,9 +52554,9 @@ var unsubscribe = IS_CLIENT ? _dist_es_unsubscribe__WEBPACK_IMPORTED_MODULE_2__[
 /***/ }),
 
 /***/ "../../node_modules/symbol-observable/es/index.js":
-/*!*****************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/symbol-observable/es/index.js ***!
-  \*****************************************************************************************************************************/
+/*!************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/symbol-observable/es/index.js ***!
+  \************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -52586,9 +52586,9 @@ var result = Object(_ponyfill_js__WEBPACK_IMPORTED_MODULE_0__["default"])(root);
 /***/ }),
 
 /***/ "../../node_modules/symbol-observable/es/ponyfill.js":
-/*!********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/symbol-observable/es/ponyfill.js ***!
-  \********************************************************************************************************************************/
+/*!***************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/symbol-observable/es/ponyfill.js ***!
+  \***************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -52617,9 +52617,9 @@ function symbolObservablePonyfill(root) {
 /***/ }),
 
 /***/ "../../node_modules/to-camel-case/index.js":
-/*!**********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/to-camel-case/index.js ***!
-  \**********************************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/to-camel-case/index.js ***!
+  \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -52649,9 +52649,9 @@ function toCamelCase(string) {
 /***/ }),
 
 /***/ "../../node_modules/to-no-case/index.js":
-/*!*******************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/to-no-case/index.js ***!
-  \*******************************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/to-no-case/index.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -52727,9 +52727,9 @@ function uncamelize(string) {
 /***/ }),
 
 /***/ "../../node_modules/to-space-case/index.js":
-/*!**********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/to-space-case/index.js ***!
-  \**********************************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/to-space-case/index.js ***!
+  \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -52759,9 +52759,9 @@ function toSpaceCase(string) {
 /***/ }),
 
 /***/ "../../node_modules/ts-invariant/lib/invariant.esm.js":
-/*!*********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/ts-invariant/lib/invariant.esm.js ***!
-  \*********************************************************************************************************************************/
+/*!****************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/ts-invariant/lib/invariant.esm.js ***!
+  \****************************************************************************************************************************************/
 /*! exports provided: default, InvariantError, invariant, process */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -52839,9 +52839,9 @@ var invariant$1 = invariant;
 /***/ }),
 
 /***/ "../../node_modules/tslib/tslib.es6.js":
-/*!******************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/tslib/tslib.es6.js ***!
-  \******************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/tslib/tslib.es6.js ***!
+  \*************************************************************************************************************************/
 /*! exports provided: __extends, __assign, __rest, __decorate, __param, __metadata, __awaiter, __generator, __exportStar, __values, __read, __spread, __spreadArrays, __await, __asyncGenerator, __asyncDelegator, __asyncValues, __makeTemplateObject, __importStar, __importDefault */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -53068,9 +53068,9 @@ function __importDefault(mod) {
 /***/ }),
 
 /***/ "../../node_modules/ua-parser-js/dist/ua-parser.min.js":
-/*!**********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/ua-parser-js/dist/ua-parser.min.js ***!
-  \**********************************************************************************************************************************/
+/*!*****************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/ua-parser-js/dist/ua-parser.min.js ***!
+  \*****************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -53088,9 +53088,9 @@ var __WEBPACK_AMD_DEFINE_RESULT__;/*!
 /***/ }),
 
 /***/ "../../node_modules/universal-cookie/es6/Cookies.js":
-/*!*******************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/universal-cookie/es6/Cookies.js ***!
-  \*******************************************************************************************************************************/
+/*!**************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/universal-cookie/es6/Cookies.js ***!
+  \**************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -53179,9 +53179,9 @@ var Cookies = /** @class */ (function () {
 /***/ }),
 
 /***/ "../../node_modules/universal-cookie/es6/index.js":
-/*!*****************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/universal-cookie/es6/index.js ***!
-  \*****************************************************************************************************************************/
+/*!************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/universal-cookie/es6/index.js ***!
+  \************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -53195,9 +53195,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/universal-cookie/es6/utils.js":
-/*!*****************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/universal-cookie/es6/utils.js ***!
-  \*****************************************************************************************************************************/
+/*!************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/universal-cookie/es6/utils.js ***!
+  \************************************************************************************************************************************/
 /*! exports provided: hasDocumentCookie, cleanCookies, parseCookies, isParsingCookie, readCookie */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -53280,9 +53280,9 @@ function cleanupCookieValue(value) {
 /***/ }),
 
 /***/ "../../node_modules/url/url.js":
-/*!**********************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/url/url.js ***!
-  \**********************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/url/url.js ***!
+  \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -54024,9 +54024,9 @@ Url.prototype.parseHost = function() {
 /***/ }),
 
 /***/ "../../node_modules/url/util.js":
-/*!***********************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/url/util.js ***!
-  \***********************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/url/util.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -54052,9 +54052,9 @@ module.exports = {
 /***/ }),
 
 /***/ "../../node_modules/use-subscription/cjs/use-subscription.development.js":
-/*!****************************************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/use-subscription/cjs/use-subscription.development.js ***!
-  \****************************************************************************************************************************************************/
+/*!***********************************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/use-subscription/cjs/use-subscription.development.js ***!
+  \***********************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -54281,9 +54281,9 @@ exports.useSubscription = useSubscription;
 /***/ }),
 
 /***/ "../../node_modules/use-subscription/index.js":
-/*!*************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/use-subscription/index.js ***!
-  \*************************************************************************************************************************/
+/*!********************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/use-subscription/index.js ***!
+  \********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -54298,9 +54298,9 @@ if (false) {} else {
 /***/ }),
 
 /***/ "../../node_modules/zen-observable-ts/lib/bundle.esm.js":
-/*!***********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/zen-observable-ts/lib/bundle.esm.js ***!
-  \***********************************************************************************************************************************/
+/*!******************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/zen-observable-ts/lib/bundle.esm.js ***!
+  \******************************************************************************************************************************************/
 /*! exports provided: default, Observable */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -54321,9 +54321,9 @@ var Observable = zen_observable__WEBPACK_IMPORTED_MODULE_0___default.a;
 /***/ }),
 
 /***/ "../../node_modules/zen-observable/index.js":
-/*!***********************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/zen-observable/index.js ***!
-  \***********************************************************************************************************************/
+/*!******************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/zen-observable/index.js ***!
+  \******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -54333,9 +54333,9 @@ module.exports = __webpack_require__(/*! ./lib/Observable.js */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/zen-observable/lib/Observable.js":
-/*!********************************************************************************************************************************!*\
-  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/node_modules/zen-observable/lib/Observable.js ***!
-  \********************************************************************************************************************************/
+/*!***************************************************************************************************************************************!*\
+  !*** /Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/node_modules/zen-observable/lib/Observable.js ***!
+  \***************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -55078,7 +55078,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "../../node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/components/AllSvgIcon.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/components/AllSvgIcon.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 var Accessories = function Accessories(_ref) {
@@ -67192,7 +67192,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_intl__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! react-intl */ "../../node_modules/react-intl/lib/index.js");
 
 
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/components/Button/Button.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/components/Button/Button.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement;
 
 
@@ -67297,7 +67297,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _AllSvgIcon__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../AllSvgIcon */ "./components/AllSvgIcon.tsx");
 
 
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/components/Carousel/Carousel.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/components/Carousel/Carousel.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement;
 
 
@@ -67631,7 +67631,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _CartPopup_style__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./CartPopup.style */ "./components/CartPopup/CartPopup.style.tsx");
 /* harmony import */ var _AllSvgIcon__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../AllSvgIcon */ "./components/AllSvgIcon.tsx");
 
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/components/CartPopup/CartPopupButton.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/components/CartPopup/CartPopupButton.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 
@@ -67794,7 +67794,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_2__);
 
 
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/components/CategoryDropdown/CategoryIcon.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/components/CategoryDropdown/CategoryIcon.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement;
 
 var iconTypes = {};
@@ -67838,7 +67838,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _CategoryIcon__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./CategoryIcon */ "./components/CategoryDropdown/CategoryIcon.tsx");
 
 
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/components/CategoryDropdown/SpringDropdown.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/components/CategoryDropdown/SpringDropdown.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement;
 
 
@@ -68080,7 +68080,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _CouponBox_style__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./CouponBox.style */ "./components/CouponBox/CouponBox.style.tsx");
 /* harmony import */ var _AllSvgIcon__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../AllSvgIcon */ "./components/AllSvgIcon.tsx");
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/components/CouponBox/CouponBox.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/components/CouponBox/CouponBox.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -68194,7 +68194,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_image__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react_image__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _product_placeholder_png__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./product-placeholder.png */ "./components/Image/product-placeholder.png");
 /* harmony import */ var _product_placeholder_png__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_product_placeholder_png__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/components/Image/Image.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/components/Image/Image.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -68329,7 +68329,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/components/Input/Input.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/components/Input/Input.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement;
 
 function ownKeys(object, enumerableOnly) { var keys = _babel_runtime_corejs2_core_js_object_keys__WEBPACK_IMPORTED_MODULE_5___default()(object); if (_babel_runtime_corejs2_core_js_object_get_own_property_symbols__WEBPACK_IMPORTED_MODULE_4___default.a) { var symbols = _babel_runtime_corejs2_core_js_object_get_own_property_symbols__WEBPACK_IMPORTED_MODULE_4___default()(object); if (enumerableOnly) symbols = symbols.filter(function (sym) { return _babel_runtime_corejs2_core_js_object_get_own_property_descriptor__WEBPACK_IMPORTED_MODULE_3___default()(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }
@@ -68720,7 +68720,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _AllSvgIcon__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../AllSvgIcon */ "./components/AllSvgIcon.tsx");
 /* harmony import */ var _InputIncDec_style__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./InputIncDec.style */ "./components/InputIncDec/InputIncDec.style.tsx");
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/components/InputIncDec/InputIncDec.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/components/InputIncDec/InputIncDec.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -68844,7 +68844,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! styled-components */ "../../node_modules/styled-components/dist/styled-components.browser.esm.js");
 
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/components/Loader/Loader.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/components/Loader/Loader.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 
@@ -68887,7 +68887,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! next/router */ "../../node_modules/next/dist/client/router.js");
 /* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(next_router__WEBPACK_IMPORTED_MODULE_3__);
 /* harmony import */ var react_intl__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! react-intl */ "../../node_modules/react-intl/lib/index.js");
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/components/NavLink/NavLink.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/components/NavLink/NavLink.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -69017,7 +69017,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Button_Button__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../Button/Button */ "./components/Button/Button.tsx");
 /* harmony import */ var components_AllSvgIcon__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! components/AllSvgIcon */ "./components/AllSvgIcon.tsx");
 /* harmony import */ var contexts_search_search_context__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! contexts/search/search.context */ "./contexts/search/search.context.tsx");
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/components/NoResult/NoResult.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/components/NoResult/NoResult.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -69131,7 +69131,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "../../node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react_content_loader__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-content-loader */ "../../node_modules/react-content-loader/dist/react-content-loader.es.js");
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/components/Placeholder/Placeholder.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/components/Placeholder/Placeholder.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -69515,7 +69515,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "../../node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _Popover_style__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Popover.style */ "./components/Popover/Popover.style.tsx");
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/components/Popover/Popover.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/components/Popover/Popover.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -69710,7 +69710,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _ProductCard_style__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./ProductCard.style */ "./components/ProductCard/ProductCard.style.tsx");
 /* harmony import */ var _helpers_utility__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../helpers/utility */ "./components/helpers/utility.ts");
 
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/components/ProductCard/ProductCard.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/components/ProductCard/ProductCard.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 
@@ -69898,7 +69898,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _SearchBox_style__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./SearchBox.style */ "./components/SearchBox/SearchBox.style.tsx");
 /* harmony import */ var react_intl__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react-intl */ "../../node_modules/react-intl/lib/index.js");
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/components/SearchBox/Input.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/components/SearchBox/Input.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -70075,7 +70075,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _SearchResults__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./SearchResults */ "./components/SearchBox/SearchResults.tsx");
 /* harmony import */ var _SearchBox_style__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./SearchBox.style */ "./components/SearchBox/SearchBox.style.tsx");
 /* harmony import */ var _AllSvgIcon__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../AllSvgIcon */ "./components/AllSvgIcon.tsx");
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/components/SearchBox/SearchBox.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/components/SearchBox/SearchBox.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 
@@ -70255,7 +70255,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _SearchBox_style__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./SearchBox.style */ "./components/SearchBox/SearchBox.style.tsx");
 
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/components/SearchBox/SearchResults.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/components/SearchBox/SearchResults.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 
@@ -70354,7 +70354,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _NavLink_NavLink__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../NavLink/NavLink */ "./components/NavLink/NavLink.tsx");
 /* harmony import */ var _StoreNav_style__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./StoreNav.style */ "./components/StoreNav/StoreNav.style.tsx");
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/components/StoreNav/StoreNav.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/components/StoreNav/StoreNav.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -70782,7 +70782,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/containers/Banner/Banner.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/containers/Banner/Banner.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement;
 
 function ownKeys(object, enumerableOnly) { var keys = _babel_runtime_corejs2_core_js_object_keys__WEBPACK_IMPORTED_MODULE_5___default()(object); if (_babel_runtime_corejs2_core_js_object_get_own_property_symbols__WEBPACK_IMPORTED_MODULE_4___default.a) { var symbols = _babel_runtime_corejs2_core_js_object_get_own_property_symbols__WEBPACK_IMPORTED_MODULE_4___default()(object); if (enumerableOnly) symbols = symbols.filter(function (sym) { return _babel_runtime_corejs2_core_js_object_get_own_property_descriptor__WEBPACK_IMPORTED_MODULE_3___default()(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }
@@ -70973,7 +70973,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/containers/Cart/Cart.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/containers/Cart/Cart.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement;
 
 function _templateObject() {
@@ -71557,7 +71557,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _CartItemCard_style__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./CartItemCard.style */ "./containers/Cart/CartItemCard.style.tsx");
 /* harmony import */ var react_intl__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! react-intl */ "../../node_modules/react-intl/lib/index.js");
 
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/containers/Cart/CartPopUp.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/containers/Cart/CartPopUp.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 function _templateObject() {
@@ -71800,7 +71800,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _LocationModal_style__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./LocationModal.style */ "./containers/LocationModal/LocationModal.style.tsx");
 /* harmony import */ var components_AllSvgIcon__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! components/AllSvgIcon */ "./components/AllSvgIcon.tsx");
 
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/containers/LocationModal/LocationModal.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/containers/LocationModal/LocationModal.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 
@@ -71810,18 +71810,18 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 
 function LocationModal() {
-  var _useState = Object(react__WEBPACK_IMPORTED_MODULE_1__["useState"])(''),
+  var _useState = Object(react__WEBPACK_IMPORTED_MODULE_1__["useState"])(""),
       zipcode = _useState[0],
       setZipcode = _useState[1];
 
   var handleZipCode = function handleZipCode() {
-    Object(helper_session__WEBPACK_IMPORTED_MODULE_5__["setCookie"])('zip_code', zipcode);
+    Object(helper_session__WEBPACK_IMPORTED_MODULE_5__["setCookie"])("zip_code", zipcode);
     Object(_redq_reuse_modal__WEBPACK_IMPORTED_MODULE_2__["closeModal"])();
   };
 
   Object(react__WEBPACK_IMPORTED_MODULE_1__["useEffect"])(function () {
-    if (!Object(helper_session__WEBPACK_IMPORTED_MODULE_5__["getCookie"])('first_visit')) {
-      Object(helper_session__WEBPACK_IMPORTED_MODULE_5__["setCookie"])('first_visit', true);
+    if (!Object(helper_session__WEBPACK_IMPORTED_MODULE_5__["getCookie"])("first_visit")) {
+      Object(helper_session__WEBPACK_IMPORTED_MODULE_5__["setCookie"])("first_visit", true);
     }
   }, []);
   return __jsx(_LocationModal_style__WEBPACK_IMPORTED_MODULE_6__["Wrapper"], {
@@ -71891,7 +71891,7 @@ function LocationModal() {
   }), __jsx(_LocationModal_style__WEBPACK_IMPORTED_MODULE_6__["Button"], {
     fullwidth: true // radius={100}
     ,
-    title: 'Continue',
+    title: "Continue",
     onClick: handleZipCode,
     __source: {
       fileName: _jsxFileName,
@@ -72013,7 +72013,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var components_NoResult_NoResult__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! components/NoResult/NoResult */ "./components/NoResult/NoResult.tsx");
 
 
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/containers/Products/Products.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/containers/Products/Products.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement;
 
 function _templateObject() {
@@ -72399,7 +72399,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/containers/Sidebar/Sidebar.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/containers/Sidebar/Sidebar.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement;
 
 function ownKeys(object, enumerableOnly) { var keys = _babel_runtime_corejs2_core_js_object_keys__WEBPACK_IMPORTED_MODULE_5___default()(object); if (_babel_runtime_corejs2_core_js_object_get_own_property_symbols__WEBPACK_IMPORTED_MODULE_4___default.a) { var symbols = _babel_runtime_corejs2_core_js_object_get_own_property_symbols__WEBPACK_IMPORTED_MODULE_4___default()(object); if (enumerableOnly) symbols = symbols.filter(function (sym) { return _babel_runtime_corejs2_core_js_object_get_own_property_descriptor__WEBPACK_IMPORTED_MODULE_3___default()(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }
@@ -72829,7 +72829,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "../../node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/contexts/create-context.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/contexts/create-context.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 function useCreateContext(defaultValue, reducer) {
@@ -73013,7 +73013,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/helper/apollo.js";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/helper/apollo.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_10___default.a.createElement;
 
 function ownKeys(object, enumerableOnly) { var keys = _babel_runtime_corejs2_core_js_object_keys__WEBPACK_IMPORTED_MODULE_5___default()(object); if (_babel_runtime_corejs2_core_js_object_get_own_property_symbols__WEBPACK_IMPORTED_MODULE_4___default.a) { var symbols = _babel_runtime_corejs2_core_js_object_get_own_property_symbols__WEBPACK_IMPORTED_MODULE_4___default()(object); if (enumerableOnly) symbols = symbols.filter(function (sym) { return _babel_runtime_corejs2_core_js_object_get_own_property_descriptor__WEBPACK_IMPORTED_MODULE_3___default()(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }
@@ -73869,7 +73869,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var image_grocery_png__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! image/grocery.png */ "./image/grocery.png");
 /* harmony import */ var image_grocery_png__WEBPACK_IMPORTED_MODULE_15___default = /*#__PURE__*/__webpack_require__.n(image_grocery_png__WEBPACK_IMPORTED_MODULE_15__);
 /* harmony import */ var constants_storeType__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! constants/storeType */ "./constants/storeType.ts");
-var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/pickbazar/packages/shop/pages/index.tsx";
+var _jsxFileName = "/Users/ad/Downloads/Pickbazar - React GraphQL Ecommerce Template/Fashion-Shop-Web/packages/shop/pages/index.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -73889,7 +73889,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
 
-var PAGE_TYPE = 'grocery';
+var PAGE_TYPE = "grocery";
 
 function HomePage(_ref) {
   var deviceType = _ref.deviceType;
@@ -73900,19 +73900,19 @@ function HomePage(_ref) {
 
   react__WEBPACK_IMPORTED_MODULE_0___default.a.useEffect(function () {
     var modalTimer = setTimeout(function () {
-      if (!Object(components_helpers_session__WEBPACK_IMPORTED_MODULE_12__["getCookie"])('zip_code') && !Object(components_helpers_session__WEBPACK_IMPORTED_MODULE_12__["getCookie"])('first_visit')) {
+      if (!Object(components_helpers_session__WEBPACK_IMPORTED_MODULE_12__["getCookie"])("zip_code") && !Object(components_helpers_session__WEBPACK_IMPORTED_MODULE_12__["getCookie"])("first_visit")) {
         Object(_redq_reuse_modal__WEBPACK_IMPORTED_MODULE_10__["openModal"])({
           show: true,
-          overlayClassName: 'quick-view-overlay',
+          overlayClassName: "quick-view-overlay",
           closeOnClickOutside: true,
           component: containers_LocationModal_LocationModal__WEBPACK_IMPORTED_MODULE_11__["default"],
           // closeComponent: "div",
           config: {
             enableResizing: false,
             disableDragging: true,
-            className: 'quick-view-modal',
+            className: "quick-view-modal",
             width: 458,
-            height: 'auto'
+            height: "auto"
           }
         });
       }
@@ -73925,7 +73925,7 @@ function HomePage(_ref) {
     if ((query.text || query.category) && targetRef.current) {
       window.scrollTo({
         top: targetRef.current.offsetTop - 110,
-        behavior: 'smooth'
+        behavior: "smooth"
       });
     }
   }, [query]);
@@ -73985,7 +73985,7 @@ function HomePage(_ref) {
     __self: this
   }, __jsx("div", {
     style: {
-      margin: '0 -10px'
+      margin: "0 -10px"
     },
     __source: {
       fileName: _jsxFileName,
@@ -74071,7 +74071,7 @@ function HomePage(_ref) {
     __self: this
   }, __jsx("div", {
     style: {
-      margin: '0px'
+      margin: "0px"
     },
     __source: {
       fileName: _jsxFileName,
@@ -74088,7 +74088,7 @@ function HomePage(_ref) {
     __self: this
   }))), __jsx(styled_pages_style__WEBPACK_IMPORTED_MODULE_13__["ContentSection"], {
     style: {
-      width: '100%'
+      width: "100%"
     },
     __source: {
       fileName: _jsxFileName,
@@ -74186,13 +74186,13 @@ var ProductsCol = styled_components__WEBPACK_IMPORTED_MODULE_0__["default"].div.
 /***/ }),
 
 /***/ 6:
-/*!*****************************************************************************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fad%2FDownloads%2FPickbazar%20-%20React%20GraphQL%20Ecommerce%20Template%2Fpickbazar%2Fpackages%2Fshop%2Fpages%2Findex.tsx ***!
-  \*****************************************************************************************************************************************************************************************************/
+/*!************************************************************************************************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fad%2FDownloads%2FPickbazar%20-%20React%20GraphQL%20Ecommerce%20Template%2FFashion-Shop-Web%2Fpackages%2Fshop%2Fpages%2Findex.tsx ***!
+  \************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fad%2FDownloads%2FPickbazar%20-%20React%20GraphQL%20Ecommerce%20Template%2Fpickbazar%2Fpackages%2Fshop%2Fpages%2Findex.tsx! */"../../node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fad%2FDownloads%2FPickbazar%20-%20React%20GraphQL%20Ecommerce%20Template%2Fpickbazar%2Fpackages%2Fshop%2Fpages%2Findex.tsx!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fad%2FDownloads%2FPickbazar%20-%20React%20GraphQL%20Ecommerce%20Template%2FFashion-Shop-Web%2Fpackages%2Fshop%2Fpages%2Findex.tsx! */"../../node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fad%2FDownloads%2FPickbazar%20-%20React%20GraphQL%20Ecommerce%20Template%2FFashion-Shop-Web%2Fpackages%2Fshop%2Fpages%2Findex.tsx!./");
 
 
 /***/ }),
